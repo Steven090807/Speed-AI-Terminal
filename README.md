@@ -1,6 +1,6 @@
-# Speed-AI-Terminal
+# Speed.AI Terminal &nbsp;&nbsp;(🎓 School Project)
 
-<h3>🚀 Getting Started To enjoy the full interactive experience of SPEED.AI, follow these steps:</h3>
+<h3>🚀 Getting Started To enjoy the full interactive experience of SPEED.AI, follow these three steps:</h3>
 
 1. Prerequisites<br>
 Ensure you have Python 3.x and Pandas installed. You can install the required library using:
@@ -22,3 +22,9 @@ To ensure the ASCII Art and the Turbo Electro Menu render correctly without brea
 
 <h1>✅ With Sidebar Closed</h1><br>
 <img width="1917" height="773" alt="image" src="https://github.com/user-attachments/assets/8571f80f-0297-4d7e-b109-2e1564361a19" />
+
+---
+<div align="right">
+  <span>🛠️ Project created by 2025-09-03</span><br>
+    School Project
+</div>
