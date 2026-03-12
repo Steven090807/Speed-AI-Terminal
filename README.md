@@ -26,5 +26,4 @@ To ensure the ASCII Art and the Turbo Electro Menu render correctly without brea
 ---
 <div align="right">
   <span>🛠️ Project created by 2025-09-03</span><br>
-    School Project
 </div>
