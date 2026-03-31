@@ -1,6 +1,7 @@
 <h1>
   Speed.AI Terminal &nbsp;&nbsp;(🎓 School Project) &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" style="vertical-align: middle;">
 </h1>
 <br>
 <h3>🚀 Getting Started To enjoy the full interactive experience of SPEED.AI, follow these three steps:</h3>
@@ -21,10 +22,11 @@ To ensure the ASCII Art and the Turbo Electro Menu render correctly without brea
      </ul><br><br>
 
 <h1>❌ With Sidebar Open</h1><br>
-<img width="1634" height="749" alt="image" src="https://github.com/user-attachments/assets/ca02a432-4e93-412e-927e-faa88a1308b3" /><br><br>
+<img width="1640" height="1003" alt="image" src="https://github.com/user-attachments/assets/21354cf4-5901-4d47-afe5-a64b7892cc2a" />
+<br><br>
 
 <h1>✅ With Sidebar Closed</h1><br>
-<img width="1917" height="773" alt="image" src="https://github.com/user-attachments/assets/8571f80f-0297-4d7e-b109-2e1564361a19" />
+<img width="1640" height="987" alt="image" src="https://github.com/user-attachments/assets/06dc2840-eb49-4397-b41d-c19b3af12752" />
 <br><br><br>
 
 
@@ -34,5 +36,3 @@ To ensure the ASCII Art and the Turbo Electro Menu render correctly without brea
 
 > **Degree Project** &nbsp; | &nbsp; Completed on Aug 20, 2025  
 > *Developed with passion for Software Engineering.*
-
-
