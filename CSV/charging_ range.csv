@@ -1,0 +1,11 @@
+Car_Model,Range,Battery_Capacity,Usable_Battery,Charging_Speed,Charging_Power(DC),Year
+Tesla Model Y,346 miles,78.1 kWh,75.0 kWh,27 Minutes (250 kW),250 KW,2025
+Rimac Nevera,204 miles,120.0 kWh,106.8 kWh,25 Minutes (350 kW),500 KW,2025
+Audi SQ6 e-tron,315 miles ,100.0 kWh,95.0 kWh,21 Minutes (270 kW),270 KW,2025
+Kia EV9,230 miles,76.1 kWh,73.0 kWh,20 Minutes (210 kW),236 KW,2025
+Lotus Eletre,315 miles,111.9 kWh,109.0 kWh,20 Minutes (350 kW),240 KW,2025
+Kia EV6 ,310 miles,84.0 kWh,80.0 kWh,18 Minutes (263 kW),240 KW,2025
+Genesis GV60 ,361 miles,77.4 kWh,74.0 kWh,18 Minutes (233 kW),350 KW,2025
+Lotus Emeya,256 miles,102.0 kWh,98.9 kWh,18 Minutes (350 kW),350 KW,2025
+Porsche Taycan ,318 miles ,105.0 kWh,97.0 kWh,18 Minutes (320 kW),270 KW,2025
+Genesis Electrified GV70,236 miles,77.4 kWh,74.0 kWh,17 Minutes (233 kW),,2025

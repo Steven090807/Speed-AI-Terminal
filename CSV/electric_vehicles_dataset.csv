@@ -1,0 +1,3023 @@
+Car Make,Car Model,Year,Battery_Type,Price_USD,Country
+Acura,ZDX (with GM Ultium),2015,Lithium-titanate,111203.94,UK
+Lamborghini,Revuelto (PHEV),2025,Lithium-titanate,127131.65,Netherlands
+NIO,ET7,2020,Calcium-ion,94347.37,UK
+Audi,e-tron,2025,Lithium-iron phosphate,75615.15,Argentina
+Acura,ZDX (with GM Ultium),2023,Lithium-titanate,141046.94,UAE
+XPeng,G9,2016,Lithium-iron phosphate,89907.75,Australia
+Jeep,Recon (upcoming),2024,Nickel-cobalt-aluminum,35653.97,Sweden
+Changan,Q05,2019,Lead-acid,94436.44,Mexico
+Citroen,?-C4,2023,Aluminum-ion,90919.55,Sweden
+Rimac,Nevera,2015,Solid-state,58904.59,UK
+Volkswagen,ID.Buzz,2022,Lead-acid,141469.62,Denmark
+Jaguar,I-PACE,2018,Solid-state,30862.9,South Korea
+Mini,Mini Cooper SE,2018,Lead-acid,86756.75,Denmark
+BMW,iX3,2025,Flow batteries,43112.28,Denmark
+Faraday Future,FF 91,2015,Flow batteries,141164.04,Belgium
+Tesla,Model Y,2019,Aluminum-ion,144878.12,UAE
+Maserati,Grecale Folgore,2020,Lithium-ion,90939.42,Norway
+Polestar,Polestar 2,2024,Solid-state,54511.1,Hungary
+Tesla,Model Y,2024,Zinc-air,45894.79,China
+Faraday Future,FF 91,2025,Calcium-ion,46114.93,France
+Skoda,Elroq (upcoming),2019,Lead-acid,80829.09,Japan
+Geely,Emgrand EV,2021,Lead-acid,130151.4,UAE
+Skoda,Enyaq,2025,Solid-state,119937.31,Netherlands
+Faraday Future,FF 91,2019,Nickel-metal hydride,133031.19,Denmark
+Mini,Mini Electric,2021,Sodium-ion,91128.68,Saudi Arabia
+Chevrolet,Bolt EV,2024,Nickel-cobalt-aluminum,148108.3,India
+Skoda,Elroq (upcoming),2025,Lithium-iron phosphate,109606.5,Poland
+Lucid Motors,Lucid Gravity,2025,Nickel-cobalt-aluminum,66113.98,USA
+Geely,Geometry C,2025,Lithium-iron phosphate,64054.37,Finland
+Chevrolet,Bolt EUV,2022,Zinc-air,105571.85,India
+Porsche,Cayenne Electric (upcoming),2015,Lead-acid,126169.99,South Africa
+Lamborghini,Lanzador (upcoming EV),2017,Lithium-titanate,130783.55,South Africa
+Toyota,Lexus RZ,2020,Aluminum-ion,113273.98,Switzerland
+Li Auto,MEGA,2024,Lithium-titanate,143129,India
+Volvo,EX30,2021,Nickel-manganese-cobalt,130860.68,Finland
+Changan,SL03,2015,Lithium-sulfur,121347.56,Portugal
+Maserati,Grecale Folgore,2020,Lithium-iron phosphate,143953.41,Germany
+Seat,Avenger,2020,Nickel-metal hydride,49651.9,France
+Lucid Motors,Lucid Air,2024,Lithium-titanate,66189.92,Ireland
+MG,MG5 EV,2015,Calcium-ion,73462.56,Australia
+Faraday Future,FF 91,2022,Nickel-cobalt-aluminum,59459.42,Portugal
+Nissan,Ariya,2020,Nickel-metal hydride,135638.4,Portugal
+Lamborghini,Revuelto (PHEV),2022,Flow batteries,56591.57,Belgium
+Lamborghini,Lanzador (upcoming EV),2020,Lithium-titanate,116554.12,Canada
+Jeep,Wagoneer S,2016,Calcium-ion,31697.8,Italy
+Tesla,Cybertruck,2019,Nickel-manganese-cobalt,60297.41,Canada
+Ford,E-Transit,2016,Lithium-iron phosphate,124888.9,South Africa
+GMC,Hummer EV Pickup,2024,Lithium-titanate,61757.54,Netherlands
+Cadillac,Celestiq,2019,Lithium-ion,84483.76,Austria
+Maserati,Grecale Folgore,2025,Nickel-metal hydride,49910.73,Ireland
+XPeng,G9,2023,Lead-acid,118144.07,Spain
+Citroen,Ami,2019,Zinc-air,108181.14,Norway
+Li Auto,L9,2020,Flow batteries,89456.28,Thailand
+Jaguar,I-PACE,2023,Calcium-ion,52509.9,Finland
+Volkswagen,ID.5,2022,Aluminum-ion,103064.6,Netherlands
+Jaguar,I-PACE,2022,Aluminum-ion,87899.95,Belgium
+Toyota,Lexus RZ,2020,Aluminum-ion,65826.7,Israel
+Lamborghini,Lanzador (upcoming EV),2022,Aluminum-ion,58027.49,Indonesia
+VinFast,VF 7,2022,Lithium-ion,134902.84,France
+Great Wall Motors,ORA Lightning Cat,2020,Zinc-air,132280.96,Saudi Arabia
+GMC,Hummer EV Pickup,2018,Flow batteries,82076.58,France
+Mazda,Mazda EV (upcoming models),2020,Nickel-cobalt-aluminum,125102.34,Norway
+Ford,F-150 Lightning,2022,Flow batteries,85830.39,Saudi Arabia
+Honda,Honda Prologue,2019,Lithium-iron phosphate,75763.72,Singapore
+Tesla,Cybertruck,2025,Magnesium-ion,138352.19,Austria
+Kia,Soul EV,2019,Magnesium-ion,40816.01,Hungary
+Toyota,bZ4X,2019,Aluminum-ion,70645.83,Australia
+BYD,Han EV,2021,Lithium-ion,119881.39,Israel
+GMC,Hummer EV SUV,2024,Lithium-iron phosphate,66262.82,Canada
+Polestar,Polestar 3,2021,Nickel-manganese-cobalt,117191.9,France
+Geely,Geometry C,2018,Calcium-ion,147341.1,South Korea
+Rivian,EDV (Electric Delivery Van),2025,Zinc-air,45110.87,Switzerland
+Opel,Corsa-e,2024,Lithium-ion,125821.66,Germany
+Porsche,Panamera EV,2015,Nickel-metal hydride,87149.52,Argentina
+VinFast,VFe34 (discontinued),2019,Nickel-manganese-cobalt,131675.83,France
+Audi,e-tron GT,2019,Zinc-air,101687.02,Australia
+Rivian,R1S,2022,Aluminum-ion,117553.5,Vietnam
+Hyundai,Kona Electric,2021,Solid-state,100375.81,UAE
+Cadillac,Celestiq,2020,Solid-state,56909.38,Brazil
+Opel,Grandland Electric,2024,Flow batteries,62792.45,Poland
+Ford,Mustang Mach-E,2016,Lithium-titanate,48889.11,Hungary
+BMW,iX3,2016,Lithium-sulfur,79702.05,Turkey
+Lotus,Evija,2019,Lithium-ion,66170.32,Italy
+Volkswagen,ID.6,2023,Lithium-titanate,133411.72,Vietnam
+XPeng,P5,2019,Solid-state,143713.72,Argentina
+Hyundai,Ioniq 7 (upcoming),2019,Lithium-titanate,105986.96,Turkey
+Kia,Niro EV,2019,Lithium-iron phosphate,122741.77,Australia
+Rimac,Nevera,2022,Solid-state,100970.37,Turkey
+Audi,e-tron,2024,Zinc-air,127177.91,Denmark
+Dacia,Jogger Hybrid,2023,Flow batteries,92888.23,Netherlands
+VinFast,VF 8,2016,Sodium-ion,116848.04,Ireland
+Seat,Avenger,2017,Zinc-air,107219.19,Italy
+BYD,Han EV,2020,Lithium-sulfur,88352.51,Italy
+Mini,Mini Cooper SE,2024,Nickel-metal hydride,113141.48,Netherlands
+Mazda,Mazda EV (upcoming models),2018,Lead-acid,53281.94,Singapore
+Mercedes-Benz,EQB,2024,Nickel-metal hydride,96544.89,South Africa
+Zeekr,Zeekr 001,2018,Calcium-ion,77574.48,Belgium
+Genesis,GV80 Electric,2017,Nickel-metal hydride,46655.12,New Zealand
+Lamborghini,Lanzador (upcoming EV),2016,Magnesium-ion,80379.07,Finland
+MG,MG4 Electric,2017,Lithium-sulfur,79988.11,UK
+Nissan,Ariya,2022,Lithium-ion,72851.27,Brazil
+Chevrolet,Volt (PHEV),2023,Sodium-ion,87423.74,Italy
+VinFast,VF 7,2015,Sodium-ion,95163.68,Japan
+Jaguar,I-PACE,2021,Aluminum-ion,52418.07,Russia
+Zeekr,Zeekr X,2023,Lithium-sulfur,66779.5,Vietnam
+Zeekr,Zeekr 009,2025,Magnesium-ion,126131.52,Netherlands
+Audi,e-tron GT,2025,Sodium-ion,111487.45,Argentina
+Toyota,bZ4X,2016,Lithium-ion,44131.32,Spain
+Volkswagen,ID.2all,2016,Nickel-manganese-cobalt,127261.59,Hungary
+Dacia,Jogger Hybrid,2020,Lead-acid,89282.63,UAE
+Subaru,Solterra,2022,Lead-acid,68043.32,Malaysia
+Opel,Corsa-e,2021,Lead-acid,66494.95,Hungary
+Lucid Motors,Lucid DreamDrive,2023,Lithium-sulfur,50236.31,Sweden
+Hyundai,Kona Electric,2025,Magnesium-ion,79990.41,Germany
+Faraday Future,FF 91,2019,Nickel-manganese-cobalt,88110.14,Mexico
+Citroen,?-Spacetourer,2023,Lead-acid,83951.52,France
+Canoo,Pickup,2024,Lithium-titanate,91766.98,Poland
+Fisker,Ocean,2015,Lithium-sulfur,30981.29,Vietnam
+XPeng,P7,2024,Lead-acid,90510.66,UAE
+VinFast,VF 8,2023,Sodium-ion,35436.4,Mexico
+GMC,Hummer EV SUV,2017,Nickel-cobalt-aluminum,90877.8,Saudi Arabia
+Jaguar,I-PACE,2024,Lithium-sulfur,61863.65,Israel
+Canoo,MPDV,2018,Lithium-ion,82924.63,Sweden
+Volkswagen,ID.7,2018,Lead-acid,67650.31,Australia
+Great Wall Motors,ORA Good Cat,2018,Lithium-sulfur,114588.11,Russia
+Jaguar,I-PACE,2021,Calcium-ion,64515.64,UK
+Toyota,Lexus UX 300e,2019,Nickel-metal hydride,110380.08,Austria
+Opel,Corsa-e,2015,Lead-acid,135677.69,New Zealand
+Maserati,Grecale Folgore,2017,Nickel-cobalt-aluminum,77639.35,Norway
+Kia,EV6,2019,Nickel-manganese-cobalt,46103.99,Australia
+Porsche,Taycan,2020,Magnesium-ion,132737.58,Vietnam
+Rimac,Nevera,2015,Lithium-sulfur,66233.5,Singapore
+Subaru,Solterra,2021,Flow batteries,106645.36,Argentina
+Li Auto,MEGA,2023,Magnesium-ion,101497.74,UK
+BMW,iX1,2023,Lithium-iron phosphate,92440.98,Switzerland
+MG,MG ES5,2022,Zinc-air,77513.85,USA
+BMW,i3,2022,Lithium-ion,147399.99,Indonesia
+Skoda,Elroq (upcoming),2023,Nickel-metal hydride,94471.02,Italy
+Renault,Kangoo E-Tech,2023,Nickel-cobalt-aluminum,63077.97,Canada
+Audi,e-tron,2024,Lithium-ion,35308.41,Austria
+Ferrari,Ferrari EV (2025+),2025,Calcium-ion,92550.13,Poland
+Mahindra,XUV400,2020,Flow batteries,78991.1,India
+BMW,iX1,2021,Nickel-cobalt-aluminum,54400.41,UK
+NIO,ET5,2016,Lithium-iron phosphate,134336.86,Poland
+Citroen,?-Spacetourer,2018,Lithium-titanate,96249.52,Czech Republic
+Changan,SL03,2022,Magnesium-ion,79671.62,Austria
+Ford,F-150 Lightning,2020,Lithium-iron phosphate,108552.96,Mexico
+Renault,Scenic E-Tech,2017,Nickel-metal hydride,95056.42,South Korea
+Acura,ZDX (with GM Ultium),2016,Lithium-titanate,104140.23,Finland
+Tesla,Model S,2023,Lithium-titanate,127578.87,Vietnam
+Lucid Motors,Lucid DreamDrive,2023,Lithium-sulfur,145115.74,Singapore
+XPeng,P5,2021,Lead-acid,39922.33,Vietnam
+Volvo,C40 Recharge,2024,Nickel-manganese-cobalt,63644.76,Singapore
+Citroen,Ami,2021,Aluminum-ion,131933.09,Saudi Arabia
+Peugeot,e-3008,2015,Solid-state,122280.68,Thailand
+Fisker,Pear (upcoming),2021,Nickel-metal hydride,104233.91,Belgium
+NIO,ES8,2020,Solid-state,121361.58,Italy
+Nissan,Leaf,2020,Lead-acid,31480.87,India
+Mercedes-Benz,EQS SUV,2017,Nickel-metal hydride,50064.89,Indonesia
+GMC,Hummer EV Pickup,2022,Solid-state,104423.06,Mexico
+Rimac,Nevera,2022,Sodium-ion,113394.93,Singapore
+Ferrari,SF90 Stradale (PHEV),2024,Lead-acid,85394.67,Switzerland
+Mahindra,XUV400,2025,Lithium-sulfur,124689.21,Malaysia
+Chevrolet,Volt (PHEV),2023,Zinc-air,108912.2,Netherlands
+VinFast,VF 9,2016,Lithium-ion,76936.1,Israel
+Li Auto,L7,2016,Calcium-ion,84639.92,South Africa
+Subaru,Solterra,2016,Lithium-ion,49722.49,Belgium
+Acura,ZDX (with GM Ultium),2017,Flow batteries,135971.68,Israel
+Kia,Niro EV,2020,Sodium-ion,88738.08,Hungary
+Porsche,Panamera EV,2024,Zinc-air,66645.6,Argentina
+Porsche,Cayenne Electric (upcoming),2025,Lead-acid,88757.04,Norway
+Lucid Motors,Lucid Gravity,2023,Lead-acid,130787.02,Netherlands
+Volvo,EX30,2017,Magnesium-ion,43585.32,Portugal
+Rivian,R1S,2016,Lithium-titanate,149917.52,Spain
+Jeep,Wagoneer S,2024,Flow batteries,127623.58,South Korea
+Ferrari,Roma PHEV,2023,Aluminum-ion,124282.93,Portugal
+Citroen,Ami,2021,Nickel-manganese-cobalt,75020.68,UK
+Rimac,Nevera,2016,Lithium-titanate,125481.35,Switzerland
+Ferrari,SF90 Stradale (PHEV),2024,Calcium-ion,105141.54,Australia
+Lucid Motors,Lucid DreamDrive,2017,Aluminum-ion,73252.25,Argentina
+Genesis,GV60,2016,Lithium-ion,92333.31,USA
+Audi,e-tron GT,2021,Solid-state,135718.68,India
+Tesla,Cybertruck,2025,Nickel-metal hydride,48164.9,Finland
+NIO,ES8,2021,Sodium-ion,59780.04,Ireland
+Lotus,Evija,2023,Lithium-iron phosphate,125253.36,Russia
+Rimac,Nevera,2021,Calcium-ion,50732.44,China
+MG,MG5 EV,2025,Lithium-titanate,39891.34,Saudi Arabia
+Maserati,GranTurismo Folgore,2021,Zinc-air,82498.33,Belgium
+Subaru,Solterra,2016,Lithium-ion,144361.94,South Africa
+Jaguar,I-PACE,2020,Magnesium-ion,147006.07,China
+Mercedes-Benz,EQA,2016,Aluminum-ion,91058.99,USA
+Faraday Future,FF 91,2018,Sodium-ion,39346.45,Canada
+Changan,Deepal S07,2019,Sodium-ion,64991.41,Poland
+Maserati,Grecale Folgore,2017,Lithium-ion,106313.02,USA
+Rivian,EDV (Electric Delivery Van),2018,Nickel-cobalt-aluminum,41163.2,South Africa
+Volkswagen,ID.Buzz,2021,Solid-state,45684.99,Spain
+Volvo,XC40 Recharge,2018,Nickel-metal hydride,49725,Hungary
+Honda,e:Ny1,2016,Nickel-metal hydride,132788.79,UK
+Canoo,Lifestyle Vehicle,2015,Nickel-cobalt-aluminum,42228.88,Italy
+Canoo,Pickup,2020,Flow batteries,61058.48,China
+Faraday Future,FF 91,2016,Lithium-ion,81978.77,Thailand
+Toyota,Lexus RZ,2017,Lithium-ion,89866.99,New Zealand
+Acura,ZDX (with GM Ultium),2021,Magnesium-ion,97878.13,India
+Lotus,Emeya,2024,Lithium-iron phosphate,61983.24,South Korea
+Porsche,Macan EV,2024,Sodium-ion,33384.79,Brazil
+Porsche,Cayenne Electric (upcoming),2015,Solid-state,87358.68,Finland
+Ford,F-150 Lightning,2016,Calcium-ion,143030.79,Israel
+Mahindra,Born Electric (upcoming range),2017,Lithium-titanate,100674.02,India
+Opel,Grandland Electric,2015,Nickel-metal hydride,42493.23,Sweden
+Mini,Mini Aceman,2020,Nickel-manganese-cobalt,72057.74,France
+NIO,ES8,2023,Nickel-cobalt-aluminum,38845.13,Japan
+Mercedes-Benz,EQS,2023,Aluminum-ion,81758.8,Netherlands
+Seat,Avenger,2025,Lithium-sulfur,95959.52,Sweden
+Lucid Motors,Lucid Air,2015,Lithium-iron phosphate,43861.07,Thailand
+NIO,ES8,2017,Nickel-manganese-cobalt,130449.45,South Korea
+Li Auto,L8,2023,Lithium-ion,112448.15,Singapore
+Ferrari,Ferrari EV (2025+),2024,Flow batteries,83884.77,Switzerland
+Canoo,MPDV,2017,Calcium-ion,96763.7,Hungary
+VinFast,VF 9,2016,Nickel-cobalt-aluminum,97522.05,Czech Republic
+Cadillac,Celestiq,2015,Nickel-metal hydride,136748.91,Belgium
+Canoo,Pickup,2019,Lithium-sulfur,57354.89,Malaysia
+Geely,Geometry A,2021,Lithium-titanate,91832.36,China
+Porsche,Macan EV,2018,Calcium-ion,73245.01,Portugal
+BYD,Dolphin,2024,Nickel-manganese-cobalt,71971.19,Spain
+Ferrari,SF90 Stradale (PHEV),2018,Flow batteries,91593.75,USA
+Cadillac,Celestiq,2025,Lithium-sulfur,56185.09,South Africa
+Genesis,GV80 Electric,2019,Flow batteries,106871.37,Spain
+XPeng,G9,2025,Nickel-metal hydride,61131.15,Thailand
+Dacia,Jogger Hybrid,2025,Lead-acid,131450.31,UAE
+Skoda,Enyaq Coupe,2025,Solid-state,136421.23,Spain
+GMC,Hummer EV Pickup,2022,Aluminum-ion,79572.87,Sweden
+Rimac,Nevera,2016,Nickel-manganese-cobalt,30565.62,Switzerland
+Zeekr,Zeekr 007,2021,Nickel-cobalt-aluminum,53929.71,USA
+Seat,Avenger,2019,Nickel-metal hydride,128861.26,Czech Republic
+Mahindra,Born Electric (upcoming range),2018,Nickel-metal hydride,56918.56,Switzerland
+Acura,ZDX (with GM Ultium),2023,Zinc-air,32369.01,Canada
+Seat,Avenger,2019,Nickel-cobalt-aluminum,114087.16,France
+Cadillac,Lyriq,2019,Calcium-ion,65442.14,UAE
+Mini,Mini Electric,2016,Calcium-ion,123543.15,France
+BMW,i3,2017,Calcium-ion,67524.85,Canada
+Genesis,GV70 Electric,2020,Sodium-ion,41154.16,Mexico
+Genesis,GV70 Electric,2016,Nickel-metal hydride,139347.21,Singapore
+Renault,5 E-Tech,2022,Aluminum-ion,37600.33,Hungary
+Ferrari,SF90 Stradale (PHEV),2025,Calcium-ion,117198.24,Brazil
+Genesis,GV70 Electric,2023,Calcium-ion,88997.76,Mexico
+Hyundai,Ioniq 7 (upcoming),2022,Magnesium-ion,44244.82,Germany
+GMC,Hummer EV SUV,2023,Lead-acid,73601.1,Austria
+Geely,Geometry A,2016,Magnesium-ion,106039.34,Czech Republic
+Volkswagen,ID.2all,2021,Solid-state,132263.32,Australia
+Skoda,Elroq (upcoming),2016,Magnesium-ion,30520.52,South Korea
+Jeep,Grand Cherokee 4xe (PHEV),2017,Solid-state,76159.52,Belgium
+Cadillac,Optiq (upcoming),2023,Lithium-sulfur,142261.45,Switzerland
+Genesis,GV70 Electric,2023,Lead-acid,97473.63,Singapore
+Faraday Future,FF 91,2023,Solid-state,53988.29,Netherlands
+Citroen,Ami,2015,Sodium-ion,97352.47,Turkey
+VinFast,VF 8,2023,Lithium-ion,123710.99,Austria
+Cadillac,Lyriq,2018,Lithium-sulfur,50855.42,Canada
+Tesla,Model X,2022,Lithium-titanate,101625.64,Finland
+Rimac,Nevera,2017,Lead-acid,94444.31,Brazil
+Lotus,Emeya,2023,Calcium-ion,71520.87,Finland
+NIO,ES7,2023,Lithium-titanate,91048.27,Japan
+Maserati,Grecale Folgore,2025,Solid-state,80905.13,Switzerland
+Skoda,Enyaq,2015,Nickel-manganese-cobalt,51359.06,UAE
+Acura,ZDX (with GM Ultium),2021,Sodium-ion,106970.73,China
+Mazda,Mazda EV (upcoming models),2024,Solid-state,128654.68,New Zealand
+Ford,E-Transit,2025,Aluminum-ion,31338.02,Sweden
+Subaru,Solterra,2020,Lithium-iron phosphate,56494.56,Spain
+Genesis,GV60,2019,Flow batteries,88462.85,Brazil
+Rimac,Nevera,2022,Sodium-ion,73739.21,Vietnam
+BYD,Tang EV,2025,Lithium-titanate,122972.04,UAE
+Maserati,Grecale Folgore,2019,Lithium-titanate,131950.47,Germany
+Maserati,GranTurismo Folgore,2025,Magnesium-ion,100752.09,Czech Republic
+Tesla,Roadster (upcoming),2018,Calcium-ion,46844.48,Norway
+Chevrolet,Bolt EUV,2022,Lithium-iron phosphate,54812.89,Argentina
+Dacia,Bigster EV (upcoming),2019,Zinc-air,73835.61,China
+Mahindra,Born Electric (upcoming range),2024,Lithium-ion,39250.59,Portugal
+Faraday Future,FF 91,2016,Nickel-manganese-cobalt,107671.11,Germany
+Ferrari,SF90 Stradale (PHEV),2015,Nickel-metal hydride,97632.56,Czech Republic
+Li Auto,L8,2024,Calcium-ion,112270.94,Ireland
+MG,MG ES5,2017,Zinc-air,93771.59,Canada
+Genesis,G80 Electric,2023,Nickel-cobalt-aluminum,126276.02,India
+Volkswagen,ID.5,2022,Magnesium-ion,135211.96,Spain
+Lotus,Eletre,2021,Flow batteries,42789.99,Israel
+Li Auto,MEGA,2017,Sodium-ion,99318.14,Thailand
+Rivian,EDV (Electric Delivery Van),2021,Magnesium-ion,145748.43,UK
+BYD,Han EV,2024,Lithium-ion,92520.67,Ireland
+Lucid Motors,Lucid DreamDrive,2023,Lithium-sulfur,110882.93,Belgium
+XPeng,P5,2024,Lithium-iron phosphate,95951.12,UAE
+Changan,Deepal S07,2024,Lithium-ion,90380.3,Canada
+Geely,Geometry C,2024,Nickel-manganese-cobalt,85061.81,Israel
+Seat,Avenger,2020,Nickel-cobalt-aluminum,61601.96,UK
+Rimac,Nevera,2018,Aluminum-ion,53959.98,Belgium
+Opel,Corsa-e,2016,Aluminum-ion,121709.31,Japan
+Porsche,Panamera EV,2021,Lithium-iron phosphate,80781.1,Japan
+Lotus,Emeya,2020,Lithium-titanate,42089.74,Finland
+Porsche,Cayenne Electric (upcoming),2021,Lithium-iron phosphate,78071.11,Norway
+Lamborghini,Lanzador (upcoming EV),2021,Lithium-iron phosphate,31169.07,Russia
+Subaru,Solterra,2023,Calcium-ion,37204.37,Spain
+Lamborghini,Lanzador (upcoming EV),2020,Lithium-ion,107983.86,Norway
+NIO,ES7,2022,Flow batteries,141428,Finland
+Mazda,Mazda EV (upcoming models),2024,Flow batteries,142652.38,Israel
+Polestar,Polestar 4,2016,Lithium-iron phosphate,135442.92,South Korea
+GMC,Hummer EV Pickup,2016,Flow batteries,118511.19,Italy
+Great Wall Motors,ORA Lightning Cat,2023,Aluminum-ion,113714.75,Israel
+Acura,ZDX (with GM Ultium),2020,Nickel-manganese-cobalt,73894,Sweden
+Great Wall Motors,ORA Ballet Cat,2015,Lithium-titanate,121904.3,Czech Republic
+Polestar,Polestar 3,2025,Nickel-cobalt-aluminum,105038.76,Finland
+Lucid Motors,Lucid Air,2017,Nickel-metal hydride,62656.1,Russia
+Mazda,Mazda EV (upcoming models),2017,Lithium-titanate,31766.98,Mexico
+Citroen,?-C4,2015,Lithium-sulfur,137483.88,India
+Peugeot,e-208,2018,Nickel-manganese-cobalt,111773.08,Hungary
+Great Wall Motors,ORA Ballet Cat,2019,Lithium-iron phosphate,58315.9,Hungary
+Chevrolet,Equinox EV,2022,Lithium-titanate,89990.3,Finland
+Volkswagen,ID.6,2018,Sodium-ion,82646.27,Germany
+Geely,Emgrand EV,2019,Lead-acid,68841.71,Portugal
+Geely,Geometry C,2019,Lead-acid,135951.88,Argentina
+Lucid Motors,Lucid DreamDrive,2025,Nickel-manganese-cobalt,106908.47,France
+Kia,EV9,2018,Solid-state,93098.56,Israel
+Mahindra,XUV400,2022,Magnesium-ion,125309.95,Finland
+Kia,Soul EV,2018,Lead-acid,143700.4,UAE
+Mini,Mini Cooper SE,2016,Nickel-metal hydride,108903.83,Ireland
+Citroen,Ami,2021,Calcium-ion,55671.38,UAE
+Chevrolet,Volt (PHEV),2024,Lithium-ion,148127.33,Hungary
+Lamborghini,Revuelto (PHEV),2016,Lithium-ion,136755.04,Austria
+Rimac,Nevera,2017,Nickel-manganese-cobalt,66047.19,Singapore
+Opel,Corsa-e,2025,Calcium-ion,92926,Saudi Arabia
+Citroen,Ami,2024,Lead-acid,47761.49,UK
+Zeekr,Zeekr X,2017,Nickel-manganese-cobalt,53531.92,South Africa
+Jaguar,I-PACE,2021,Sodium-ion,32904.82,Netherlands
+Chevrolet,Bolt EUV,2018,Flow batteries,36544.56,Sweden
+Great Wall Motors,ORA Good Cat,2020,Lithium-iron phosphate,120042.62,New Zealand
+Lotus,Eletre,2019,Nickel-metal hydride,108570.94,China
+Mazda,Mazda EV (upcoming models),2018,Nickel-cobalt-aluminum,88159.46,Saudi Arabia
+Polestar,Polestar 4,2020,Nickel-manganese-cobalt,72229.57,Poland
+Canoo,Lifestyle Vehicle,2023,Lithium-sulfur,40535.4,South Africa
+Ford,Explorer EV (Europe),2019,Aluminum-ion,46629.18,Denmark
+Genesis,GV70 Electric,2020,Solid-state,130742.7,Germany
+Opel,Corsa-e,2016,Nickel-metal hydride,103483.44,Austria
+Cadillac,Celestiq,2025,Sodium-ion,49654.37,Japan
+Audi,e-tron GT,2022,Calcium-ion,136510.43,Thailand
+Peugeot,e-208,2023,Solid-state,59486.6,Thailand
+Mazda,Mazda EV (upcoming models),2021,Aluminum-ion,80695.46,South Korea
+Porsche,Macan EV,2021,Nickel-cobalt-aluminum,137594.1,Australia
+Renault,Megane E-Tech,2016,Solid-state,114873.49,Turkey
+Mini,Mini Electric,2017,Calcium-ion,67142.2,Malaysia
+Citroen,?-Spacetourer,2015,Nickel-manganese-cobalt,89216.02,Israel
+Polestar,Polestar 4,2024,Flow batteries,47790.74,Brazil
+Hyundai,Kona Electric,2016,Nickel-cobalt-aluminum,112981.63,Singapore
+Opel,Mokka-e,2020,Sodium-ion,131197.16,Czech Republic
+Rivian,EDV (Electric Delivery Van),2018,Zinc-air,112638.51,Czech Republic
+GMC,Hummer EV SUV,2023,Lithium-titanate,57926.6,Denmark
+Li Auto,MEGA,2015,Sodium-ion,54142.46,Spain
+Pininfarina,Battista,2021,Lithium-titanate,53281.87,Mexico
+Ford,Explorer EV (Europe),2023,Aluminum-ion,36722.67,Poland
+Pininfarina,Battista,2016,Nickel-metal hydride,105181.3,Netherlands
+Chevrolet,Volt (PHEV),2021,Solid-state,144087.21,South Africa
+Geely,Emgrand EV,2015,Magnesium-ion,140836.41,South Africa
+Renault,Megane E-Tech,2022,Nickel-cobalt-aluminum,141880.48,Ireland
+Peugeot,e-3008,2015,Zinc-air,53105.48,Saudi Arabia
+Tesla,Cybertruck,2023,Lead-acid,62526.25,Czech Republic
+BMW,iX,2015,Nickel-manganese-cobalt,40334.35,Norway
+Pininfarina,Battista,2025,Magnesium-ion,41149.94,Australia
+Volvo,C40 Recharge,2024,Lithium-sulfur,109821.67,Hungary
+Mazda,Mazda EV (upcoming models),2024,Zinc-air,125610.93,UAE
+Polestar,Polestar 3,2022,Nickel-cobalt-aluminum,82242.44,Mexico
+Jaguar,I-PACE,2020,Lead-acid,78695.24,France
+Rivian,R1T,2024,Aluminum-ion,109305.77,Saudi Arabia
+Ferrari,Ferrari EV (2025+),2019,Aluminum-ion,99927.24,Turkey
+Tesla,Roadster (upcoming),2023,Calcium-ion,58228.94,Israel
+Mini,Mini Electric,2022,Nickel-metal hydride,48512.07,Italy
+Zeekr,Zeekr X,2016,Nickel-metal hydride,113446.86,Finland
+Porsche,Cayenne Electric (upcoming),2024,Lithium-ion,62310.05,Singapore
+Seat,Avenger,2017,Lithium-titanate,39388.15,UK
+Subaru,Solterra,2020,Lead-acid,86307.89,Mexico
+Subaru,Solterra,2015,Flow batteries,65010.39,Finland
+Volkswagen,ID.7,2019,Lithium-sulfur,139215.78,Sweden
+Porsche,Taycan,2020,Solid-state,120331.36,India
+Genesis,GV80 Electric,2016,Lithium-ion,119538.07,Saudi Arabia
+Tesla,Model X,2022,Nickel-cobalt-aluminum,93755.2,Vietnam
+Genesis,G80 Electric,2022,Magnesium-ion,111326.18,Hungary
+Lotus,Eletre,2025,Nickel-manganese-cobalt,34085.01,UK
+Jaguar,I-PACE,2016,Calcium-ion,113478.44,Czech Republic
+Mini,Mini Cooper SE,2019,Nickel-metal hydride,69918.57,Spain
+XPeng,G6,2025,Nickel-manganese-cobalt,107200.58,Spain
+Mahindra,XUV400,2025,Flow batteries,114006.62,Singapore
+Renault,Megane E-Tech,2023,Lithium-iron phosphate,94236.49,Mexico
+Maserati,GranTurismo Folgore,2016,Calcium-ion,51194.2,India
+Hyundai,Ioniq 7 (upcoming),2018,Nickel-metal hydride,37559.12,Poland
+Pininfarina,Battista,2021,Solid-state,134424,Sweden
+Genesis,GV60,2022,Aluminum-ion,45664.53,South Korea
+Jaguar,I-PACE,2024,Magnesium-ion,127382.52,Thailand
+Porsche,Panamera EV,2016,Solid-state,74391.28,Malaysia
+Nissan,Ariya,2016,Lithium-ion,101247.66,Indonesia
+Geely,Geometry C,2018,Nickel-metal hydride,103445.98,Poland
+BYD,Atto 3,2023,Lithium-iron phosphate,53246.28,Sweden
+BYD,Seal,2018,Nickel-cobalt-aluminum,118850.03,Norway
+Jeep,Wagoneer S,2021,Lithium-iron phosphate,43215.94,France
+Jeep,Recon (upcoming),2015,Aluminum-ion,74818.21,Denmark
+Toyota,bZ4X,2016,Calcium-ion,56382.43,Ireland
+Hyundai,Ioniq 7 (upcoming),2023,Nickel-manganese-cobalt,63500.51,Vietnam
+Ferrari,SF90 Stradale (PHEV),2021,Lithium-ion,77318.42,France
+Volkswagen,ID.5,2019,Lithium-iron phosphate,66580.39,Australia
+XPeng,G6,2020,Flow batteries,38483.83,Mexico
+VinFast,VF 7,2025,Solid-state,139200.49,South Korea
+Genesis,GV60,2023,Lithium-titanate,43626.92,Israel
+Toyota,Lexus UX 300e,2025,Nickel-cobalt-aluminum,88347.23,Canada
+BYD,Seagull,2016,Lithium-iron phosphate,137753.5,China
+Lotus,Evija,2015,Lithium-sulfur,80415.6,Germany
+Jeep,Wagoneer S,2025,Flow batteries,98070.2,Poland
+Fisker,Pear (upcoming),2022,Nickel-metal hydride,51043.12,Sweden
+BYD,Tang EV,2018,Lead-acid,47753.31,Saudi Arabia
+Changan,Deepal S07,2017,Lithium-ion,65466.82,Singapore
+Great Wall Motors,ORA Good Cat,2017,Flow batteries,130905.23,Brazil
+VinFast,VF 8,2018,Lithium-ion,144914.84,Thailand
+Ford,Explorer EV (Europe),2020,Nickel-cobalt-aluminum,147302.84,UK
+Faraday Future,FF 91,2021,Nickel-metal hydride,66387.74,Mexico
+Acura,ZDX (with GM Ultium),2021,Nickel-metal hydride,129874.05,UAE
+Nissan,Leaf,2017,Lithium-sulfur,109909.62,Indonesia
+Audi,A6 e-tron (upcoming),2020,Zinc-air,87124.89,Canada
+Ford,E-Transit,2022,Aluminum-ion,73339.61,Brazil
+Opel,Grandland Electric,2017,Magnesium-ion,134693.18,Poland
+Canoo,Lifestyle Vehicle,2015,Nickel-metal hydride,140508.89,France
+Dacia,Jogger Hybrid,2021,Nickel-manganese-cobalt,87542.19,Argentina
+Dacia,Bigster EV (upcoming),2015,Lithium-titanate,47083.12,Poland
+Nissan,Ariya,2021,Lithium-ion,139023.52,China
+Lucid Motors,Lucid Air,2025,Sodium-ion,71740.39,Turkey
+Lotus,Eletre,2018,Lithium-sulfur,41842.29,Turkey
+Fisker,Pear (upcoming),2021,Lithium-iron phosphate,67713.63,Canada
+Rimac,Nevera,2016,Nickel-cobalt-aluminum,130930.82,UAE
+BYD,Tang EV,2015,Flow batteries,109025.79,Canada
+BYD,Tang EV,2020,Lithium-iron phosphate,80964.5,Portugal
+Great Wall Motors,ORA Ballet Cat,2024,Nickel-cobalt-aluminum,84556.17,Spain
+Mahindra,XUV400,2017,Nickel-cobalt-aluminum,104787.91,China
+Mahindra,Born Electric (upcoming range),2023,Lithium-sulfur,33791.82,Canada
+Lamborghini,Lanzador (upcoming EV),2017,Nickel-manganese-cobalt,43125.84,Russia
+BMW,i7,2019,Nickel-manganese-cobalt,64132.5,Germany
+Citroen,Ami,2020,Nickel-cobalt-aluminum,36773.91,Belgium
+Pininfarina,Battista,2015,Lead-acid,138169.18,Germany
+Ferrari,SF90 Stradale (PHEV),2022,Solid-state,127374.86,Mexico
+Rivian,R1S,2019,Lithium-ion,104948.67,Israel
+Zeekr,Zeekr X,2020,Magnesium-ion,65989.08,Saudi Arabia
+Nissan,Leaf,2024,Nickel-manganese-cobalt,106551.16,Finland
+BYD,Dolphin,2017,Lithium-iron phosphate,79231.23,China
+Cadillac,Lyriq,2021,Lithium-iron phosphate,129267.46,Russia
+Volkswagen,ID.3,2019,Magnesium-ion,35067.88,Russia
+Audi,Q8 e-tron,2020,Flow batteries,116908.13,Belgium
+Honda,Honda Prologue,2016,Lithium-iron phosphate,100119.15,Belgium
+Honda,Honda e (discontinued),2015,Nickel-manganese-cobalt,80853.76,Belgium
+Cadillac,Lyriq,2025,Magnesium-ion,76162.83,Argentina
+XPeng,G9,2019,Solid-state,133130.01,Malaysia
+Great Wall Motors,ORA Ballet Cat,2021,Aluminum-ion,128428.96,Netherlands
+Rimac,Nevera,2015,Magnesium-ion,124922.32,USA
+Lotus,Evija,2025,Magnesium-ion,68327.9,Italy
+Li Auto,L9,2017,Nickel-cobalt-aluminum,32756.41,Finland
+XPeng,X9,2021,Zinc-air,98069.15,South Africa
+Canoo,Pickup,2019,Lithium-titanate,102009.93,Czech Republic
+Honda,e:Ny1,2024,Nickel-manganese-cobalt,86265.79,Thailand
+Kia,Soul EV,2015,Sodium-ion,142718.63,Ireland
+Mini,Mini Cooper SE,2017,Aluminum-ion,90449.61,Australia
+Rimac,Nevera,2017,Nickel-manganese-cobalt,141148.45,Spain
+Mahindra,XUV400,2023,Calcium-ion,47834.5,Norway
+Chevrolet,Silverado EV,2020,Lithium-titanate,116371.68,Canada
+Ferrari,Ferrari EV (2025+),2024,Lithium-iron phosphate,98494.54,China
+Skoda,Enyaq,2021,Sodium-ion,48453.06,Australia
+Tesla,Model X,2015,Flow batteries,149978.53,Singapore
+Peugeot,e-208,2023,Zinc-air,145805.92,UK
+Citroen,Ami,2017,Solid-state,140603.98,Ireland
+Geely,Geometry C,2022,Lithium-sulfur,127319.32,Norway
+Skoda,Elroq (upcoming),2017,Aluminum-ion,82482.66,New Zealand
+Mazda,MX-30,2023,Solid-state,79562.33,Singapore
+Jaguar,I-PACE,2017,Magnesium-ion,135210.64,Hungary
+Rivian,R1T,2016,Lithium-titanate,32149.83,Canada
+Mahindra,Born Electric (upcoming range),2024,Calcium-ion,40516.22,USA
+Genesis,GV70 Electric,2025,Lithium-iron phosphate,122366.54,New Zealand
+Great Wall Motors,ORA Good Cat,2022,Zinc-air,30944.91,Vietnam
+Mahindra,Born Electric (upcoming range),2022,Lead-acid,37284.56,Vietnam
+Mahindra,Born Electric (upcoming range),2022,Lithium-titanate,86308.85,Austria
+Mazda,Mazda EV (upcoming models),2021,Calcium-ion,125970.61,Netherlands
+Porsche,Macan EV,2017,Zinc-air,89247.01,Switzerland
+Canoo,MPDV,2015,Magnesium-ion,44482.56,Russia
+Seat,Avenger,2015,Aluminum-ion,120691.72,Finland
+Acura,ZDX (with GM Ultium),2018,Aluminum-ion,121435.76,France
+Opel,Corsa-e,2018,Calcium-ion,40228.06,Indonesia
+Volkswagen,ID.2all,2021,Nickel-cobalt-aluminum,91938.64,Argentina
+Hyundai,Ioniq 6,2020,Nickel-cobalt-aluminum,121103.09,Sweden
+Li Auto,MEGA,2025,Lithium-titanate,30948.27,South Africa
+VinFast,VFe34 (discontinued),2025,Nickel-manganese-cobalt,135716.96,Japan
+Mazda,MX-30,2016,Lead-acid,49203.28,Saudi Arabia
+Renault,Megane E-Tech,2020,Lithium-sulfur,108115.49,Malaysia
+Dacia,Jogger Hybrid,2020,Lithium-sulfur,92360,France
+Dacia,Bigster EV (upcoming),2021,Solid-state,83539.69,South Africa
+Acura,ZDX (with GM Ultium),2022,Lithium-titanate,47321.54,Russia
+Rivian,R1S,2022,Lithium-ion,44251.93,Indonesia
+BYD,Seal,2020,Lithium-sulfur,100754.91,Poland
+Fisker,Ocean,2015,Nickel-cobalt-aluminum,123761.92,Ireland
+Renault,Scenic E-Tech,2016,Magnesium-ion,138029.33,Saudi Arabia
+Dacia,Jogger Hybrid,2024,Flow batteries,44853.79,UK
+Citroen,?-Spacetourer,2023,Aluminum-ion,62995.5,Belgium
+Jeep,Wrangler 4xe (PHEV),2022,Calcium-ion,32886.83,Hungary
+Ford,F-150 Lightning,2019,Magnesium-ion,37069.65,Norway
+Rimac,Nevera,2021,Calcium-ion,101640.55,Russia
+Lamborghini,Lanzador (upcoming EV),2016,Nickel-manganese-cobalt,32234.74,Israel
+Li Auto,MEGA,2016,Calcium-ion,148237.05,Belgium
+GMC,Hummer EV SUV,2025,Nickel-metal hydride,60106.67,India
+Peugeot,e-208,2019,Solid-state,149858.55,Switzerland
+Geely,Geometry C,2018,Flow batteries,101941.64,Italy
+Porsche,Cayenne Electric (upcoming),2023,Aluminum-ion,124476.63,China
+NIO,ET9,2015,Solid-state,56582.49,Portugal
+Volvo,C40 Recharge,2022,Sodium-ion,148111.62,Thailand
+Mini,Mini Aceman,2024,Flow batteries,45389.57,Italy
+Skoda,Enyaq,2025,Lead-acid,81253.74,South Korea
+Lotus,Emeya,2022,Sodium-ion,140206.98,Malaysia
+Peugeot,e-2008,2021,Solid-state,37541.29,France
+Polestar,Polestar 2,2022,Lithium-iron phosphate,92361.01,China
+Jaguar,I-PACE,2015,Aluminum-ion,37440.27,Malaysia
+BMW,i4,2021,Nickel-cobalt-aluminum,101949.1,Finland
+Genesis,GV60,2022,Lead-acid,101421.01,Israel
+Li Auto,MEGA,2024,Nickel-manganese-cobalt,67400.02,Turkey
+Subaru,Solterra,2019,Sodium-ion,90852.94,UAE
+Pininfarina,Battista,2025,Nickel-manganese-cobalt,97931.63,Finland
+Tesla,Roadster (upcoming),2018,Lithium-titanate,118150.34,Mexico
+Audi,Q4 e-tron,2015,Lead-acid,100282.37,Argentina
+Renault,5 E-Tech,2020,Calcium-ion,131145.77,Germany
+Subaru,Solterra,2018,Sodium-ion,147252.22,Vietnam
+Maserati,GranTurismo Folgore,2020,Sodium-ion,121569.88,Denmark
+MG,MG ES5,2018,Lithium-titanate,76573.9,Turkey
+Great Wall Motors,ORA Ballet Cat,2022,Nickel-manganese-cobalt,137386.16,Belgium
+Lamborghini,Revuelto (PHEV),2017,Magnesium-ion,34937.15,Finland
+NIO,ET5,2017,Nickel-manganese-cobalt,39890.22,Turkey
+Audi,Q4 e-tron,2015,Lead-acid,119425.36,Portugal
+Tesla,Model X,2019,Calcium-ion,120936.73,New Zealand
+Volvo,EX90,2022,Sodium-ion,143031.57,Switzerland
+Tesla,Model Y,2025,Calcium-ion,120315.14,Saudi Arabia
+Ferrari,Ferrari EV (2025+),2024,Aluminum-ion,54504.55,China
+Mercedes-Benz,EQS,2025,Lead-acid,53879.85,Czech Republic
+Lotus,Eletre,2017,Sodium-ion,43289.27,Indonesia
+Subaru,Solterra,2025,Nickel-manganese-cobalt,90297,Australia
+Lotus,Emeya,2024,Aluminum-ion,64549.41,Brazil
+Porsche,Cayenne Electric (upcoming),2022,Nickel-cobalt-aluminum,143482.48,Netherlands
+Li Auto,L7,2020,Solid-state,49780.69,Turkey
+Pininfarina,Battista,2018,Nickel-cobalt-aluminum,46377.67,Australia
+Great Wall Motors,ORA Lightning Cat,2017,Nickel-metal hydride,44898.17,Thailand
+Porsche,Macan EV,2015,Aluminum-ion,130380.14,South Africa
+BMW,iX1,2015,Lithium-ion,74957.36,Denmark
+Mini,Mini Electric,2018,Aluminum-ion,35281.5,France
+Zeekr,Zeekr 001,2018,Lithium-iron phosphate,108479.13,India
+Audi,e-tron GT,2021,Lithium-sulfur,124951.17,Singapore
+Opel,Grandland Electric,2017,Sodium-ion,109964.47,Mexico
+Jeep,Wrangler 4xe (PHEV),2018,Lithium-ion,118549.59,Belgium
+Rivian,EDV (Electric Delivery Van),2015,Lithium-iron phosphate,69442.78,Hungary
+Volvo,EX30,2020,Lithium-iron phosphate,113553.37,Ireland
+Audi,e-tron GT,2015,Flow batteries,50841.1,Switzerland
+Zeekr,Zeekr X,2024,Lithium-iron phosphate,54168.12,New Zealand
+Zeekr,Zeekr 007,2017,Calcium-ion,81287.67,Poland
+Changan,Deepal S07,2021,Lead-acid,86311.02,Denmark
+Li Auto,MEGA,2020,Nickel-cobalt-aluminum,34659.23,India
+Dacia,Bigster EV (upcoming),2025,Lithium-titanate,118279.7,New Zealand
+Mini,Mini Aceman,2017,Lithium-sulfur,102257.92,Netherlands
+Jeep,Wrangler 4xe (PHEV),2023,Aluminum-ion,60344.55,Turkey
+Hyundai,Kona Electric,2025,Zinc-air,55143.07,Thailand
+Opel,Grandland Electric,2021,Lead-acid,74958.17,Italy
+Lucid Motors,Lucid Air,2017,Magnesium-ion,139556.57,Netherlands
+Jeep,Grand Cherokee 4xe (PHEV),2022,Nickel-manganese-cobalt,120215.84,Israel
+Lotus,Emeya,2022,Nickel-manganese-cobalt,111823.2,Hungary
+Faraday Future,FF 91,2015,Nickel-manganese-cobalt,44747.34,Portugal
+Li Auto,L8,2015,Flow batteries,73224.67,Hungary
+Zeekr,Zeekr 007,2025,Calcium-ion,53409.23,South Africa
+Lamborghini,Lanzador (upcoming EV),2017,Aluminum-ion,58908.19,Netherlands
+Rimac,Nevera,2019,Lithium-iron phosphate,110472.15,Italy
+Ferrari,Ferrari EV (2025+),2016,Flow batteries,124209.83,Vietnam
+Peugeot,e-2008,2016,Zinc-air,99230.02,Poland
+Faraday Future,FF 91,2023,Flow batteries,94595.15,Hungary
+Cadillac,Celestiq,2017,Lithium-titanate,67066.97,Canada
+Dacia,Bigster EV (upcoming),2015,Magnesium-ion,142131.95,South Korea
+Lamborghini,Lanzador (upcoming EV),2020,Nickel-cobalt-aluminum,93341.33,Czech Republic
+Citroen,Ami,2015,Calcium-ion,99258.89,New Zealand
+Renault,Megane E-Tech,2025,Magnesium-ion,81253.33,Netherlands
+Genesis,GV80 Electric,2024,Nickel-cobalt-aluminum,44256.31,Russia
+Canoo,MPDV,2021,Lithium-sulfur,43995.32,Russia
+Seat,Avenger,2024,Nickel-metal hydride,45028.37,China
+Canoo,MPDV,2023,Nickel-manganese-cobalt,54895.65,Canada
+Jaguar,I-PACE,2017,Zinc-air,132174.01,UK
+Tesla,Model 3,2019,Lithium-ion,83390.43,Russia
+Rivian,EDV (Electric Delivery Van),2016,Flow batteries,65965.11,Switzerland
+GMC,Hummer EV SUV,2016,Lead-acid,39990.49,Vietnam
+Seat,Avenger,2020,Zinc-air,48418.97,Vietnam
+Lamborghini,Lanzador (upcoming EV),2016,Sodium-ion,47559.56,Austria
+Porsche,Panamera EV,2024,Calcium-ion,133847.8,Portugal
+Faraday Future,FF 91,2022,Zinc-air,47120.42,Portugal
+Cadillac,Celestiq,2022,Nickel-metal hydride,63098.76,South Africa
+Hyundai,Kona Electric,2016,Lithium-titanate,40150.21,UAE
+Mahindra,XUV400,2021,Lithium-ion,114311.01,Brazil
+Cadillac,Celestiq,2017,Flow batteries,74046.11,Turkey
+Skoda,Enyaq,2023,Calcium-ion,65225.4,USA
+Changan,Q05,2022,Lithium-ion,72467.13,Brazil
+Lucid Motors,Lucid Air,2023,Lead-acid,30829.25,Spain
+Kia,EV9,2025,Calcium-ion,30697.23,Denmark
+Mercedes-Benz,EQB,2022,Flow batteries,89468.11,Italy
+Kia,Soul EV,2017,Nickel-metal hydride,129580.29,Ireland
+GMC,Hummer EV Pickup,2023,Nickel-metal hydride,149310.85,Vietnam
+Porsche,Macan EV,2024,Flow batteries,34603.97,Sweden
+Subaru,Solterra,2018,Sodium-ion,66514.8,Argentina
+Tesla,Model S,2025,Lithium-titanate,102782.62,Norway
+Lamborghini,Revuelto (PHEV),2020,Sodium-ion,63113.63,India
+Jeep,Grand Cherokee 4xe (PHEV),2018,Lithium-titanate,104281.24,New Zealand
+Lamborghini,Lanzador (upcoming EV),2023,Sodium-ion,38125.02,South Africa
+Chevrolet,Equinox EV,2015,Magnesium-ion,93896.38,China
+Rivian,R1T,2015,Nickel-metal hydride,124877.63,Turkey
+Jaguar,I-PACE,2018,Lithium-ion,143045.52,Italy
+Tesla,Roadster (upcoming),2020,Flow batteries,114655.41,Spain
+Volvo,EX30,2017,Lithium-sulfur,112573.85,Spain
+Toyota,bZ4X,2024,Flow batteries,57806.78,Vietnam
+Ferrari,Roma PHEV,2017,Flow batteries,128099.9,Ireland
+Renault,5 E-Tech,2015,Zinc-air,31626.25,Japan
+VinFast,VF 6,2016,Lead-acid,87651.05,Malaysia
+Toyota,Lexus UX 300e,2023,Solid-state,42307.93,Indonesia
+Ford,E-Transit,2025,Lithium-sulfur,115782.14,Russia
+GMC,Hummer EV SUV,2016,Sodium-ion,102540.77,Vietnam
+Canoo,Pickup,2020,Aluminum-ion,141945.82,China
+Renault,Kangoo E-Tech,2016,Solid-state,68766.41,Norway
+VinFast,VF 8,2017,Magnesium-ion,95920.71,Saudi Arabia
+Ferrari,Ferrari EV (2025+),2018,Lithium-titanate,132071.41,UAE
+Opel,Corsa-e,2019,Nickel-manganese-cobalt,129338.62,Italy
+Zeekr,Zeekr 009,2015,Lithium-titanate,101271.08,Germany
+Ford,F-150 Lightning,2022,Lithium-titanate,116706.89,USA
+Mercedes-Benz,EQC,2021,Calcium-ion,129542.19,Turkey
+Volkswagen,ID.Buzz,2018,Nickel-cobalt-aluminum,119519.49,Ireland
+Mercedes-Benz,EQC,2020,Flow batteries,73524.2,Mexico
+Tesla,Model X,2018,Lead-acid,40204.72,Singapore
+Subaru,Solterra,2020,Magnesium-ion,76876.96,Italy
+Faraday Future,FF 91,2015,Zinc-air,48184.54,UK
+Mercedes-Benz,EQE SUV,2022,Magnesium-ion,142816.94,India
+Faraday Future,FF 91,2017,Magnesium-ion,84576.94,Czech Republic
+Opel,Mokka-e,2019,Nickel-manganese-cobalt,46853.67,Singapore
+BYD,Atto 3,2024,Sodium-ion,61539.29,Japan
+Ford,Mustang Mach-E,2019,Nickel-cobalt-aluminum,134899.07,UK
+Porsche,Taycan,2021,Magnesium-ion,71090.83,Russia
+Great Wall Motors,ORA Good Cat,2025,Lithium-iron phosphate,127024.03,Vietnam
+Honda,Honda e (discontinued),2017,Solid-state,134853.11,Indonesia
+Pininfarina,Battista,2017,Lithium-iron phosphate,112659.66,Vietnam
+Audi,A6 e-tron (upcoming),2024,Nickel-metal hydride,137580.13,Russia
+Tesla,Model Y,2017,Flow batteries,119484.9,Indonesia
+Ferrari,SF90 Stradale (PHEV),2020,Calcium-ion,134130.98,Russia
+Citroen,?-Spacetourer,2016,Aluminum-ion,101387.02,Vietnam
+Faraday Future,FF 91,2016,Flow batteries,119993.24,Saudi Arabia
+Rivian,R1T,2022,Lead-acid,72073.64,Australia
+MG,MG5 EV,2019,Aluminum-ion,30498.91,Japan
+Pininfarina,Battista,2024,Nickel-cobalt-aluminum,107332.12,South Korea
+Rimac,Nevera,2021,Lithium-iron phosphate,105772.93,Thailand
+Hyundai,Kona Electric,2015,Nickel-cobalt-aluminum,114909.11,Singapore
+Polestar,Polestar 3,2019,Lithium-iron phosphate,109110.92,UK
+Cadillac,Lyriq,2016,Nickel-metal hydride,89309.41,Switzerland
+Skoda,Enyaq Coupe,2021,Aluminum-ion,51576.77,Norway
+Great Wall Motors,ORA Ballet Cat,2024,Lead-acid,53141.43,Saudi Arabia
+Nissan,Ariya,2017,Lithium-iron phosphate,87788.98,Brazil
+XPeng,G6,2019,Nickel-metal hydride,42347.35,Israel
+Peugeot,e-3008,2020,Zinc-air,72349.86,China
+Canoo,MPDV,2023,Sodium-ion,81526.42,Brazil
+Rimac,Nevera,2020,Lithium-iron phosphate,97396.87,Czech Republic
+Audi,A6 e-tron (upcoming),2025,Nickel-cobalt-aluminum,53778.05,Russia
+Jeep,Recon (upcoming),2018,Zinc-air,64123.9,Thailand
+Great Wall Motors,ORA Good Cat,2021,Lithium-titanate,96774.02,Russia
+GMC,Hummer EV Pickup,2015,Lithium-iron phosphate,68743.08,Vietnam
+Seat,Avenger,2019,Aluminum-ion,39005.06,Finland
+Jaguar,I-PACE,2020,Calcium-ion,110188.23,South Africa
+Hyundai,Ioniq 6,2019,Lithium-titanate,118232.19,China
+Canoo,Pickup,2018,Nickel-manganese-cobalt,67419.05,Sweden
+GMC,Hummer EV Pickup,2021,Lithium-iron phosphate,144179.35,France
+Porsche,Panamera EV,2015,Nickel-manganese-cobalt,141231.33,Brazil
+Toyota,Lexus RZ,2016,Lithium-ion,52733.96,Ireland
+Polestar,Polestar 2,2018,Solid-state,93855.81,Austria
+Canoo,MPDV,2019,Nickel-manganese-cobalt,64559.11,Czech Republic
+Subaru,Solterra,2017,Sodium-ion,84625.96,New Zealand
+Citroen,?-C4,2024,Sodium-ion,59701.25,Japan
+Mercedes-Benz,EQE,2016,Solid-state,118177.8,Spain
+Dacia,Bigster EV (upcoming),2023,Magnesium-ion,112294.1,Germany
+Nissan,Leaf,2024,Lithium-titanate,40712.88,France
+Honda,Honda e (discontinued),2020,Aluminum-ion,63149.66,Japan
+VinFast,VF 8,2019,Solid-state,48027.33,Finland
+Chevrolet,Bolt EUV,2019,Calcium-ion,81638.74,USA
+Hyundai,Ioniq 6,2017,Lithium-titanate,33856.4,Belgium
+Cadillac,Celestiq,2017,Zinc-air,46701.16,Denmark
+Acura,ZDX (with GM Ultium),2023,Nickel-metal hydride,93188.57,Hungary
+Li Auto,MEGA,2015,Aluminum-ion,46870.27,Belgium
+Citroen,?-Spacetourer,2017,Nickel-cobalt-aluminum,40159.09,France
+Jaguar,I-PACE,2018,Lead-acid,137406.28,Sweden
+Audi,e-tron,2017,Zinc-air,42432.84,Turkey
+Maserati,GranTurismo Folgore,2024,Flow batteries,106343.66,Sweden
+Great Wall Motors,ORA Lightning Cat,2019,Lithium-sulfur,63021.76,France
+Tesla,Cybertruck,2019,Lithium-ion,138847.01,Australia
+Rivian,R1S,2023,Nickel-cobalt-aluminum,116305.09,Australia
+Genesis,G80 Electric,2021,Nickel-manganese-cobalt,68889.19,Brazil
+Kia,Soul EV,2022,Aluminum-ion,127026.66,Belgium
+BMW,iX1,2019,Solid-state,74918.65,Germany
+Lucid Motors,Lucid Air,2019,Nickel-manganese-cobalt,49450.75,South Africa
+Chevrolet,Bolt EUV,2015,Sodium-ion,111883.34,South Africa
+Lamborghini,Revuelto (PHEV),2016,Nickel-manganese-cobalt,45263.09,Poland
+Nissan,Leaf,2019,Aluminum-ion,134576.8,China
+GMC,Hummer EV Pickup,2023,Lithium-titanate,148192.07,Germany
+Lamborghini,Lanzador (upcoming EV),2025,Aluminum-ion,143759.71,Japan
+Great Wall Motors,ORA Good Cat,2019,Lithium-titanate,108040.44,New Zealand
+Cadillac,Celestiq,2025,Flow batteries,121881.78,Italy
+Lucid Motors,Lucid Gravity,2021,Aluminum-ion,57255.11,Saudi Arabia
+Volkswagen,ID.6,2017,Lithium-sulfur,45565.95,New Zealand
+Dacia,Bigster EV (upcoming),2018,Nickel-manganese-cobalt,65122.01,Belgium
+Li Auto,MEGA,2019,Solid-state,96355.88,Argentina
+Nissan,Ariya,2015,Lithium-sulfur,40139.2,Finland
+NIO,ET9,2025,Nickel-cobalt-aluminum,121559.56,Ireland
+Pininfarina,Battista,2021,Magnesium-ion,96395.3,Czech Republic
+Mercedes-Benz,EQS SUV,2022,Lithium-titanate,63684.02,Portugal
+Chevrolet,Equinox EV,2019,Sodium-ion,98212.93,Spain
+Great Wall Motors,ORA Ballet Cat,2023,Lithium-iron phosphate,103239.42,China
+Acura,ZDX (with GM Ultium),2017,Calcium-ion,34620.21,Turkey
+Honda,Honda Prologue,2015,Flow batteries,35367.97,Brazil
+Rimac,Nevera,2025,Nickel-cobalt-aluminum,69184.87,Argentina
+BYD,Han EV,2019,Aluminum-ion,55377.56,Turkey
+Jeep,Wrangler 4xe (PHEV),2025,Lithium-titanate,145035.02,Singapore
+Faraday Future,FF 91,2024,Nickel-manganese-cobalt,53402.83,Czech Republic
+Rimac,Nevera,2018,Nickel-manganese-cobalt,72238.15,China
+Canoo,Lifestyle Vehicle,2023,Lithium-iron phosphate,125502.71,Hungary
+Acura,ZDX (with GM Ultium),2017,Aluminum-ion,121861.15,New Zealand
+Volkswagen,ID.7,2023,Aluminum-ion,113631.44,Czech Republic
+Kia,Soul EV,2016,Lithium-titanate,105699.84,Vietnam
+Hyundai,Ioniq 5,2015,Zinc-air,82630.44,Israel
+Lotus,Evija,2023,Calcium-ion,120876.03,Japan
+Ferrari,Ferrari EV (2025+),2020,Solid-state,88396.29,Netherlands
+Kia,Niro EV,2023,Calcium-ion,34769.4,Saudi Arabia
+Ferrari,Roma PHEV,2022,Lead-acid,115950.11,Canada
+Renault,Megane E-Tech,2020,Magnesium-ion,69253.89,Mexico
+Zeekr,Zeekr 001,2023,Sodium-ion,105274.21,Italy
+Renault,Kangoo E-Tech,2019,Nickel-metal hydride,132858.82,Switzerland
+Li Auto,L9,2024,Nickel-cobalt-aluminum,108832.92,Poland
+Fisker,Pear (upcoming),2019,Solid-state,83660.75,Vietnam
+XPeng,G6,2022,Calcium-ion,33475.51,Turkey
+XPeng,P5,2021,Nickel-cobalt-aluminum,56273.78,Japan
+Jaguar,I-PACE,2017,Zinc-air,40830.33,Mexico
+Maserati,Grecale Folgore,2017,Calcium-ion,49368.5,Mexico
+Kia,EV9,2022,Lithium-ion,122689.4,Japan
+Toyota,bZ4X,2016,Solid-state,119118.24,Ireland
+VinFast,VF 8,2021,Lead-acid,41961.51,Singapore
+Great Wall Motors,ORA Lightning Cat,2023,Lead-acid,144174.89,Saudi Arabia
+BYD,Dolphin,2024,Solid-state,147098.09,UAE
+Great Wall Motors,ORA Ballet Cat,2024,Magnesium-ion,67374.59,Sweden
+Rivian,EDV (Electric Delivery Van),2022,Lead-acid,115064.18,UAE
+Volkswagen,ID.2all,2015,Nickel-metal hydride,134369.9,Japan
+Lamborghini,Lanzador (upcoming EV),2021,Lithium-ion,135627.14,South Africa
+Rivian,EDV (Electric Delivery Van),2020,Lead-acid,69621.26,Italy
+Ford,Explorer EV (Europe),2016,Lithium-ion,94527.78,France
+Fisker,Ocean,2018,Lithium-sulfur,66690.04,Thailand
+Kia,Niro EV,2019,Nickel-metal hydride,100478.05,India
+Mercedes-Benz,EQC,2018,Lithium-iron phosphate,87055.68,Hungary
+Great Wall Motors,ORA Lightning Cat,2019,Lead-acid,76263.58,Brazil
+Mercedes-Benz,EQA,2017,Calcium-ion,60064.68,UAE
+Opel,Grandland Electric,2020,Lithium-titanate,51480.67,USA
+Kia,EV6,2019,Lead-acid,62994.17,Thailand
+Canoo,Lifestyle Vehicle,2022,Zinc-air,134992.42,Saudi Arabia
+Peugeot,e-2008,2017,Solid-state,106497.38,Hungary
+Skoda,Enyaq Coupe,2017,Aluminum-ion,142865.42,Indonesia
+Toyota,bZ4X,2017,Nickel-manganese-cobalt,79110.18,USA
+Changan,SL03,2016,Aluminum-ion,100937.82,Netherlands
+Skoda,Elroq (upcoming),2018,Lithium-titanate,114709.68,Portugal
+Porsche,Panamera EV,2019,Lithium-titanate,73633.58,South Africa
+Maserati,Grecale Folgore,2021,Sodium-ion,113958.46,UAE
+Honda,e:Ny1,2016,Lead-acid,100418.49,Singapore
+Mercedes-Benz,EQS SUV,2022,Sodium-ion,72960.54,Australia
+Zeekr,Zeekr 007,2022,Calcium-ion,87906.91,Poland
+Zeekr,Zeekr 009,2024,Nickel-cobalt-aluminum,136391.43,South Africa
+Subaru,Solterra,2020,Nickel-manganese-cobalt,54048.78,Poland
+Skoda,Elroq (upcoming),2020,Lithium-ion,112414.37,Switzerland
+Volkswagen,ID.5,2017,Nickel-cobalt-aluminum,117644.65,Ireland
+Cadillac,Lyriq,2018,Sodium-ion,120202.14,Austria
+NIO,ET9,2021,Nickel-metal hydride,145021.53,Norway
+Renault,Megane E-Tech,2025,Calcium-ion,45448.74,India
+Subaru,Solterra,2019,Lithium-titanate,123720.42,Mexico
+Skoda,Enyaq,2017,Lithium-ion,127540.21,Australia
+BMW,iX1,2025,Sodium-ion,32823.64,Norway
+Jaguar,I-PACE,2015,Lead-acid,41348.71,Sweden
+Canoo,MPDV,2024,Nickel-manganese-cobalt,103122.42,France
+XPeng,P7,2017,Lithium-titanate,82012.23,Denmark
+Ferrari,Roma PHEV,2018,Magnesium-ion,110572.76,Thailand
+VinFast,VF 9,2025,Nickel-metal hydride,56978.97,Hungary
+Acura,ZDX (with GM Ultium),2023,Nickel-cobalt-aluminum,68357.14,Malaysia
+XPeng,P7,2025,Calcium-ion,71435.9,South Africa
+GMC,Hummer EV Pickup,2024,Sodium-ion,64066.52,Russia
+XPeng,G6,2018,Solid-state,148125.93,UAE
+Kia,EV6,2023,Lead-acid,85669.67,Malaysia
+Genesis,GV70 Electric,2025,Aluminum-ion,79235.26,Germany
+Renault,Kangoo E-Tech,2015,Sodium-ion,144221.53,Ireland
+BYD,Seagull,2018,Nickel-metal hydride,65157.83,Switzerland
+MG,MG ZS EV,2024,Calcium-ion,116645.55,USA
+VinFast,VF 9,2019,Aluminum-ion,129330.46,Czech Republic
+Genesis,G80 Electric,2021,Magnesium-ion,99577.44,Canada
+Honda,e:Ny1,2020,Flow batteries,120837.67,Czech Republic
+Chevrolet,Bolt EUV,2017,Lead-acid,115656.38,Netherlands
+Faraday Future,FF 91,2017,Zinc-air,33360.56,Israel
+Great Wall Motors,ORA Ballet Cat,2017,Sodium-ion,75357.45,Netherlands
+Volvo,EX30,2018,Lithium-iron phosphate,72780.18,Singapore
+Lucid Motors,Lucid Gravity,2025,Lithium-ion,62576.83,Saudi Arabia
+Porsche,Macan EV,2018,Lithium-titanate,61891.6,UK
+Subaru,Solterra,2018,Lithium-iron phosphate,94432.04,South Korea
+Lucid Motors,Lucid Air,2023,Zinc-air,99805.63,Malaysia
+Citroen,?-Spacetourer,2024,Lithium-sulfur,91704.03,Poland
+Acura,ZDX (with GM Ultium),2016,Magnesium-ion,146922.53,Russia
+Acura,ZDX (with GM Ultium),2018,Magnesium-ion,66646.06,South Africa
+Mercedes-Benz,EQB,2021,Magnesium-ion,91975.96,Ireland
+Ford,E-Transit,2020,Lithium-titanate,81035.75,Indonesia
+Genesis,GV70 Electric,2022,Magnesium-ion,116000.72,Argentina
+Lucid Motors,Lucid Air,2024,Lead-acid,49250.15,New Zealand
+Dacia,Bigster EV (upcoming),2018,Lithium-sulfur,36733.75,Portugal
+Opel,Grandland Electric,2021,Calcium-ion,97420.37,Belgium
+Nissan,Leaf,2016,Calcium-ion,73347.55,Malaysia
+Lucid Motors,Lucid DreamDrive,2019,Lithium-sulfur,107068.83,Thailand
+Nissan,Ariya,2015,Lead-acid,70050.31,China
+Changan,Q05,2025,Lithium-iron phosphate,85885.82,Sweden
+Peugeot,e-5008,2015,Nickel-cobalt-aluminum,57027.59,Sweden
+Mini,Mini Electric,2024,Aluminum-ion,47794.06,Norway
+Fisker,Ocean,2020,Calcium-ion,49594.67,Austria
+NIO,ET5,2022,Calcium-ion,83617.49,Denmark
+Renault,Megane E-Tech,2017,Magnesium-ion,73006.84,Indonesia
+Changan,SL03,2015,Nickel-cobalt-aluminum,143487.81,China
+Nissan,Ariya,2025,Aluminum-ion,31112.87,Sweden
+Peugeot,e-3008,2020,Zinc-air,142354.99,Norway
+XPeng,G9,2019,Zinc-air,136658.45,Sweden
+Mercedes-Benz,EQS,2015,Sodium-ion,43489.27,Australia
+Great Wall Motors,ORA Lightning Cat,2019,Nickel-metal hydride,110211.83,New Zealand
+Mini,Mini Electric,2016,Lithium-titanate,60080.48,Poland
+Rimac,Nevera,2020,Flow batteries,125972.57,South Korea
+Rimac,Nevera,2024,Nickel-manganese-cobalt,128038.74,Thailand
+Toyota,Lexus UX 300e,2023,Aluminum-ion,126838.62,UAE
+VinFast,VF 8,2021,Flow batteries,147010.55,Canada
+Zeekr,Zeekr 001,2023,Nickel-metal hydride,111668.92,Germany
+Lotus,Eletre,2023,Sodium-ion,42016.57,Finland
+Toyota,bZ4X,2021,Lithium-sulfur,86160.5,Poland
+GMC,Hummer EV Pickup,2015,Magnesium-ion,121751.15,Belgium
+Audi,e-tron GT,2019,Nickel-metal hydride,47089.01,Hungary
+Volvo,EX90,2019,Calcium-ion,135627.23,Mexico
+Jeep,Grand Cherokee 4xe (PHEV),2022,Magnesium-ion,117811.12,Argentina
+Acura,ZDX (with GM Ultium),2019,Calcium-ion,69459.56,Spain
+Mahindra,XUV400,2024,Nickel-cobalt-aluminum,130489.44,Ireland
+Kia,Soul EV,2018,Sodium-ion,116194.68,Brazil
+Canoo,MPDV,2021,Flow batteries,143513.97,Czech Republic
+Fisker,Pear (upcoming),2018,Lithium-sulfur,148917.08,Netherlands
+Hyundai,Ioniq 6,2020,Zinc-air,66700.22,UK
+Dacia,Bigster EV (upcoming),2020,Sodium-ion,145117,Germany
+Citroen,Ami,2023,Nickel-metal hydride,40865.07,Thailand
+Kia,EV6,2024,Zinc-air,34892.74,Sweden
+Volvo,EX90,2025,Magnesium-ion,32492.87,New Zealand
+Lotus,Evija,2021,Flow batteries,114809.51,Spain
+Audi,e-tron GT,2020,Calcium-ion,99475.02,Turkey
+Fisker,Ocean,2022,Lithium-sulfur,89655.95,China
+Great Wall Motors,ORA Ballet Cat,2017,Solid-state,143682.14,Germany
+Mini,Mini Cooper SE,2019,Lead-acid,125809.96,Indonesia
+BMW,iX3,2020,Zinc-air,93572.64,Netherlands
+Genesis,G80 Electric,2016,Sodium-ion,143883.59,Indonesia
+Porsche,Cayenne Electric (upcoming),2019,Nickel-manganese-cobalt,72144.08,UK
+Lamborghini,Revuelto (PHEV),2025,Sodium-ion,76170.42,Singapore
+Maserati,Grecale Folgore,2020,Solid-state,98878.2,Norway
+Faraday Future,FF 91,2019,Solid-state,89718.13,Sweden
+Jaguar,I-PACE,2020,Lithium-iron phosphate,78514.16,South Korea
+Lotus,Eletre,2025,Flow batteries,107183.82,Hungary
+Zeekr,Zeekr 007,2016,Nickel-manganese-cobalt,103159.59,Russia
+Hyundai,Ioniq 6,2024,Lithium-titanate,118710.85,Germany
+Zeekr,Zeekr X,2023,Sodium-ion,143995.72,Hungary
+NIO,ES6,2016,Aluminum-ion,139829.4,Norway
+Cadillac,Lyriq,2024,Flow batteries,115220.69,Poland
+Canoo,Pickup,2021,Lithium-sulfur,31251.56,Thailand
+Acura,ZDX (with GM Ultium),2016,Nickel-metal hydride,69285.43,Spain
+Ferrari,Roma PHEV,2016,Magnesium-ion,96570,Denmark
+Chevrolet,Silverado EV,2017,Solid-state,103838.5,Sweden
+Rimac,Nevera,2024,Lithium-ion,72014.07,South Korea
+Lucid Motors,Lucid Gravity,2025,Lithium-titanate,59493.13,Czech Republic
+Lotus,Evija,2015,Zinc-air,47218.38,Austria
+Jaguar,I-PACE,2025,Lithium-ion,139297.37,India
+Honda,Honda Prologue,2025,Nickel-manganese-cobalt,135533.32,Sweden
+Peugeot,e-208,2021,Magnesium-ion,135576.6,Austria
+Changan,Q05,2022,Nickel-manganese-cobalt,109844.81,South Africa
+Lamborghini,Lanzador (upcoming EV),2020,Flow batteries,95139.44,Poland
+Mini,Mini Cooper SE,2023,Nickel-cobalt-aluminum,76316.48,Norway
+VinFast,VF 7,2017,Nickel-cobalt-aluminum,88402.2,Finland
+Tesla,Model S,2020,Calcium-ion,48072.35,Poland
+Dacia,Jogger Hybrid,2019,Lithium-sulfur,48242.03,Canada
+Toyota,Lexus UX 300e,2018,Solid-state,34725.4,New Zealand
+Ferrari,SF90 Stradale (PHEV),2022,Aluminum-ion,148537.84,China
+Lucid Motors,Lucid DreamDrive,2020,Lithium-sulfur,148028.51,Germany
+Toyota,Lexus UX 300e,2015,Nickel-manganese-cobalt,114061.79,Malaysia
+Hyundai,Ioniq 6,2023,Lithium-ion,32305.46,Denmark
+BYD,Atto 3,2021,Nickel-cobalt-aluminum,96285.92,Czech Republic
+Jaguar,I-PACE,2017,Magnesium-ion,37795.1,Belgium
+Audi,e-tron GT,2024,Flow batteries,69708.08,France
+Hyundai,Kona Electric,2015,Nickel-cobalt-aluminum,39529.43,South Africa
+Mazda,MX-30,2022,Nickel-metal hydride,61591.39,Singapore
+Citroen,?-C4,2017,Nickel-cobalt-aluminum,90798.53,Switzerland
+Citroen,?-C4,2016,Lithium-ion,128124.42,Malaysia
+Seat,Avenger,2024,Lithium-sulfur,127315.84,Russia
+Mercedes-Benz,EQC,2020,Nickel-cobalt-aluminum,131577.79,Australia
+Volkswagen,ID.2all,2020,Nickel-cobalt-aluminum,31674.02,Norway
+Toyota,Lexus RZ,2018,Lithium-ion,132457.76,Austria
+BMW,i4,2016,Solid-state,46977.34,Russia
+Acura,ZDX (with GM Ultium),2025,Zinc-air,70931.67,Italy
+Rimac,Nevera,2020,Flow batteries,96599.49,Mexico
+Jeep,Grand Cherokee 4xe (PHEV),2018,Nickel-manganese-cobalt,135687.38,Sweden
+Geely,Geometry C,2018,Magnesium-ion,123331.11,Belgium
+VinFast,VF 8,2020,Nickel-manganese-cobalt,107500.99,Ireland
+Mazda,MX-30,2021,Nickel-cobalt-aluminum,54508.8,Germany
+Geely,Emgrand EV,2021,Lead-acid,62826.25,Denmark
+BMW,i4,2023,Nickel-manganese-cobalt,105466.84,Hungary
+Ferrari,Ferrari EV (2025+),2015,Aluminum-ion,141233.85,Sweden
+Pininfarina,Battista,2021,Sodium-ion,92961.52,Thailand
+Citroen,?-Spacetourer,2018,Lithium-iron phosphate,131147.18,New Zealand
+Rimac,Nevera,2021,Magnesium-ion,64756.73,Indonesia
+Mahindra,XUV400,2020,Lithium-titanate,129484.4,Switzerland
+BYD,Atto 3,2021,Nickel-metal hydride,69246.97,Thailand
+Mini,Mini Aceman,2021,Lithium-iron phosphate,119137.61,Denmark
+Canoo,Pickup,2020,Nickel-manganese-cobalt,136125.65,Switzerland
+Renault,Kangoo E-Tech,2020,Nickel-manganese-cobalt,87621.07,Czech Republic
+Nissan,Leaf,2015,Lithium-sulfur,98173.31,France
+Toyota,Lexus RZ,2025,Lithium-ion,61527.08,Switzerland
+Tesla,Model S,2016,Lithium-titanate,114345.21,China
+Mahindra,Born Electric (upcoming range),2022,Nickel-cobalt-aluminum,145131.47,Czech Republic
+Polestar,Polestar 5 (upcoming),2015,Flow batteries,114353.63,Austria
+Canoo,Pickup,2023,Nickel-metal hydride,94892.04,Brazil
+Canoo,MPDV,2022,Flow batteries,60384.04,Mexico
+Pininfarina,Battista,2024,Sodium-ion,98843.11,Switzerland
+Chevrolet,Equinox EV,2016,Zinc-air,112081.28,Mexico
+Mini,Mini Cooper SE,2018,Zinc-air,107268.27,Denmark
+Citroen,?-Spacetourer,2019,Calcium-ion,52920.79,Germany
+Geely,Geometry A,2021,Sodium-ion,74989.91,Vietnam
+Mahindra,Born Electric (upcoming range),2020,Lithium-ion,122374.49,Israel
+Mahindra,XUV400,2022,Lithium-sulfur,115873.02,Australia
+Lamborghini,Lanzador (upcoming EV),2018,Zinc-air,111029.12,Turkey
+Genesis,GV60,2019,Zinc-air,84207.11,Netherlands
+Lucid Motors,Lucid Gravity,2022,Lithium-iron phosphate,35264.96,Austria
+Jaguar,I-PACE,2017,Nickel-metal hydride,74001.08,Vietnam
+Li Auto,MEGA,2015,Lithium-sulfur,40469.15,Brazil
+Mercedes-Benz,EQS,2024,Nickel-metal hydride,87345.57,Norway
+Peugeot,e-5008,2015,Sodium-ion,109909.34,South Africa
+Lucid Motors,Lucid DreamDrive,2022,Nickel-manganese-cobalt,106007.59,China
+Audi,A6 e-tron (upcoming),2017,Lithium-iron phosphate,129357.08,South Korea
+Renault,Scenic E-Tech,2021,Nickel-manganese-cobalt,45279.16,Turkey
+Mazda,Mazda EV (upcoming models),2016,Nickel-cobalt-aluminum,114536.92,Sweden
+Maserati,GranTurismo Folgore,2019,Calcium-ion,134539.09,Israel
+Pininfarina,Battista,2022,Sodium-ion,62185.4,Czech Republic
+Fisker,Pear (upcoming),2018,Calcium-ion,101731.26,Denmark
+Maserati,GranTurismo Folgore,2018,Magnesium-ion,116729.11,Belgium
+Polestar,Polestar 5 (upcoming),2022,Lithium-titanate,47560.79,China
+Faraday Future,FF 91,2022,Nickel-manganese-cobalt,80459.18,South Korea
+Rimac,Nevera,2017,Nickel-metal hydride,38433.6,UAE
+Chevrolet,Equinox EV,2015,Lithium-ion,58881.63,Finland
+Lamborghini,Lanzador (upcoming EV),2018,Nickel-metal hydride,103955.6,UK
+Polestar,Polestar 5 (upcoming),2018,Lithium-iron phosphate,63536.48,Belgium
+Volvo,XC40 Recharge,2016,Nickel-cobalt-aluminum,76137.06,India
+VinFast,VFe34 (discontinued),2020,Sodium-ion,102786.47,Sweden
+Rivian,R1S,2020,Nickel-cobalt-aluminum,75533.29,Germany
+Ferrari,Roma PHEV,2020,Nickel-cobalt-aluminum,40735.31,Brazil
+Jeep,Grand Cherokee 4xe (PHEV),2015,Nickel-cobalt-aluminum,139901.99,Finland
+Mazda,MX-30,2021,Lithium-sulfur,49995.46,Austria
+Lamborghini,Lanzador (upcoming EV),2021,Aluminum-ion,39245.7,France
+Porsche,Macan EV,2023,Aluminum-ion,50615.35,Turkey
+BMW,i7,2017,Calcium-ion,63513.25,Australia
+NIO,ET9,2015,Lithium-sulfur,77402.03,Thailand
+Dacia,Bigster EV (upcoming),2019,Lead-acid,34370,Ireland
+BYD,Han EV,2020,Nickel-manganese-cobalt,106614.44,Malaysia
+Nissan,Leaf,2022,Lithium-sulfur,54563.09,Indonesia
+BMW,i4,2022,Aluminum-ion,65274.12,Turkey
+Pininfarina,Battista,2019,Aluminum-ion,115332.6,South Korea
+Pininfarina,Battista,2020,Zinc-air,100274.54,Russia
+Audi,e-tron GT,2021,Sodium-ion,121453.05,UK
+Volkswagen,ID.4,2021,Zinc-air,98182.42,USA
+Changan,SL03,2025,Nickel-manganese-cobalt,71128.46,Argentina
+Mini,Mini Cooper SE,2023,Nickel-metal hydride,123395.53,Austria
+Renault,Kangoo E-Tech,2015,Zinc-air,47756.64,Austria
+BYD,Dolphin,2021,Nickel-cobalt-aluminum,104766.98,China
+Nissan,Ariya,2020,Solid-state,77561.36,Thailand
+Cadillac,Celestiq,2024,Nickel-cobalt-aluminum,118491.62,Saudi Arabia
+Tesla,Model Y,2017,Lithium-ion,140170.03,Brazil
+Jeep,Wrangler 4xe (PHEV),2015,Zinc-air,137646.74,Russia
+Mazda,MX-30,2016,Nickel-manganese-cobalt,113993.13,Russia
+Great Wall Motors,ORA Lightning Cat,2020,Lead-acid,141659.65,Poland
+BMW,iX1,2016,Nickel-metal hydride,38813.06,Mexico
+Mini,Mini Aceman,2023,Lithium-titanate,108741.8,Netherlands
+Porsche,Cayenne Electric (upcoming),2022,Flow batteries,127893.74,Vietnam
+Hyundai,Ioniq 7 (upcoming),2020,Nickel-metal hydride,89442.92,Denmark
+Pininfarina,Battista,2020,Lithium-ion,69902.15,Turkey
+Opel,Grandland Electric,2015,Nickel-manganese-cobalt,120692.83,Czech Republic
+Changan,Q05,2024,Lithium-iron phosphate,66033.9,Japan
+Volvo,XC40 Recharge,2018,Calcium-ion,145036.49,Portugal
+Mini,Mini Electric,2022,Zinc-air,132628.07,UAE
+Pininfarina,Battista,2022,Lithium-ion,65078,Indonesia
+Maserati,Grecale Folgore,2016,Nickel-metal hydride,37917.87,Portugal
+MG,MG ZS EV,2022,Flow batteries,41043.61,India
+Mercedes-Benz,EQE,2020,Nickel-metal hydride,140965.67,Brazil
+Opel,Mokka-e,2018,Nickel-metal hydride,119728.12,Austria
+Chevrolet,Bolt EV,2022,Lithium-iron phosphate,142070.41,Mexico
+Cadillac,Optiq (upcoming),2023,Magnesium-ion,149536.28,Mexico
+Subaru,Solterra,2019,Lithium-ion,149808.37,Spain
+Audi,Q8 e-tron,2019,Lithium-titanate,69330.46,UK
+Honda,Honda Prologue,2020,Aluminum-ion,39460.66,Portugal
+Seat,Avenger,2023,Flow batteries,34888.49,UK
+Kia,EV9,2015,Nickel-manganese-cobalt,100902.46,Belgium
+Faraday Future,FF 91,2022,Lithium-iron phosphate,128661.08,Turkey
+Opel,Corsa-e,2022,Lead-acid,76612.94,South Africa
+Polestar,Polestar 2,2021,Lithium-sulfur,78665.4,Spain
+Dacia,Jogger Hybrid,2018,Lithium-iron phosphate,45955.45,Portugal
+Kia,EV6,2018,Nickel-manganese-cobalt,69013.39,India
+NIO,ES8,2018,Calcium-ion,143897.16,South Korea
+Changan,Q05,2019,Lithium-iron phosphate,63519.37,USA
+Lucid Motors,Lucid DreamDrive,2019,Calcium-ion,56467.88,Germany
+Ford,Mustang Mach-E,2019,Lithium-titanate,108995.26,Poland
+Honda,e:Ny1,2025,Aluminum-ion,147294.21,Sweden
+Tesla,Model Y,2018,Nickel-metal hydride,126551.18,Denmark
+NIO,EL7,2024,Lithium-iron phosphate,72825.68,Belgium
+Ferrari,SF90 Stradale (PHEV),2018,Nickel-cobalt-aluminum,149514.73,France
+BYD,Han EV,2015,Lithium-sulfur,63649.31,Malaysia
+VinFast,VFe34 (discontinued),2023,Lithium-titanate,112679.6,Netherlands
+Pininfarina,Battista,2016,Lead-acid,113565.49,Malaysia
+Mini,Mini Cooper SE,2018,Nickel-metal hydride,53502.73,Denmark
+Jaguar,I-PACE,2020,Flow batteries,81818.7,China
+Maserati,Grecale Folgore,2025,Calcium-ion,55414.22,Indonesia
+Lamborghini,Lanzador (upcoming EV),2022,Nickel-metal hydride,80986.36,Malaysia
+Mazda,Mazda EV (upcoming models),2023,Nickel-manganese-cobalt,45213.47,Austria
+Jeep,Grand Cherokee 4xe (PHEV),2015,Lead-acid,58857.95,Turkey
+Lotus,Evija,2016,Lithium-sulfur,35282.23,Switzerland
+GMC,Hummer EV SUV,2016,Nickel-cobalt-aluminum,68621.09,Portugal
+Nissan,Leaf,2020,Nickel-metal hydride,52850.64,France
+Renault,5 E-Tech,2020,Sodium-ion,61296.49,Saudi Arabia
+Opel,Corsa-e,2017,Nickel-metal hydride,86264.93,Vietnam
+NIO,ES8,2025,Sodium-ion,78622,Canada
+BMW,i4,2019,Calcium-ion,96305.2,New Zealand
+GMC,Hummer EV SUV,2015,Magnesium-ion,37285.41,South Korea
+Tesla,Model X,2025,Lithium-titanate,86837.01,South Africa
+Polestar,Polestar 3,2025,Solid-state,92606.82,Poland
+Renault,Kangoo E-Tech,2018,Solid-state,134813.3,India
+Porsche,Cayenne Electric (upcoming),2018,Lithium-titanate,145106.21,Germany
+Ferrari,Ferrari EV (2025+),2023,Aluminum-ion,74204.62,Turkey
+BMW,iX3,2020,Lithium-ion,64965.15,Switzerland
+Jaguar,I-PACE,2018,Magnesium-ion,101982.62,Australia
+Hyundai,Ioniq 5,2022,Lithium-iron phosphate,34705.34,Japan
+NIO,ET7,2022,Lead-acid,52179.46,Germany
+Volkswagen,ID.2all,2024,Lead-acid,106420.01,Spain
+Skoda,Enyaq,2021,Sodium-ion,39150.23,China
+Volvo,C40 Recharge,2021,Lead-acid,120782.54,Denmark
+Audi,e-tron GT,2022,Lithium-sulfur,142053.35,Czech Republic
+Nissan,Ariya,2018,Nickel-manganese-cobalt,119250.86,France
+BMW,iX1,2018,Sodium-ion,121528.34,Sweden
+Honda,Honda Prologue,2020,Lithium-ion,43052.84,Russia
+Mazda,MX-30,2016,Lithium-iron phosphate,148217.63,Denmark
+Li Auto,L7,2018,Lithium-iron phosphate,110043.09,Germany
+Mazda,MX-30,2015,Lithium-titanate,101742.04,Finland
+Genesis,G80 Electric,2016,Aluminum-ion,106413.24,Belgium
+GMC,Hummer EV Pickup,2017,Aluminum-ion,46955.07,Thailand
+XPeng,P7,2022,Magnesium-ion,50869.75,Poland
+Genesis,GV70 Electric,2023,Nickel-metal hydride,147712.4,USA
+Zeekr,Zeekr 009,2015,Lead-acid,121572.63,Sweden
+Li Auto,L7,2018,Lithium-ion,129673.7,Denmark
+Opel,Mokka-e,2021,Lead-acid,62628.17,Germany
+Cadillac,Celestiq,2021,Solid-state,39006.81,Denmark
+NIO,ET5,2024,Flow batteries,68567.13,Indonesia
+Ford,Mustang Mach-E,2020,Lithium-iron phosphate,82877.95,Czech Republic
+Mini,Mini Electric,2024,Nickel-metal hydride,89051.29,New Zealand
+Nissan,Ariya,2023,Flow batteries,84463.97,Italy
+Kia,EV9,2023,Aluminum-ion,137893.67,France
+Canoo,MPDV,2025,Sodium-ion,52846.46,China
+Rimac,Nevera,2017,Calcium-ion,41341.95,Czech Republic
+Maserati,Grecale Folgore,2017,Aluminum-ion,50438.18,China
+Maserati,Grecale Folgore,2016,Flow batteries,95535.01,Russia
+Polestar,Polestar 2,2023,Nickel-metal hydride,57468.99,Malaysia
+Skoda,Enyaq,2022,Nickel-manganese-cobalt,78610.16,Sweden
+Hyundai,Ioniq 5,2017,Lithium-iron phosphate,77202.81,Argentina
+Ferrari,SF90 Stradale (PHEV),2016,Lead-acid,98474.19,Singapore
+Opel,Grandland Electric,2019,Lithium-iron phosphate,134169.32,Italy
+Maserati,GranTurismo Folgore,2024,Lithium-titanate,65776.47,Mexico
+Fisker,Pear (upcoming),2025,Lead-acid,82968.67,Norway
+Porsche,Taycan,2024,Nickel-manganese-cobalt,37617.73,Australia
+MG,MG ES5,2017,Calcium-ion,119971.74,Saudi Arabia
+BMW,iX3,2019,Aluminum-ion,76818.53,Finland
+Toyota,Lexus UX 300e,2017,Magnesium-ion,51906.72,Thailand
+Acura,ZDX (with GM Ultium),2025,Nickel-metal hydride,129637,Denmark
+Skoda,Elroq (upcoming),2020,Nickel-metal hydride,143402.93,Netherlands
+Lotus,Evija,2025,Sodium-ion,76946.32,Germany
+GMC,Hummer EV SUV,2022,Magnesium-ion,53299.14,Finland
+Great Wall Motors,ORA Ballet Cat,2022,Nickel-metal hydride,62296.05,UK
+Kia,EV6,2020,Lithium-iron phosphate,136331.87,Indonesia
+Nissan,Ariya,2017,Lithium-titanate,122371.13,Japan
+Great Wall Motors,ORA Ballet Cat,2015,Zinc-air,73318.39,Turkey
+Li Auto,L7,2020,Calcium-ion,83973.56,Portugal
+Mini,Mini Cooper SE,2023,Flow batteries,125592.29,Finland
+Zeekr,Zeekr 009,2015,Nickel-metal hydride,126194.58,Austria
+Rimac,Nevera,2018,Lithium-ion,106010.14,UAE
+NIO,EC6,2024,Zinc-air,132041.04,Vietnam
+Peugeot,e-208,2017,Sodium-ion,64549.59,South Africa
+Audi,e-tron GT,2018,Zinc-air,104888.14,India
+Dacia,Bigster EV (upcoming),2020,Lithium-ion,114740,Australia
+BYD,Atto 3,2025,Lithium-sulfur,143056.53,Sweden
+Mini,Mini Aceman,2018,Lithium-titanate,145242.07,New Zealand
+Genesis,GV70 Electric,2015,Sodium-ion,135787.05,Vietnam
+Lamborghini,Revuelto (PHEV),2018,Aluminum-ion,59342.54,Saudi Arabia
+Genesis,G80 Electric,2022,Lithium-iron phosphate,32347.24,Spain
+Geely,Emgrand EV,2024,Nickel-manganese-cobalt,49450.75,Belgium
+Mahindra,Born Electric (upcoming range),2017,Zinc-air,33369.41,France
+Lucid Motors,Lucid Air,2015,Aluminum-ion,142767.23,South Africa
+MG,MG5 EV,2017,Lithium-iron phosphate,140705.69,Japan
+VinFast,VFe34 (discontinued),2020,Solid-state,134640.79,UK
+Fisker,Ocean,2016,Lithium-sulfur,128789.9,Singapore
+Jaguar,I-PACE,2021,Lithium-ion,48888.55,Australia
+Jaguar,I-PACE,2021,Solid-state,116600.48,Italy
+GMC,Hummer EV Pickup,2015,Lithium-sulfur,94337.82,Norway
+Porsche,Taycan,2016,Lithium-sulfur,46873.35,USA
+Nissan,Leaf,2020,Sodium-ion,118317.99,Switzerland
+Canoo,Lifestyle Vehicle,2016,Lithium-iron phosphate,80863.45,UAE
+Honda,e:Ny1,2017,Lithium-ion,73418.71,New Zealand
+Renault,Megane E-Tech,2021,Nickel-cobalt-aluminum,45177.93,South Africa
+Seat,Avenger,2015,Lithium-iron phosphate,78664.8,Singapore
+Geely,Emgrand EV,2025,Magnesium-ion,50697.9,Spain
+Jaguar,I-PACE,2023,Lithium-ion,33197.45,Indonesia
+Zeekr,Zeekr 001,2023,Lithium-ion,47775.86,France
+Li Auto,MEGA,2016,Lithium-iron phosphate,146253.04,Czech Republic
+Jaguar,I-PACE,2015,Lithium-ion,93374.68,Malaysia
+Tesla,Model X,2018,Flow batteries,48790.14,Malaysia
+Jeep,Wrangler 4xe (PHEV),2023,Lithium-iron phosphate,36909.71,Thailand
+VinFast,VF 6,2015,Nickel-manganese-cobalt,60277.99,Spain
+Dacia,Bigster EV (upcoming),2024,Lithium-ion,50654.47,Finland
+VinFast,VFe34 (discontinued),2023,Nickel-manganese-cobalt,100838.06,Canada
+Kia,Niro EV,2018,Nickel-manganese-cobalt,61940.89,Norway
+Mazda,MX-30,2024,Nickel-manganese-cobalt,81694.44,Italy
+Hyundai,Ioniq 7 (upcoming),2015,Calcium-ion,109252.82,France
+Seat,Avenger,2017,Aluminum-ion,117714.81,Turkey
+Honda,Honda Prologue,2023,Nickel-metal hydride,136012.96,Turkey
+Tesla,Cybertruck,2017,Lithium-ion,68423.78,UK
+XPeng,P7,2025,Flow batteries,100851.59,Netherlands
+Mini,Mini Cooper SE,2025,Flow batteries,44149.68,UK
+Polestar,Polestar 3,2022,Lithium-sulfur,75286.42,Australia
+Li Auto,L9,2024,Nickel-cobalt-aluminum,81516.99,Malaysia
+Kia,EV9,2017,Nickel-metal hydride,78795.71,Saudi Arabia
+XPeng,X9,2023,Lithium-iron phosphate,61023.79,Sweden
+Audi,e-tron,2019,Solid-state,120802.63,Belgium
+Volvo,C40 Recharge,2022,Lithium-titanate,59835.04,Hungary
+BYD,Seal,2019,Nickel-manganese-cobalt,108034.29,Czech Republic
+Audi,A6 e-tron (upcoming),2017,Lithium-titanate,144771.13,USA
+Toyota,Lexus RZ,2023,Calcium-ion,104705.7,India
+Jeep,Recon (upcoming),2024,Lead-acid,112642.7,Hungary
+GMC,Hummer EV Pickup,2024,Flow batteries,59567.58,Japan
+Cadillac,Optiq (upcoming),2023,Magnesium-ion,147103.71,Italy
+Mahindra,XUV400,2015,Lithium-ion,65845.61,Spain
+Lamborghini,Lanzador (upcoming EV),2021,Nickel-manganese-cobalt,31722.61,Poland
+Geely,Geometry C,2020,Lithium-iron phosphate,59102,Argentina
+Pininfarina,Battista,2015,Solid-state,36443.89,Vietnam
+Great Wall Motors,ORA Ballet Cat,2025,Nickel-manganese-cobalt,76817.22,UK
+Maserati,GranTurismo Folgore,2015,Lithium-ion,100657.19,New Zealand
+Fisker,Pear (upcoming),2015,Aluminum-ion,79025.84,Netherlands
+Lotus,Emeya,2018,Lithium-titanate,71486.31,India
+Honda,Honda e (discontinued),2017,Lithium-sulfur,135437.99,Portugal
+Genesis,G80 Electric,2020,Lithium-titanate,143335.72,Malaysia
+Geely,Geometry C,2018,Lithium-iron phosphate,33684.61,UAE
+Dacia,Jogger Hybrid,2025,Lead-acid,76442.98,Japan
+Rimac,Nevera,2019,Zinc-air,31417.84,France
+Audi,Q8 e-tron,2020,Nickel-metal hydride,81299.7,Saudi Arabia
+Rivian,R1S,2023,Solid-state,101490.77,Saudi Arabia
+Ferrari,Ferrari EV (2025+),2021,Zinc-air,121720.1,South Korea
+Geely,Emgrand EV,2017,Lithium-sulfur,148379.48,India
+Geely,Geometry A,2023,Lithium-iron phosphate,43527.55,UAE
+Lotus,Evija,2015,Lithium-titanate,44535.19,Canada
+Lotus,Emeya,2022,Nickel-cobalt-aluminum,105765.49,UAE
+Canoo,Pickup,2018,Sodium-ion,116940.71,Czech Republic
+VinFast,VF 9,2019,Nickel-cobalt-aluminum,67119.6,Hungary
+Porsche,Taycan,2020,Calcium-ion,100599.16,China
+Toyota,bZ4X,2016,Lithium-ion,40385.01,Austria
+Canoo,MPDV,2019,Magnesium-ion,97403.74,Vietnam
+GMC,Hummer EV SUV,2017,Nickel-cobalt-aluminum,94792.27,UAE
+Audi,Q4 e-tron,2015,Sodium-ion,131267.15,Australia
+Zeekr,Zeekr 009,2022,Calcium-ion,66327.08,UAE
+Pininfarina,Battista,2016,Nickel-manganese-cobalt,46556.37,India
+Toyota,bZ4X,2024,Lithium-titanate,51243.14,Ireland
+Honda,Honda e (discontinued),2020,Lithium-sulfur,74741.81,Japan
+Mahindra,XUV400,2024,Lithium-ion,56346.88,Mexico
+Porsche,Macan EV,2023,Zinc-air,40675.13,South Africa
+Audi,Q8 e-tron,2023,Aluminum-ion,37909.33,Brazil
+BYD,Han EV,2024,Nickel-metal hydride,108832.47,Norway
+Canoo,MPDV,2017,Lithium-iron phosphate,101237.81,USA
+Ferrari,Roma PHEV,2023,Lithium-titanate,46901.91,South Africa
+Cadillac,Celestiq,2019,Nickel-manganese-cobalt,125163.78,Sweden
+Opel,Corsa-e,2015,Lithium-sulfur,109678.54,Austria
+Honda,Honda e (discontinued),2018,Sodium-ion,78675.79,Saudi Arabia
+Honda,Honda Prologue,2023,Lead-acid,57342.18,Poland
+Toyota,Lexus UX 300e,2015,Nickel-cobalt-aluminum,73706.65,Netherlands
+Pininfarina,Battista,2016,Lithium-ion,109929.89,France
+Kia,Soul EV,2017,Sodium-ion,36478.01,Norway
+Seat,Avenger,2025,Nickel-metal hydride,51868.91,Singapore
+Rimac,Nevera,2020,Lithium-iron phosphate,71642.94,Israel
+Mahindra,XUV400,2022,Lithium-titanate,35942.1,Israel
+XPeng,G9,2025,Zinc-air,137671.49,USA
+GMC,Hummer EV SUV,2016,Solid-state,148858.28,Finland
+Ferrari,Roma PHEV,2017,Lithium-ion,145650.49,Singapore
+Maserati,GranTurismo Folgore,2022,Nickel-manganese-cobalt,90114.46,Italy
+Seat,Avenger,2018,Lithium-ion,131767.95,Mexico
+Rivian,R1S,2020,Lithium-sulfur,85125.42,Norway
+VinFast,VF 7,2019,Sodium-ion,33833.8,Indonesia
+Li Auto,L9,2018,Lithium-ion,77109.85,Italy
+Lamborghini,Lanzador (upcoming EV),2020,Calcium-ion,118433.6,Vietnam
+Faraday Future,FF 91,2015,Aluminum-ion,52384.63,Australia
+Faraday Future,FF 91,2017,Lithium-iron phosphate,81773.89,France
+Lotus,Evija,2022,Lithium-titanate,122736.31,Vietnam
+Ferrari,Ferrari EV (2025+),2022,Lithium-titanate,92011.68,South Korea
+Audi,A6 e-tron (upcoming),2021,Zinc-air,126444.7,Mexico
+Renault,Kangoo E-Tech,2017,Lithium-ion,94398.55,Austria
+Toyota,Lexus RZ,2019,Flow batteries,146872.57,Singapore
+Chevrolet,Bolt EUV,2015,Lithium-sulfur,45744.07,Malaysia
+Opel,Corsa-e,2023,Solid-state,77504.75,South Korea
+XPeng,X9,2016,Zinc-air,108211.35,UK
+Cadillac,Lyriq,2017,Zinc-air,124218.98,Belgium
+Mercedes-Benz,EQE,2024,Solid-state,31679.05,Argentina
+NIO,ES6,2021,Aluminum-ion,37253.35,Czech Republic
+Lucid Motors,Lucid DreamDrive,2019,Zinc-air,71254.79,Ireland
+Jaguar,I-PACE,2019,Nickel-metal hydride,140356.22,Mexico
+MG,MG ZS EV,2023,Lithium-titanate,141636.62,Belgium
+Volvo,C40 Recharge,2023,Sodium-ion,145488.68,Australia
+Volvo,C40 Recharge,2019,Lithium-iron phosphate,114768.7,South Africa
+NIO,ES7,2022,Sodium-ion,143128.97,Mexico
+XPeng,P5,2024,Magnesium-ion,138713.37,UK
+GMC,Hummer EV SUV,2023,Solid-state,68771.58,Singapore
+Toyota,bZ4X,2018,Sodium-ion,76176.72,Czech Republic
+Polestar,Polestar 3,2021,Calcium-ion,55618.92,South Korea
+Nissan,Leaf,2023,Flow batteries,128634.2,Sweden
+Rimac,Nevera,2018,Sodium-ion,51146.18,Australia
+Lucid Motors,Lucid DreamDrive,2017,Calcium-ion,79310.66,Sweden
+Rimac,Nevera,2018,Lithium-iron phosphate,107484.66,Brazil
+Genesis,GV60,2015,Lithium-ion,37885.51,Hungary
+Ferrari,Ferrari EV (2025+),2016,Magnesium-ion,105305.58,Russia
+Dacia,Jogger Hybrid,2023,Magnesium-ion,52378.44,Russia
+Skoda,Enyaq,2018,Nickel-metal hydride,103913.83,Ireland
+Volvo,C40 Recharge,2018,Nickel-cobalt-aluminum,86345.09,South Korea
+Citroen,Ami,2017,Calcium-ion,88967.06,Thailand
+Skoda,Elroq (upcoming),2025,Nickel-metal hydride,131017.74,Spain
+Volkswagen,ID.4,2018,Lithium-iron phosphate,140357.12,Germany
+Peugeot,e-2008,2025,Flow batteries,72448.68,India
+Polestar,Polestar 5 (upcoming),2018,Solid-state,112040.9,Portugal
+Subaru,Solterra,2025,Lead-acid,76244.01,South Korea
+BYD,Dolphin,2016,Sodium-ion,68210.45,China
+Audi,A6 e-tron (upcoming),2025,Sodium-ion,110463.03,India
+BMW,i7,2015,Magnesium-ion,48995.49,China
+Subaru,Solterra,2018,Zinc-air,104436.5,Saudi Arabia
+Audi,e-tron GT,2021,Nickel-manganese-cobalt,148210.8,Italy
+Ferrari,Ferrari EV (2025+),2023,Zinc-air,130879.21,Singapore
+Opel,Mokka-e,2020,Lithium-sulfur,44962.71,Netherlands
+Toyota,Lexus RZ,2024,Flow batteries,115315.97,Italy
+XPeng,G9,2024,Nickel-manganese-cobalt,40683.23,Denmark
+Nissan,Ariya,2018,Sodium-ion,100663.6,Portugal
+Ferrari,Ferrari EV (2025+),2020,Nickel-metal hydride,35945.44,Israel
+Changan,Deepal S07,2025,Lithium-iron phosphate,103689.78,Finland
+Mini,Mini Cooper SE,2018,Lithium-sulfur,143051.48,Austria
+Ferrari,Ferrari EV (2025+),2024,Lithium-iron phosphate,84106.85,Singapore
+Ford,F-150 Lightning,2015,Zinc-air,87243.36,Singapore
+Polestar,Polestar 3,2016,Lithium-ion,112952.63,New Zealand
+Mazda,Mazda EV (upcoming models),2020,Sodium-ion,45079.31,USA
+Ford,F-150 Lightning,2024,Lithium-ion,123454.22,Australia
+Pininfarina,Battista,2025,Flow batteries,81629.29,UK
+Subaru,Solterra,2019,Lithium-titanate,56738.67,UAE
+Peugeot,e-2008,2015,Calcium-ion,61814.78,France
+Peugeot,e-5008,2023,Calcium-ion,137662.37,Portugal
+Mini,Mini Cooper SE,2022,Aluminum-ion,34504.78,Hungary
+Mercedes-Benz,EQA,2021,Nickel-cobalt-aluminum,120467,Netherlands
+Nissan,Leaf,2020,Nickel-cobalt-aluminum,31195.3,Austria
+Zeekr,Zeekr 007,2020,Aluminum-ion,87406.57,Brazil
+BYD,Tang EV,2015,Solid-state,96735.43,Russia
+Maserati,GranTurismo Folgore,2022,Solid-state,116123.92,Italy
+Mini,Mini Aceman,2022,Lithium-titanate,112918.06,Spain
+NIO,ES8,2025,Lead-acid,111316.59,Sweden
+Pininfarina,Battista,2021,Magnesium-ion,116964.85,Belgium
+Volkswagen,ID.3,2016,Lithium-ion,71598.67,UAE
+Canoo,Pickup,2019,Lithium-titanate,72302.61,Finland
+Kia,Niro EV,2017,Nickel-metal hydride,59972.8,Australia
+Porsche,Cayenne Electric (upcoming),2025,Sodium-ion,53082.92,USA
+Subaru,Solterra,2023,Zinc-air,32497.15,USA
+GMC,Hummer EV SUV,2018,Magnesium-ion,138452.85,Vietnam
+Volvo,EX30,2017,Nickel-manganese-cobalt,49202.16,Singapore
+Faraday Future,FF 91,2015,Flow batteries,64300.5,Hungary
+Seat,Avenger,2018,Nickel-cobalt-aluminum,50683.26,Czech Republic
+MG,MG ZS EV,2025,Flow batteries,42836.3,Saudi Arabia
+Canoo,MPDV,2016,Nickel-metal hydride,74653.58,Turkey
+Maserati,GranTurismo Folgore,2021,Lithium-sulfur,61457.27,South Korea
+VinFast,VF 9,2017,Zinc-air,92930.09,Hungary
+Subaru,Solterra,2024,Nickel-cobalt-aluminum,43415.17,Vietnam
+Mazda,MX-30,2024,Lithium-sulfur,88271.71,Singapore
+Canoo,Pickup,2024,Zinc-air,93221.51,Netherlands
+Zeekr,Zeekr 007,2015,Lithium-titanate,71740.26,Netherlands
+Acura,ZDX (with GM Ultium),2020,Magnesium-ion,30229.32,UAE
+BMW,i3,2022,Nickel-cobalt-aluminum,120754.38,Austria
+Skoda,Enyaq,2018,Calcium-ion,106199.97,Saudi Arabia
+Subaru,Solterra,2015,Solid-state,57073.06,Sweden
+Changan,Q05,2024,Lithium-titanate,142547.47,Germany
+Citroen,Ami,2020,Calcium-ion,127586.24,China
+Seat,Avenger,2020,Zinc-air,65869.03,Russia
+XPeng,P5,2020,Lithium-titanate,103396.27,Singapore
+Ferrari,SF90 Stradale (PHEV),2020,Sodium-ion,31083.9,Poland
+Great Wall Motors,ORA Good Cat,2024,Nickel-cobalt-aluminum,98891.32,Russia
+Skoda,Enyaq Coupe,2019,Lead-acid,39032.16,Denmark
+Changan,Q05,2025,Sodium-ion,65156.08,Saudi Arabia
+Mini,Mini Aceman,2023,Magnesium-ion,44192.11,Netherlands
+Nissan,Leaf,2019,Lead-acid,30065.37,Singapore
+Polestar,Polestar 5 (upcoming),2019,Calcium-ion,133859.25,Sweden
+Chevrolet,Volt (PHEV),2021,Magnesium-ion,32074.49,India
+Mazda,Mazda EV (upcoming models),2022,Zinc-air,139471.94,Canada
+Acura,ZDX (with GM Ultium),2021,Sodium-ion,140272.08,Spain
+Mini,Mini Cooper SE,2021,Lead-acid,142799.82,Sweden
+Great Wall Motors,ORA Good Cat,2020,Aluminum-ion,51696,USA
+Honda,Honda Prologue,2019,Nickel-manganese-cobalt,69081.64,Austria
+Rimac,Nevera,2022,Calcium-ion,71723.78,Netherlands
+Porsche,Taycan,2016,Aluminum-ion,106811.1,Australia
+Fisker,Pear (upcoming),2025,Sodium-ion,66632.86,Brazil
+Mahindra,Born Electric (upcoming range),2024,Solid-state,93491.16,South Korea
+Volvo,EX30,2025,Lithium-iron phosphate,93470.93,Czech Republic
+Seat,Avenger,2018,Lithium-sulfur,57764.16,Saudi Arabia
+Seat,Avenger,2018,Calcium-ion,34492.15,Turkey
+Maserati,GranTurismo Folgore,2018,Lithium-ion,112112.55,Norway
+Renault,5 E-Tech,2022,Magnesium-ion,97743.01,Brazil
+Peugeot,e-5008,2022,Lithium-titanate,37836.53,Austria
+VinFast,VF 9,2019,Aluminum-ion,43459.86,Ireland
+Dacia,Bigster EV (upcoming),2017,Solid-state,64861.13,Netherlands
+Citroen,Ami,2024,Lithium-titanate,139300.64,Russia
+Jaguar,I-PACE,2017,Nickel-metal hydride,103104.33,China
+Changan,SL03,2020,Magnesium-ion,127306.22,Portugal
+Lotus,Eletre,2016,Nickel-metal hydride,90333.3,Vietnam
+Hyundai,Ioniq 6,2020,Zinc-air,104063.42,Singapore
+Rimac,Nevera,2023,Calcium-ion,124718.24,Hungary
+Rimac,Nevera,2017,Flow batteries,58935.73,UK
+Volkswagen,ID.Buzz,2020,Sodium-ion,37088.5,Hungary
+BMW,iX,2019,Lithium-iron phosphate,71190.12,South Africa
+Seat,Avenger,2023,Lithium-titanate,59039.34,South Korea
+Acura,ZDX (with GM Ultium),2022,Flow batteries,128449.36,Israel
+Mazda,MX-30,2021,Flow batteries,139321.63,Russia
+Tesla,Model X,2018,Lithium-sulfur,60770.97,Indonesia
+Acura,ZDX (with GM Ultium),2020,Lead-acid,61872.12,Canada
+Tesla,Model X,2017,Nickel-manganese-cobalt,91093.22,Spain
+Rimac,Nevera,2015,Zinc-air,78255.83,Ireland
+Citroen,?-Spacetourer,2024,Lead-acid,72072.6,Belgium
+Changan,Deepal S07,2018,Lithium-ion,120907.08,Portugal
+Audi,A6 e-tron (upcoming),2022,Lithium-iron phosphate,56693.36,Switzerland
+Tesla,Cybertruck,2015,Zinc-air,129108.56,Germany
+Audi,e-tron GT,2018,Aluminum-ion,46074.06,Portugal
+Toyota,bZ4X,2024,Lithium-iron phosphate,107189.59,Finland
+Maserati,GranTurismo Folgore,2015,Zinc-air,76772.95,Singapore
+VinFast,VF 7,2017,Lithium-sulfur,41961.45,Finland
+NIO,ES6,2015,Nickel-manganese-cobalt,108335.73,Sweden
+Renault,5 E-Tech,2016,Zinc-air,85781.56,Hungary
+Nissan,Ariya,2018,Zinc-air,50599.82,France
+NIO,EL7,2017,Nickel-metal hydride,140645.92,Portugal
+Great Wall Motors,ORA Good Cat,2022,Lithium-sulfur,47363.97,Poland
+Ford,E-Transit,2017,Lithium-iron phosphate,117908.21,Germany
+GMC,Hummer EV Pickup,2018,Flow batteries,56957.92,New Zealand
+Skoda,Enyaq,2019,Sodium-ion,34446.65,France
+Faraday Future,FF 91,2023,Aluminum-ion,126280.05,Spain
+Rivian,R1S,2021,Lithium-ion,61058.15,Austria
+Ferrari,SF90 Stradale (PHEV),2022,Lithium-sulfur,66093.06,Thailand
+Renault,5 E-Tech,2018,Magnesium-ion,91183.38,Malaysia
+Rimac,Nevera,2021,Nickel-metal hydride,149744.53,Russia
+Rivian,R1T,2015,Lithium-ion,65002.9,Thailand
+Ferrari,Ferrari EV (2025+),2016,Solid-state,144593.4,UK
+Changan,Q05,2024,Flow batteries,104133.11,USA
+Great Wall Motors,ORA Lightning Cat,2021,Lithium-iron phosphate,59884.94,France
+Hyundai,Ioniq 6,2016,Flow batteries,69567.13,Singapore
+Tesla,Model S,2020,Lithium-iron phosphate,33596.56,India
+Zeekr,Zeekr 007,2017,Lithium-titanate,107275.49,Italy
+Volvo,EX90,2024,Aluminum-ion,136881.95,Japan
+Changan,SL03,2020,Flow batteries,141666.25,Australia
+Lamborghini,Lanzador (upcoming EV),2016,Lead-acid,124356.21,Brazil
+Changan,Q05,2017,Lithium-iron phosphate,40230.37,Belgium
+Volkswagen,ID.7,2025,Nickel-cobalt-aluminum,138533.93,Argentina
+Citroen,?-Spacetourer,2019,Nickel-cobalt-aluminum,137260.04,Indonesia
+Hyundai,Ioniq 6,2018,Lithium-ion,67095.32,Sweden
+Mercedes-Benz,EQE,2020,Magnesium-ion,110181.42,Thailand
+Seat,Avenger,2017,Calcium-ion,79052.37,Malaysia
+Mercedes-Benz,EQC,2025,Lithium-iron phosphate,43062.37,Poland
+Toyota,bZ4X,2019,Lithium-ion,143696.91,UK
+Fisker,Pear (upcoming),2024,Magnesium-ion,63169.47,UK
+Hyundai,Ioniq 5,2022,Lithium-iron phosphate,57041.68,Israel
+Lotus,Emeya,2024,Magnesium-ion,133940.56,Brazil
+Lucid Motors,Lucid DreamDrive,2019,Solid-state,44215.66,South Korea
+Kia,EV9,2015,Lithium-ion,83606.62,Israel
+Subaru,Solterra,2016,Lithium-iron phosphate,100763.28,UAE
+Skoda,Elroq (upcoming),2024,Magnesium-ion,107761.7,Australia
+Rivian,R1S,2020,Lithium-iron phosphate,140714.88,South Africa
+Cadillac,Lyriq,2018,Nickel-manganese-cobalt,96302.98,Canada
+Acura,ZDX (with GM Ultium),2019,Nickel-manganese-cobalt,130500.15,Malaysia
+Lamborghini,Revuelto (PHEV),2025,Lithium-titanate,146433.67,USA
+Porsche,Macan EV,2016,Nickel-cobalt-aluminum,121610.2,Brazil
+Skoda,Enyaq Coupe,2016,Nickel-cobalt-aluminum,147905.13,Sweden
+NIO,ET7,2015,Nickel-manganese-cobalt,147507.02,South Africa
+Maserati,Grecale Folgore,2024,Nickel-metal hydride,56446.88,Poland
+Volvo,XC40 Recharge,2017,Solid-state,73767.41,UAE
+GMC,Hummer EV SUV,2018,Lithium-sulfur,128422.25,Portugal
+VinFast,VF 9,2016,Sodium-ion,121790.2,Italy
+Volvo,EX30,2024,Nickel-manganese-cobalt,75165.67,Japan
+Mazda,Mazda EV (upcoming models),2021,Magnesium-ion,85509.12,Japan
+Jaguar,I-PACE,2021,Magnesium-ion,106946.08,New Zealand
+Nissan,Leaf,2022,Lithium-sulfur,68918.11,Norway
+Ford,Explorer EV (Europe),2017,Lead-acid,81433.29,USA
+Rivian,EDV (Electric Delivery Van),2023,Aluminum-ion,45045.64,Vietnam
+Lotus,Evija,2021,Zinc-air,123620.65,Belgium
+Lucid Motors,Lucid DreamDrive,2021,Lithium-titanate,83924.64,USA
+Great Wall Motors,ORA Ballet Cat,2024,Aluminum-ion,49054.23,China
+Great Wall Motors,ORA Good Cat,2021,Lithium-titanate,114739.99,Sweden
+Cadillac,Lyriq,2022,Solid-state,135964.91,Canada
+Kia,EV9,2024,Lithium-ion,137818.65,Indonesia
+Skoda,Enyaq Coupe,2019,Nickel-manganese-cobalt,134202.18,Australia
+Geely,Geometry A,2020,Flow batteries,55041.43,Australia
+Ferrari,Roma PHEV,2022,Nickel-cobalt-aluminum,144948.33,Thailand
+Kia,Niro EV,2024,Lithium-iron phosphate,89190.75,UK
+Opel,Grandland Electric,2021,Lithium-ion,107505.8,Netherlands
+Honda,Honda e (discontinued),2025,Zinc-air,95535.79,USA
+Maserati,Grecale Folgore,2025,Lithium-titanate,49908.47,China
+Maserati,Grecale Folgore,2024,Lithium-iron phosphate,59671.94,USA
+Faraday Future,FF 91,2020,Calcium-ion,64041.59,Japan
+VinFast,VF 7,2024,Lithium-iron phosphate,65345.19,Thailand
+Fisker,Ocean,2016,Nickel-metal hydride,40855.9,South Korea
+Volkswagen,ID.3,2016,Nickel-metal hydride,87734.65,Israel
+Opel,Mokka-e,2025,Solid-state,148318.04,Israel
+Great Wall Motors,ORA Lightning Cat,2018,Lithium-titanate,62888.34,Sweden
+Seat,Avenger,2024,Nickel-cobalt-aluminum,98529.83,Saudi Arabia
+Kia,Soul EV,2020,Lithium-titanate,41290.46,Italy
+Geely,Geometry C,2024,Nickel-manganese-cobalt,45221.98,Spain
+Faraday Future,FF 91,2023,Magnesium-ion,95127.79,Japan
+Jeep,Recon (upcoming),2020,Solid-state,86072.39,Czech Republic
+Peugeot,e-2008,2023,Nickel-metal hydride,87339.11,Norway
+BYD,Seal,2018,Calcium-ion,39618.37,Thailand
+Porsche,Panamera EV,2025,Aluminum-ion,96296.48,Israel
+Polestar,Polestar 4,2016,Lithium-sulfur,102658.14,Indonesia
+Pininfarina,Battista,2024,Sodium-ion,64204.84,Germany
+Polestar,Polestar 4,2018,Lead-acid,85641.64,Israel
+Changan,Deepal S07,2025,Lithium-ion,112210.48,South Korea
+Fisker,Ocean,2015,Zinc-air,80839.11,Vietnam
+Tesla,Roadster (upcoming),2024,Lithium-sulfur,142642.95,France
+Porsche,Cayenne Electric (upcoming),2022,Flow batteries,80426.79,Japan
+Chevrolet,Volt (PHEV),2021,Magnesium-ion,96057.48,UK
+Porsche,Taycan,2017,Lithium-sulfur,62078.29,Russia
+Ferrari,Roma PHEV,2022,Zinc-air,65210.63,Argentina
+Toyota,Lexus UX 300e,2022,Nickel-metal hydride,31450.55,Ireland
+Toyota,bZ4X,2016,Nickel-cobalt-aluminum,102408.71,Japan
+Subaru,Solterra,2025,Flow batteries,90622.66,Spain
+Genesis,GV80 Electric,2021,Lithium-sulfur,135220.69,Austria
+BYD,Atto 3,2024,Zinc-air,140940.34,Singapore
+Lamborghini,Lanzador (upcoming EV),2015,Lithium-sulfur,81408.56,Japan
+Rivian,R1T,2021,Nickel-manganese-cobalt,78546.18,Canada
+Genesis,GV80 Electric,2016,Zinc-air,90848,Switzerland
+Citroen,?-C4,2024,Nickel-cobalt-aluminum,113231.94,Turkey
+Mini,Mini Aceman,2019,Zinc-air,37041.92,UAE
+Li Auto,MEGA,2018,Nickel-metal hydride,49543.12,USA
+Ferrari,Ferrari EV (2025+),2017,Nickel-manganese-cobalt,145893.06,Switzerland
+Canoo,Pickup,2024,Lithium-sulfur,54749.62,Israel
+Subaru,Solterra,2016,Lithium-sulfur,149266.07,Norway
+Honda,Honda e (discontinued),2023,Nickel-metal hydride,91515.56,Portugal
+Renault,Megane E-Tech,2021,Nickel-manganese-cobalt,75228.62,Portugal
+Kia,EV9,2025,Calcium-ion,108485.87,Mexico
+Cadillac,Lyriq,2021,Flow batteries,91581.3,Japan
+Li Auto,L8,2025,Calcium-ion,69149.88,Germany
+Genesis,G80 Electric,2025,Lithium-sulfur,101080.36,Ireland
+Volkswagen,ID.3,2023,Lithium-ion,44405.63,Norway
+Rivian,R1S,2024,Nickel-cobalt-aluminum,92630.48,Russia
+Mercedes-Benz,EQE SUV,2018,Nickel-cobalt-aluminum,48745.21,Australia
+Canoo,MPDV,2015,Lithium-iron phosphate,140194.9,Belgium
+Fisker,Ocean,2021,Lithium-sulfur,123466.14,Germany
+Jaguar,I-PACE,2024,Nickel-manganese-cobalt,115476.02,Sweden
+Cadillac,Optiq (upcoming),2023,Nickel-cobalt-aluminum,67249.43,Russia
+Cadillac,Optiq (upcoming),2021,Nickel-metal hydride,80034.35,Australia
+Jeep,Grand Cherokee 4xe (PHEV),2024,Aluminum-ion,120179.48,New Zealand
+Porsche,Panamera EV,2021,Lithium-ion,35862.69,Spain
+Hyundai,Ioniq 5,2017,Nickel-cobalt-aluminum,35960.44,Australia
+Genesis,GV70 Electric,2015,Calcium-ion,44185.05,South Africa
+Chevrolet,Equinox EV,2024,Lead-acid,119073.94,Italy
+Lotus,Eletre,2018,Sodium-ion,81372.86,France
+Canoo,Lifestyle Vehicle,2025,Calcium-ion,40221.01,Argentina
+Ferrari,Roma PHEV,2022,Nickel-metal hydride,30807.31,Poland
+Mini,Mini Aceman,2020,Calcium-ion,89504.17,Netherlands
+Citroen,Ami,2025,Nickel-metal hydride,119305.3,Ireland
+Lucid Motors,Lucid Gravity,2017,Magnesium-ion,64393.34,USA
+Opel,Corsa-e,2020,Solid-state,86452.32,China
+Hyundai,Ioniq 7 (upcoming),2018,Flow batteries,72201.03,Spain
+Fisker,Pear (upcoming),2023,Lithium-titanate,130220.14,Portugal
+BMW,iX3,2022,Calcium-ion,59499.59,USA
+Cadillac,Optiq (upcoming),2023,Nickel-metal hydride,100627.96,Netherlands
+XPeng,G9,2025,Lithium-titanate,31493.71,Hungary
+Zeekr,Zeekr X,2018,Lithium-titanate,36659.25,Ireland
+Citroen,?-Spacetourer,2022,Lithium-ion,35107.21,Japan
+Canoo,MPDV,2025,Aluminum-ion,53963.06,Sweden
+Lamborghini,Revuelto (PHEV),2020,Nickel-metal hydride,43372.61,Thailand
+Nissan,Ariya,2018,Zinc-air,144236.76,Portugal
+Lucid Motors,Lucid Air,2022,Magnesium-ion,98675.39,Belgium
+Li Auto,L8,2018,Sodium-ion,73596.25,Italy
+Canoo,MPDV,2022,Lithium-ion,141375.16,Thailand
+Volkswagen,ID.Buzz,2023,Aluminum-ion,30961.71,Israel
+BMW,iX3,2018,Flow batteries,61475.08,Denmark
+Volvo,XC40 Recharge,2024,Flow batteries,104793.72,Vietnam
+Rimac,Nevera,2019,Flow batteries,119659.99,Czech Republic
+Acura,ZDX (with GM Ultium),2023,Zinc-air,64007.22,Czech Republic
+BYD,Tang EV,2016,Nickel-manganese-cobalt,75586.34,Indonesia
+Geely,Geometry A,2019,Nickel-manganese-cobalt,78732.6,Denmark
+Skoda,Enyaq,2016,Nickel-manganese-cobalt,127075.6,Vietnam
+Honda,Honda Prologue,2016,Lithium-iron phosphate,61841.79,India
+Changan,Q05,2015,Sodium-ion,141888.71,Singapore
+Rivian,R1S,2020,Nickel-cobalt-aluminum,68672.3,Russia
+Changan,SL03,2017,Lithium-iron phosphate,126154.66,Saudi Arabia
+Cadillac,Celestiq,2021,Nickel-manganese-cobalt,102444.53,Switzerland
+Chevrolet,Bolt EUV,2023,Aluminum-ion,142172.56,India
+GMC,Hummer EV Pickup,2018,Lithium-titanate,58595.82,Germany
+Lucid Motors,Lucid Air,2017,Lead-acid,89357.28,Ireland
+Canoo,Pickup,2016,Sodium-ion,76680.48,Hungary
+Jaguar,I-PACE,2015,Lithium-titanate,55613.29,Norway
+Geely,Geometry C,2022,Lithium-iron phosphate,90747.84,Thailand
+Rivian,EDV (Electric Delivery Van),2020,Lithium-ion,67583.03,Turkey
+Great Wall Motors,ORA Ballet Cat,2019,Lithium-titanate,111047.7,New Zealand
+Ferrari,SF90 Stradale (PHEV),2021,Calcium-ion,78580.56,Turkey
+Renault,Megane E-Tech,2019,Zinc-air,55063.89,Switzerland
+Dacia,Bigster EV (upcoming),2024,Magnesium-ion,118811.14,Hungary
+Canoo,Pickup,2021,Lithium-sulfur,60871.19,France
+Audi,e-tron,2020,Zinc-air,31954.04,China
+Canoo,MPDV,2023,Lithium-titanate,129205.31,Netherlands
+Opel,Grandland Electric,2023,Nickel-metal hydride,107155.2,New Zealand
+Lotus,Eletre,2021,Lithium-titanate,60650.14,Argentina
+Nissan,Ariya,2023,Nickel-cobalt-aluminum,125613.57,Saudi Arabia
+XPeng,P7,2015,Calcium-ion,76102.93,USA
+MG,MG ES5,2019,Sodium-ion,120192.95,Russia
+NIO,EL7,2020,Lead-acid,36898.78,Indonesia
+Audi,A6 e-tron (upcoming),2024,Zinc-air,131763.61,Denmark
+Canoo,Pickup,2015,Lithium-titanate,35469.82,Poland
+Porsche,Taycan,2020,Lithium-titanate,103045.6,China
+Great Wall Motors,ORA Ballet Cat,2022,Calcium-ion,62728.32,UAE
+Rimac,Nevera,2022,Lithium-iron phosphate,89057.16,USA
+Nissan,Ariya,2024,Calcium-ion,147910.92,Netherlands
+Fisker,Ocean,2020,Lead-acid,131326.08,Japan
+Zeekr,Zeekr 007,2020,Zinc-air,38003.24,Portugal
+Citroen,Ami,2017,Calcium-ion,126717.71,France
+Peugeot,e-3008,2023,Nickel-cobalt-aluminum,80398.8,Czech Republic
+XPeng,G6,2024,Lithium-iron phosphate,147807.12,UK
+Ferrari,Roma PHEV,2021,Zinc-air,141342.13,Italy
+Nissan,Leaf,2017,Lithium-iron phosphate,127506.17,Vietnam
+Mini,Mini Aceman,2019,Magnesium-ion,38472.16,Malaysia
+GMC,Hummer EV Pickup,2022,Lithium-titanate,37776.24,Ireland
+XPeng,X9,2018,Lead-acid,93014.84,Germany
+Jaguar,I-PACE,2025,Calcium-ion,98048.69,Saudi Arabia
+Canoo,Lifestyle Vehicle,2025,Calcium-ion,121251.01,Japan
+Lamborghini,Revuelto (PHEV),2021,Lead-acid,114772.81,Vietnam
+Li Auto,MEGA,2020,Nickel-manganese-cobalt,52921.07,Malaysia
+Rivian,R1T,2020,Sodium-ion,138608.2,Italy
+Toyota,Lexus UX 300e,2019,Lithium-sulfur,39161.99,Poland
+VinFast,VF 8,2015,Lithium-iron phosphate,120006.24,Saudi Arabia
+BMW,iX,2018,Flow batteries,91485.37,Indonesia
+Renault,Kangoo E-Tech,2019,Calcium-ion,103578.72,Switzerland
+BYD,Dolphin,2017,Zinc-air,58022.57,Thailand
+Pininfarina,Battista,2025,Lithium-sulfur,66010.31,Argentina
+Zeekr,Zeekr 007,2015,Nickel-manganese-cobalt,131587.08,Spain
+Mazda,MX-30,2025,Nickel-manganese-cobalt,83034.41,USA
+Audi,Q4 e-tron,2016,Lithium-iron phosphate,76392.48,Israel
+Peugeot,e-2008,2024,Magnesium-ion,106430.63,Denmark
+Nissan,Ariya,2017,Solid-state,85161.56,India
+Peugeot,e-5008,2018,Lithium-sulfur,131883.56,Italy
+Renault,Kangoo E-Tech,2021,Lead-acid,118844.33,New Zealand
+Jaguar,I-PACE,2019,Lithium-ion,72055.42,Poland
+Lamborghini,Lanzador (upcoming EV),2018,Nickel-manganese-cobalt,100146.78,Brazil
+Citroen,?-C4,2025,Nickel-metal hydride,61524.98,Poland
+Porsche,Panamera EV,2020,Solid-state,141043.15,UAE
+Subaru,Solterra,2018,Lithium-iron phosphate,117745.81,UK
+Jaguar,I-PACE,2024,Nickel-manganese-cobalt,46081.57,USA
+Kia,Niro EV,2015,Lithium-titanate,116770.4,New Zealand
+Honda,e:Ny1,2021,Nickel-manganese-cobalt,31773.86,UAE
+Lotus,Emeya,2021,Lithium-sulfur,78785.54,USA
+Audi,Q4 e-tron,2019,Nickel-metal hydride,36335.26,South Korea
+Nissan,Ariya,2017,Nickel-metal hydride,48408.3,Indonesia
+Ford,Mustang Mach-E,2016,Calcium-ion,118822.63,Italy
+Jeep,Grand Cherokee 4xe (PHEV),2017,Flow batteries,33303.76,Finland
+Volvo,XC40 Recharge,2018,Lithium-iron phosphate,144642.82,Switzerland
+Volkswagen,ID.4,2019,Nickel-metal hydride,81383.62,Norway
+Faraday Future,FF 91,2018,Nickel-cobalt-aluminum,134036.35,Portugal
+Fisker,Pear (upcoming),2016,Sodium-ion,69901.87,China
+GMC,Hummer EV SUV,2021,Lithium-sulfur,78518.37,Argentina
+Rimac,Nevera,2020,Lithium-iron phosphate,106054.84,Singapore
+Jeep,Grand Cherokee 4xe (PHEV),2019,Solid-state,133609.35,Indonesia
+Mini,Mini Cooper SE,2021,Lead-acid,99330.14,France
+Cadillac,Optiq (upcoming),2025,Solid-state,90011.17,Thailand
+Nissan,Ariya,2018,Nickel-manganese-cobalt,123001.86,USA
+Nissan,Leaf,2021,Lithium-titanate,44698.33,Thailand
+Rimac,Nevera,2017,Lithium-titanate,114303.75,Thailand
+Acura,ZDX (with GM Ultium),2015,Lithium-iron phosphate,109793.25,Canada
+Hyundai,Ioniq 7 (upcoming),2022,Flow batteries,56480.84,Japan
+XPeng,G6,2024,Zinc-air,39756.46,Austria
+Faraday Future,FF 91,2025,Lithium-sulfur,97602.21,Spain
+Cadillac,Lyriq,2015,Solid-state,31250.63,Israel
+Subaru,Solterra,2015,Nickel-metal hydride,141099.55,Saudi Arabia
+Mazda,MX-30,2016,Calcium-ion,61335.98,South Korea
+Mini,Mini Electric,2022,Calcium-ion,95225.42,UK
+Rivian,R1T,2016,Zinc-air,66414.61,USA
+Volkswagen,ID.2all,2023,Nickel-manganese-cobalt,88149.47,China
+NIO,ES7,2021,Lithium-iron phosphate,106458.26,Finland
+Polestar,Polestar 3,2016,Sodium-ion,39888.14,Switzerland
+Audi,Q8 e-tron,2023,Lithium-sulfur,51060.04,Russia
+Faraday Future,FF 91,2022,Zinc-air,139788.17,Vietnam
+Nissan,Ariya,2016,Zinc-air,71744.17,Thailand
+Acura,ZDX (with GM Ultium),2022,Nickel-metal hydride,33106.84,USA
+Volvo,XC40 Recharge,2021,Lead-acid,61281.24,Turkey
+Maserati,Grecale Folgore,2025,Lithium-sulfur,94355.84,New Zealand
+Volvo,C40 Recharge,2023,Nickel-metal hydride,94326,Hungary
+Chevrolet,Bolt EV,2019,Solid-state,126304.05,Argentina
+Lucid Motors,Lucid Gravity,2022,Aluminum-ion,30918.69,Czech Republic
+Cadillac,Celestiq,2023,Lithium-iron phosphate,32847.56,France
+VinFast,VFe34 (discontinued),2016,Aluminum-ion,125984.09,Italy
+Nissan,Ariya,2018,Magnesium-ion,57281.34,Israel
+Polestar,Polestar 5 (upcoming),2024,Zinc-air,144938.6,Argentina
+Ferrari,Ferrari EV (2025+),2015,Calcium-ion,35860.67,Brazil
+Renault,Megane E-Tech,2021,Sodium-ion,62804.21,Japan
+Mini,Mini Aceman,2016,Lithium-sulfur,56394.24,Turkey
+Toyota,Lexus RZ,2022,Magnesium-ion,135172.73,Saudi Arabia
+Subaru,Solterra,2015,Lithium-sulfur,116417.55,Belgium
+Mazda,MX-30,2021,Nickel-metal hydride,63306.05,Malaysia
+VinFast,VF 8,2025,Zinc-air,68659.02,Italy
+Zeekr,Zeekr 007,2017,Aluminum-ion,41905.05,Netherlands
+Opel,Corsa-e,2016,Sodium-ion,75893.97,New Zealand
+Jaguar,I-PACE,2024,Nickel-metal hydride,48146.85,France
+GMC,Hummer EV Pickup,2022,Zinc-air,107535.32,Israel
+Dacia,Bigster EV (upcoming),2022,Solid-state,67092.52,Malaysia
+Renault,5 E-Tech,2017,Lithium-titanate,86246.77,Saudi Arabia
+Geely,Geometry A,2016,Zinc-air,103713.46,UK
+Fisker,Ocean,2025,Nickel-manganese-cobalt,33180.33,Netherlands
+Audi,A6 e-tron (upcoming),2015,Nickel-metal hydride,105127.63,Malaysia
+Polestar,Polestar 3,2017,Lithium-iron phosphate,38593.48,India
+Mahindra,XUV400,2016,Lithium-sulfur,34805.09,Belgium
+Ford,F-150 Lightning,2016,Lithium-iron phosphate,105164.29,India
+Mahindra,XUV400,2025,Nickel-manganese-cobalt,70899.27,South Africa
+Faraday Future,FF 91,2017,Lithium-titanate,133895.84,Argentina
+Volvo,C40 Recharge,2022,Calcium-ion,76308.34,Indonesia
+Canoo,MPDV,2019,Lithium-titanate,105056.91,USA
+Pininfarina,Battista,2017,Calcium-ion,120083.26,Russia
+Opel,Corsa-e,2019,Flow batteries,99063.36,Vietnam
+Mazda,Mazda EV (upcoming models),2022,Lead-acid,71386.67,Singapore
+Nissan,Leaf,2018,Flow batteries,96660.07,Sweden
+Seat,Avenger,2020,Solid-state,117581.26,Thailand
+Tesla,Model S,2016,Nickel-metal hydride,143897.8,South Africa
+Citroen,?-C4,2021,Calcium-ion,124798.03,Saudi Arabia
+Tesla,Model X,2025,Flow batteries,135204.97,Italy
+BMW,i3,2018,Nickel-metal hydride,141663.41,South Korea
+Great Wall Motors,ORA Lightning Cat,2023,Lithium-titanate,35854.51,Turkey
+Mazda,MX-30,2019,Lithium-iron phosphate,70791.66,Switzerland
+Rivian,R1S,2019,Nickel-manganese-cobalt,104935.85,France
+Canoo,Pickup,2023,Lithium-sulfur,85510.76,France
+Seat,Avenger,2021,Solid-state,125859.98,Canada
+Jeep,Grand Cherokee 4xe (PHEV),2025,Lithium-iron phosphate,116330.06,Mexico
+Jeep,Wagoneer S,2021,Sodium-ion,144222.64,Israel
+Changan,Q05,2022,Sodium-ion,62122.16,Vietnam
+Ford,E-Transit,2018,Nickel-metal hydride,76109.84,UAE
+Dacia,Jogger Hybrid,2017,Sodium-ion,81176.29,USA
+Great Wall Motors,ORA Good Cat,2015,Flow batteries,115802.95,New Zealand
+Mazda,MX-30,2020,Nickel-metal hydride,123627.93,USA
+Toyota,bZ4X,2018,Lithium-sulfur,145717.44,New Zealand
+Skoda,Elroq (upcoming),2024,Flow batteries,82140.3,Thailand
+Skoda,Enyaq Coupe,2023,Calcium-ion,103799.19,Sweden
+Opel,Mokka-e,2024,Lithium-iron phosphate,99534.65,Spain
+Mini,Mini Electric,2021,Lithium-ion,100409.26,Mexico
+Ford,Explorer EV (Europe),2015,Lithium-ion,98618.47,Spain
+Mazda,MX-30,2020,Nickel-manganese-cobalt,98454.6,Singapore
+Acura,ZDX (with GM Ultium),2019,Flow batteries,54920.21,Italy
+XPeng,X9,2020,Lithium-sulfur,89767.2,Czech Republic
+Maserati,GranTurismo Folgore,2025,Lithium-ion,68355.55,Germany
+Genesis,GV70 Electric,2015,Aluminum-ion,68432.19,Switzerland
+BMW,iX3,2015,Zinc-air,83204.07,USA
+Genesis,GV70 Electric,2020,Lithium-titanate,143199.02,Norway
+Geely,Geometry C,2021,Solid-state,139942.8,Turkey
+Audi,Q4 e-tron,2024,Lithium-sulfur,131616.5,Austria
+Lamborghini,Revuelto (PHEV),2025,Magnesium-ion,54336.36,Finland
+Mini,Mini Cooper SE,2024,Lithium-iron phosphate,120896.17,Thailand
+XPeng,G6,2025,Lead-acid,58342.5,South Africa
+Mercedes-Benz,G-Class Electric (upcoming),2021,Nickel-metal hydride,83262.39,Turkey
+XPeng,G9,2017,Nickel-metal hydride,99693.62,Hungary
+Ford,Explorer EV (Europe),2020,Zinc-air,130632.55,Argentina
+Mazda,MX-30,2022,Solid-state,96172.33,Singapore
+Faraday Future,FF 91,2023,Lead-acid,67004.38,Japan
+Honda,Honda Prologue,2024,Lithium-titanate,136679.23,Australia
+Lucid Motors,Lucid Air,2016,Solid-state,37656.94,Thailand
+Genesis,GV80 Electric,2017,Nickel-metal hydride,55298.47,UAE
+Lucid Motors,Lucid Air,2017,Magnesium-ion,80816.94,Singapore
+Seat,Avenger,2022,Aluminum-ion,143524.45,Argentina
+Mahindra,XUV400,2020,Flow batteries,69636.76,Portugal
+MG,MG4 Electric,2025,Lithium-titanate,97387.72,Austria
+Mahindra,XUV400,2021,Nickel-cobalt-aluminum,33515.82,Australia
+Mercedes-Benz,EQS SUV,2024,Lead-acid,134552.1,Vietnam
+VinFast,VF 8,2020,Magnesium-ion,93841.4,Australia
+Ferrari,SF90 Stradale (PHEV),2022,Nickel-manganese-cobalt,131344.36,Hungary
+Nissan,Leaf,2021,Nickel-metal hydride,111190.09,USA
+Rivian,R1S,2018,Aluminum-ion,122613.44,Austria
+Faraday Future,FF 91,2016,Nickel-metal hydride,134272.47,Brazil
+Faraday Future,FF 91,2016,Lithium-titanate,53092.66,Brazil
+Canoo,MPDV,2016,Zinc-air,138225.25,Brazil
+Volkswagen,ID.6,2017,Lead-acid,83071.42,France
+Renault,5 E-Tech,2021,Lithium-sulfur,60904.63,Turkey
+Ferrari,SF90 Stradale (PHEV),2016,Zinc-air,58184.56,Ireland
+Chevrolet,Volt (PHEV),2024,Calcium-ion,114467.86,Malaysia
+Canoo,MPDV,2023,Lead-acid,40854.18,Sweden
+Chevrolet,Bolt EUV,2023,Nickel-metal hydride,45901.75,Argentina
+Jeep,Wrangler 4xe (PHEV),2019,Flow batteries,114869.76,Poland
+Genesis,GV70 Electric,2025,Zinc-air,78960.03,Israel
+Faraday Future,FF 91,2022,Lithium-iron phosphate,46950.55,UK
+Kia,Niro EV,2021,Zinc-air,111527.69,New Zealand
+Tesla,Model Y,2025,Lithium-sulfur,53579.61,Portugal
+Faraday Future,FF 91,2023,Nickel-manganese-cobalt,67161.43,South Korea
+Genesis,GV60,2019,Lithium-ion,112181.29,Brazil
+MG,MG ZS EV,2015,Solid-state,38600.51,Hungary
+Mercedes-Benz,EQE,2015,Solid-state,58325.51,UAE
+Jaguar,I-PACE,2018,Nickel-cobalt-aluminum,114169.65,India
+Great Wall Motors,ORA Good Cat,2015,Lithium-ion,116072.57,South Korea
+VinFast,VF 6,2025,Flow batteries,56002.99,South Africa
+Subaru,Solterra,2019,Aluminum-ion,77451.35,India
+Geely,Emgrand EV,2025,Magnesium-ion,131574.88,Israel
+Volvo,XC40 Recharge,2020,Sodium-ion,131528.08,New Zealand
+NIO,ET7,2019,Lithium-sulfur,80911.55,Switzerland
+Skoda,Enyaq Coupe,2017,Flow batteries,57211.71,Thailand
+Nissan,Ariya,2021,Sodium-ion,138287.29,Switzerland
+Volvo,EX90,2025,Zinc-air,112811.43,Brazil
+Mini,Mini Aceman,2017,Nickel-manganese-cobalt,63619.15,Spain
+Maserati,GranTurismo Folgore,2017,Nickel-metal hydride,53109.55,Saudi Arabia
+Pininfarina,Battista,2023,Zinc-air,87247.72,Israel
+Jaguar,I-PACE,2019,Lead-acid,72713.54,France
+Mahindra,XUV400,2025,Magnesium-ion,59190.48,Denmark
+Canoo,Lifestyle Vehicle,2021,Solid-state,139662.71,China
+Jeep,Wrangler 4xe (PHEV),2021,Lead-acid,54861.78,USA
+NIO,ES6,2018,Nickel-cobalt-aluminum,103670.43,Mexico
+Polestar,Polestar 5 (upcoming),2025,Nickel-metal hydride,123182.99,Austria
+Lamborghini,Revuelto (PHEV),2017,Nickel-manganese-cobalt,48495.26,Mexico
+Peugeot,e-2008,2020,Lead-acid,134117.56,France
+Maserati,GranTurismo Folgore,2018,Zinc-air,54949.1,UAE
+Tesla,Model Y,2024,Nickel-cobalt-aluminum,104611.49,Israel
+Volkswagen,ID.Buzz,2019,Aluminum-ion,85308.27,Denmark
+GMC,Hummer EV SUV,2018,Aluminum-ion,44522.87,Austria
+Mercedes-Benz,EQA,2016,Lithium-titanate,37359.71,Belgium
+Kia,EV6,2019,Lithium-sulfur,148229.97,Netherlands
+Geely,Geometry C,2020,Lithium-titanate,91770.46,China
+Kia,EV6,2022,Sodium-ion,86094.97,Poland
+Canoo,Lifestyle Vehicle,2021,Calcium-ion,53956.08,Hungary
+Porsche,Macan EV,2022,Nickel-cobalt-aluminum,123044.13,Brazil
+Canoo,MPDV,2018,Zinc-air,66665.25,Sweden
+Li Auto,L8,2018,Magnesium-ion,60882.51,Argentina
+Chevrolet,Equinox EV,2021,Magnesium-ion,59890.72,Norway
+Toyota,bZ4X,2020,Calcium-ion,121094.19,South Africa
+Ferrari,Roma PHEV,2024,Calcium-ion,102112.77,New Zealand
+Tesla,Model S,2024,Magnesium-ion,143944.79,Portugal
+Zeekr,Zeekr 007,2022,Zinc-air,79029.96,Australia
+Hyundai,Ioniq 6,2024,Nickel-manganese-cobalt,55787.14,Spain
+Fisker,Pear (upcoming),2021,Lithium-titanate,117356.56,Germany
+Mazda,MX-30,2020,Zinc-air,147168.59,Hungary
+Mahindra,Born Electric (upcoming range),2019,Lithium-ion,125448.57,China
+Subaru,Solterra,2017,Sodium-ion,134555.19,Vietnam
+Lotus,Evija,2019,Zinc-air,134180.69,India
+Opel,Corsa-e,2017,Nickel-manganese-cobalt,126781.5,Switzerland
+Mahindra,Born Electric (upcoming range),2020,Lead-acid,76474.95,Sweden
+Mazda,MX-30,2025,Zinc-air,116247.7,France
+Li Auto,L7,2022,Lithium-titanate,56380.9,Malaysia
+NIO,ES6,2021,Nickel-manganese-cobalt,138207.46,Ireland
+Mazda,MX-30,2019,Calcium-ion,131813,Australia
+Li Auto,MEGA,2019,Lithium-ion,87602.22,Brazil
+Rimac,Nevera,2018,Flow batteries,107201.97,Singapore
+MG,MG4 Electric,2018,Lithium-titanate,147982.91,Mexico
+Volkswagen,ID.6,2021,Lithium-ion,34418.3,Germany
+Jeep,Wagoneer S,2021,Solid-state,149234.21,UAE
+XPeng,P5,2016,Lithium-sulfur,41161.13,Indonesia
+XPeng,P5,2023,Aluminum-ion,115441.78,Thailand
+Dacia,Jogger Hybrid,2018,Lithium-titanate,52312.3,Czech Republic
+Porsche,Macan EV,2016,Lithium-sulfur,93832.09,Japan
+Honda,Honda Prologue,2023,Sodium-ion,129313.66,Denmark
+Volvo,EX90,2025,Lithium-iron phosphate,141080.54,New Zealand
+Skoda,Enyaq,2015,Nickel-metal hydride,143361.17,Hungary
+Acura,ZDX (with GM Ultium),2016,Nickel-manganese-cobalt,126807.74,Singapore
+NIO,ES8,2020,Magnesium-ion,71419.42,Norway
+Maserati,Grecale Folgore,2023,Aluminum-ion,145262.08,Spain
+Kia,EV6,2024,Nickel-manganese-cobalt,118260.66,Norway
+Hyundai,Ioniq 6,2021,Solid-state,72763.02,South Korea
+Geely,Geometry C,2023,Solid-state,136559.93,Argentina
+Dacia,Bigster EV (upcoming),2018,Lithium-titanate,97003.41,Ireland
+Ford,Mustang Mach-E,2021,Lithium-sulfur,146603.88,India
+Renault,5 E-Tech,2017,Flow batteries,46967.44,Turkey
+XPeng,G6,2025,Magnesium-ion,33657.24,Portugal
+Volvo,C40 Recharge,2025,Magnesium-ion,121207.6,Australia
+Lamborghini,Lanzador (upcoming EV),2024,Nickel-manganese-cobalt,142713.07,Finland
+MG,MG ZS EV,2017,Aluminum-ion,75612.4,UAE
+VinFast,VF 8,2019,Aluminum-ion,102838.46,Japan
+Jeep,Wagoneer S,2021,Nickel-cobalt-aluminum,138069.61,Brazil
+Geely,Emgrand EV,2021,Sodium-ion,76722.34,Indonesia
+Faraday Future,FF 91,2023,Nickel-cobalt-aluminum,63251.3,Malaysia
+Rivian,R1S,2016,Magnesium-ion,97214.34,Singapore
+Renault,Megane E-Tech,2020,Lithium-iron phosphate,135924.6,Indonesia
+Mini,Mini Aceman,2021,Nickel-manganese-cobalt,121096.7,South Africa
+Mercedes-Benz,EQE SUV,2025,Flow batteries,49769.96,USA
+Zeekr,Zeekr 009,2021,Lead-acid,79140.51,Turkey
+Toyota,Lexus UX 300e,2019,Zinc-air,39521.93,Denmark
+Acura,ZDX (with GM Ultium),2023,Lithium-titanate,40438.27,China
+Rimac,Nevera,2025,Solid-state,70157.42,Finland
+Jaguar,I-PACE,2022,Lead-acid,35978.45,Brazil
+Citroen,Ami,2020,Zinc-air,63693.82,South Africa
+Great Wall Motors,ORA Lightning Cat,2021,Lead-acid,113298.94,Turkey
+Audi,Q4 e-tron,2018,Nickel-manganese-cobalt,119624.5,Brazil
+Ford,Explorer EV (Europe),2015,Zinc-air,128963.45,Italy
+Ferrari,SF90 Stradale (PHEV),2016,Zinc-air,118666.3,Sweden
+Renault,5 E-Tech,2023,Lithium-iron phosphate,134970.22,Italy
+BYD,Dolphin,2022,Flow batteries,97341.44,Germany
+Cadillac,Optiq (upcoming),2016,Nickel-manganese-cobalt,111310.34,Poland
+Kia,EV9,2019,Zinc-air,107291.13,Singapore
+Great Wall Motors,ORA Good Cat,2020,Sodium-ion,115003.58,Poland
+Faraday Future,FF 91,2017,Lithium-titanate,133031.49,Russia
+Jeep,Recon (upcoming),2022,Solid-state,143969.6,Spain
+Audi,Q4 e-tron,2023,Nickel-manganese-cobalt,90057.78,Spain
+Kia,EV9,2023,Sodium-ion,109822.96,Belgium
+Peugeot,e-3008,2022,Lithium-titanate,90190.21,Indonesia
+Li Auto,L8,2018,Lithium-iron phosphate,66069.96,France
+Renault,Kangoo E-Tech,2025,Zinc-air,44938.27,Hungary
+Opel,Mokka-e,2015,Solid-state,39339.97,Finland
+Changan,Q05,2025,Lithium-sulfur,51371.76,Hungary
+Faraday Future,FF 91,2025,Lead-acid,111222.71,Denmark
+Lotus,Evija,2021,Lithium-ion,94599.71,UK
+Toyota,bZ4X,2015,Zinc-air,106230.35,Austria
+Geely,Geometry A,2019,Lead-acid,139700.76,Austria
+MG,MG4 Electric,2020,Nickel-metal hydride,117535.17,Israel
+NIO,EC6,2024,Solid-state,125611.67,China
+Jeep,Recon (upcoming),2025,Lead-acid,127201.44,Thailand
+BYD,Seagull,2018,Nickel-metal hydride,140944.12,South Africa
+Rivian,R1S,2022,Lithium-iron phosphate,54729.3,Saudi Arabia
+Subaru,Solterra,2023,Magnesium-ion,61220.49,Italy
+Toyota,bZ4X,2016,Solid-state,31370.15,Turkey
+Ferrari,SF90 Stradale (PHEV),2021,Flow batteries,58468.6,India
+Great Wall Motors,ORA Ballet Cat,2016,Flow batteries,35015.6,South Africa
+Canoo,MPDV,2018,Lithium-ion,65684.76,Thailand
+Chevrolet,Volt (PHEV),2025,Magnesium-ion,139406.73,Singapore
+Subaru,Solterra,2020,Calcium-ion,44805.94,Argentina
+Changan,SL03,2022,Lithium-sulfur,38038.16,Thailand
+Jaguar,I-PACE,2024,Lithium-titanate,63161.33,Sweden
+Citroen,Ami,2019,Lithium-iron phosphate,73450.53,Hungary
+Opel,Grandland Electric,2020,Solid-state,138881.54,UK
+MG,MG ES5,2024,Zinc-air,133478.74,France
+Fisker,Pear (upcoming),2023,Nickel-manganese-cobalt,60437.9,India
+Acura,ZDX (with GM Ultium),2018,Lithium-iron phosphate,96882.3,Thailand
+Volvo,EX30,2020,Flow batteries,110195.57,UK
+Honda,Honda e (discontinued),2021,Lithium-titanate,120591.61,Spain
+Maserati,Grecale Folgore,2024,Lithium-sulfur,94968.16,India
+Cadillac,Optiq (upcoming),2020,Calcium-ion,79626.79,France
+Geely,Geometry C,2019,Flow batteries,91408.33,Australia
+Skoda,Enyaq,2018,Zinc-air,75627.07,Brazil
+Genesis,G80 Electric,2016,Lithium-iron phosphate,87162.94,Malaysia
+Ferrari,Roma PHEV,2017,Nickel-cobalt-aluminum,126947.65,China
+Volkswagen,ID.7,2024,Nickel-cobalt-aluminum,146020.29,Netherlands
+Rivian,EDV (Electric Delivery Van),2024,Aluminum-ion,78136.27,Germany
+Tesla,Model Y,2024,Sodium-ion,135594.57,Italy
+VinFast,VF 9,2019,Lithium-sulfur,87465.18,Belgium
+Mercedes-Benz,EQE SUV,2020,Lithium-sulfur,146931.18,Poland
+Lamborghini,Lanzador (upcoming EV),2023,Nickel-cobalt-aluminum,100811.01,Netherlands
+Dacia,Bigster EV (upcoming),2023,Nickel-cobalt-aluminum,123082.3,Italy
+Lucid Motors,Lucid DreamDrive,2016,Lithium-sulfur,125664.43,Singapore
+Zeekr,Zeekr 001,2018,Lithium-iron phosphate,32326.34,Japan
+Skoda,Enyaq,2025,Magnesium-ion,73988.88,China
+Toyota,Lexus RZ,2021,Nickel-metal hydride,72661.41,Singapore
+Great Wall Motors,ORA Ballet Cat,2020,Lithium-sulfur,98743.79,Turkey
+Dacia,Jogger Hybrid,2021,Lithium-ion,147338.79,Austria
+MG,MG ZS EV,2024,Flow batteries,42822.89,Russia
+Audi,A6 e-tron (upcoming),2017,Lithium-ion,116504.46,Belgium
+Genesis,GV70 Electric,2022,Zinc-air,145759.98,Argentina
+Mazda,MX-30,2015,Aluminum-ion,133105.37,Poland
+Mercedes-Benz,EQS SUV,2017,Sodium-ion,51338.07,Singapore
+VinFast,VF 9,2022,Nickel-metal hydride,66685.99,Mexico
+BYD,Dolphin,2016,Sodium-ion,92223.29,Japan
+Maserati,Grecale Folgore,2025,Lithium-sulfur,105178.11,South Korea
+Great Wall Motors,ORA Lightning Cat,2017,Lithium-sulfur,146280.66,Italy
+VinFast,VFe34 (discontinued),2018,Lithium-ion,105543.49,France
+Porsche,Macan EV,2021,Lithium-sulfur,69391.06,USA
+Pininfarina,Battista,2022,Magnesium-ion,145539.26,Hungary
+Polestar,Polestar 2,2017,Nickel-metal hydride,85796.8,Belgium
+Ferrari,SF90 Stradale (PHEV),2025,Lithium-ion,133759.83,Poland
+Honda,Honda e (discontinued),2015,Lithium-titanate,104309.18,Sweden
+Volvo,C40 Recharge,2019,Lithium-iron phosphate,132440.6,Israel
+Changan,SL03,2018,Calcium-ion,59552.8,Austria
+Volvo,EX90,2019,Solid-state,142008.56,Singapore
+Fisker,Ocean,2020,Aluminum-ion,45848.28,Germany
+Faraday Future,FF 91,2025,Lithium-titanate,128138.36,Poland
+Canoo,Pickup,2016,Nickel-metal hydride,122483.37,Israel
+Dacia,Jogger Hybrid,2019,Zinc-air,134938.34,Mexico
+Porsche,Macan EV,2019,Nickel-cobalt-aluminum,79262.08,China
+Rimac,Nevera,2015,Calcium-ion,67519.3,Sweden
+Genesis,G80 Electric,2024,Nickel-manganese-cobalt,55892.63,Germany
+Hyundai,Ioniq 6,2021,Lithium-titanate,88271.06,South Africa
+Jaguar,I-PACE,2018,Lead-acid,118063.09,South Africa
+Chevrolet,Equinox EV,2021,Sodium-ion,51131.67,USA
+Skoda,Elroq (upcoming),2019,Nickel-manganese-cobalt,80397,Australia
+Opel,Mokka-e,2024,Nickel-manganese-cobalt,60636.39,Ireland
+Honda,Honda e (discontinued),2015,Nickel-cobalt-aluminum,38205.37,Mexico
+Mini,Mini Aceman,2020,Calcium-ion,40728.58,Malaysia
+Fisker,Pear (upcoming),2020,Magnesium-ion,87853.32,Germany
+VinFast,VF 7,2021,Solid-state,31513.83,Sweden
+Nissan,Leaf,2020,Lithium-sulfur,100337.9,Switzerland
+Volkswagen,ID.5,2021,Solid-state,122632.69,South Africa
+Volvo,EX30,2017,Zinc-air,89006.23,Portugal
+Toyota,Lexus RZ,2021,Nickel-metal hydride,92624.27,India
+Tesla,Model 3,2017,Lithium-iron phosphate,75869,Malaysia
+Ferrari,Ferrari EV (2025+),2015,Calcium-ion,90820.92,Mexico
+Porsche,Macan EV,2024,Nickel-metal hydride,88309.7,Japan
+XPeng,X9,2020,Calcium-ion,48635.13,Netherlands
+Lucid Motors,Lucid DreamDrive,2016,Lithium-iron phosphate,74038.95,China
+Skoda,Enyaq Coupe,2025,Zinc-air,102513.93,Singapore
+Peugeot,e-208,2016,Calcium-ion,131639.87,Ireland
+Opel,Corsa-e,2019,Solid-state,41188.36,China
+Tesla,Model X,2016,Lithium-titanate,83392.11,USA
+Toyota,bZ4X,2021,Nickel-manganese-cobalt,38305.08,France
+Citroen,?-C4,2022,Sodium-ion,84599.27,Germany
+Tesla,Cybertruck,2018,Lithium-iron phosphate,146360.46,Czech Republic
+NIO,ET5,2018,Nickel-metal hydride,142836.38,UAE
+Chevrolet,Bolt EV,2015,Lead-acid,124416.65,Hungary
+Mazda,Mazda EV (upcoming models),2022,Zinc-air,106337.96,South Africa
+Polestar,Polestar 5 (upcoming),2016,Lithium-ion,30471.45,Malaysia
+Faraday Future,FF 91,2015,Nickel-manganese-cobalt,98848.13,Vietnam
+Mazda,Mazda EV (upcoming models),2016,Magnesium-ion,57293.95,South Africa
+Volvo,XC40 Recharge,2022,Magnesium-ion,73223.17,South Korea
+Rivian,EDV (Electric Delivery Van),2021,Lithium-titanate,84763.44,Australia
+MG,MG ES5,2017,Aluminum-ion,75133.9,Belgium
+Mini,Mini Electric,2019,Lithium-titanate,54090.98,New Zealand
+BYD,Atto 3,2025,Solid-state,45035.45,Canada
+Lucid Motors,Lucid Gravity,2019,Nickel-cobalt-aluminum,142640.58,Hungary
+Mini,Mini Electric,2022,Lithium-titanate,119683.58,Argentina
+Porsche,Cayenne Electric (upcoming),2015,Lithium-ion,119981.51,Hungary
+VinFast,VF 8,2024,Flow batteries,30144.88,UAE
+GMC,Hummer EV Pickup,2025,Flow batteries,53597.06,China
+Polestar,Polestar 5 (upcoming),2020,Sodium-ion,38618.6,UAE
+XPeng,G9,2016,Nickel-manganese-cobalt,48664.88,Spain
+Rimac,Nevera,2021,Calcium-ion,47681.03,Singapore
+VinFast,VFe34 (discontinued),2017,Aluminum-ion,139381.12,India
+Mercedes-Benz,EQE,2020,Nickel-metal hydride,112055.3,Belgium
+MG,MG ZS EV,2016,Solid-state,81130.28,Ireland
+Seat,Avenger,2024,Flow batteries,139181.55,Netherlands
+Kia,Niro EV,2015,Lithium-titanate,86155.45,Indonesia
+Lucid Motors,Lucid Gravity,2023,Lithium-sulfur,68336.99,Finland
+Cadillac,Celestiq,2022,Calcium-ion,145400.46,Sweden
+Skoda,Enyaq,2021,Aluminum-ion,72617.56,Australia
+Mercedes-Benz,EQB,2018,Lithium-ion,144748.88,Turkey
+MG,MG ES5,2018,Aluminum-ion,86604.38,South Africa
+Citroen,?-Spacetourer,2023,Sodium-ion,37686.41,Germany
+Skoda,Elroq (upcoming),2017,Nickel-manganese-cobalt,69149.66,Finland
+BYD,Han EV,2015,Lead-acid,45458.56,Switzerland
+Volkswagen,ID.4,2020,Lithium-ion,138529.75,Portugal
+Jaguar,I-PACE,2024,Nickel-metal hydride,43422.87,Thailand
+Great Wall Motors,ORA Ballet Cat,2025,Lithium-sulfur,63413.78,China
+Nissan,Ariya,2019,Magnesium-ion,117464.18,Russia
+Tesla,Cybertruck,2017,Lithium-sulfur,32179.01,Indonesia
+Mercedes-Benz,EQE SUV,2020,Nickel-metal hydride,125182,South Korea
+Fisker,Pear (upcoming),2015,Lithium-titanate,50922.82,Denmark
+Canoo,Pickup,2020,Lead-acid,114494.92,Saudi Arabia
+Nissan,Leaf,2015,Lithium-sulfur,101161.07,Saudi Arabia
+Seat,Avenger,2019,Flow batteries,118374.27,Singapore
+Lucid Motors,Lucid Gravity,2024,Magnesium-ion,86128.31,Malaysia
+Lamborghini,Lanzador (upcoming EV),2023,Zinc-air,43083.57,Netherlands
+Tesla,Cybertruck,2018,Lithium-sulfur,90910.48,South Africa
+Kia,Soul EV,2018,Lithium-titanate,133236,Italy
+Rivian,EDV (Electric Delivery Van),2025,Nickel-manganese-cobalt,47464.06,UAE
+Ferrari,Roma PHEV,2021,Lithium-titanate,86431.68,Israel
+Rimac,Nevera,2025,Aluminum-ion,131999.88,Malaysia
+Genesis,GV70 Electric,2019,Magnesium-ion,33719.11,Spain
+Acura,ZDX (with GM Ultium),2022,Magnesium-ion,132608.64,Turkey
+Great Wall Motors,ORA Ballet Cat,2019,Calcium-ion,144629.42,South Korea
+Kia,Niro EV,2020,Flow batteries,94152.18,Israel
+Polestar,Polestar 3,2021,Zinc-air,69963.68,Japan
+Lucid Motors,Lucid Air,2022,Lithium-iron phosphate,64169.22,Sweden
+Great Wall Motors,ORA Lightning Cat,2016,Lithium-sulfur,100219.21,Brazil
+Chevrolet,Silverado EV,2016,Nickel-manganese-cobalt,61856.27,Argentina
+Ferrari,SF90 Stradale (PHEV),2025,Zinc-air,117890.29,USA
+Ford,F-150 Lightning,2025,Lithium-titanate,80309.56,Brazil
+Pininfarina,Battista,2017,Nickel-cobalt-aluminum,89810.28,Saudi Arabia
+Li Auto,L8,2024,Lithium-titanate,92345.83,Belgium
+Nissan,Leaf,2025,Nickel-metal hydride,70459.04,Thailand
+Renault,Megane E-Tech,2020,Flow batteries,131801.21,Poland
+Porsche,Taycan,2023,Flow batteries,106223.17,China
+Jaguar,I-PACE,2020,Lithium-iron phosphate,80148.36,UAE
+Toyota,bZ4X,2022,Magnesium-ion,94976.85,Netherlands
+Peugeot,e-208,2016,Nickel-metal hydride,61042.35,Indonesia
+Tesla,Cybertruck,2021,Calcium-ion,144096.94,Sweden
+Rivian,R1S,2023,Nickel-manganese-cobalt,94361.13,Malaysia
+Changan,Deepal S07,2015,Nickel-cobalt-aluminum,48378.38,Sweden
+Renault,Megane E-Tech,2025,Magnesium-ion,70992.01,China
+MG,MG ZS EV,2018,Solid-state,149934.83,Argentina
+Volkswagen,ID.7,2025,Sodium-ion,77869.15,UK
+Lotus,Emeya,2015,Aluminum-ion,123533.34,Thailand
+Kia,Soul EV,2022,Calcium-ion,147005.03,Argentina
+Hyundai,Kona Electric,2020,Solid-state,86277.82,France
+Ford,E-Transit,2025,Lithium-sulfur,104132.83,UK
+VinFast,VFe34 (discontinued),2022,Lithium-sulfur,134178.73,Hungary
+Ford,Explorer EV (Europe),2025,Flow batteries,49891.62,UK
+VinFast,VF 8,2016,Aluminum-ion,123717.2,Austria
+NIO,ET7,2025,Aluminum-ion,68427.68,UK
+GMC,Hummer EV SUV,2023,Lead-acid,55372.67,Mexico
+Honda,Honda Prologue,2020,Lithium-ion,61012.45,Belgium
+BMW,iX3,2023,Sodium-ion,60034.24,Vietnam
+Canoo,Lifestyle Vehicle,2016,Lithium-iron phosphate,109921.01,Australia
+Ford,F-150 Lightning,2025,Calcium-ion,143792.52,Italy
+Great Wall Motors,ORA Ballet Cat,2016,Lithium-titanate,126523.85,Spain
+Jeep,Grand Cherokee 4xe (PHEV),2022,Solid-state,148400,UK
+Fisker,Ocean,2024,Calcium-ion,130671.1,Turkey
+Pininfarina,Battista,2019,Sodium-ion,145977.14,Portugal
+Rivian,R1S,2015,Lithium-titanate,84441.41,China
+Nissan,Leaf,2017,Calcium-ion,87422.04,Vietnam
+Lamborghini,Lanzador (upcoming EV),2017,Lithium-titanate,37452.3,Australia
+Volvo,XC40 Recharge,2021,Lithium-ion,65941.09,South Korea
+Maserati,GranTurismo Folgore,2025,Flow batteries,72257.27,China
+Tesla,Model Y,2023,Calcium-ion,125753.56,Indonesia
+MG,MG ES5,2021,Lithium-iron phosphate,141611.08,UAE
+Lotus,Evija,2023,Nickel-cobalt-aluminum,103614.33,Israel
+Seat,Avenger,2022,Aluminum-ion,110381.86,Netherlands
+Peugeot,e-2008,2015,Lithium-iron phosphate,147619.53,Malaysia
+Mini,Mini Cooper SE,2017,Nickel-manganese-cobalt,116685.03,USA
+Peugeot,e-208,2021,Nickel-metal hydride,105995.44,Argentina
+Mahindra,XUV400,2015,Lithium-sulfur,86377.95,Italy
+Fisker,Pear (upcoming),2015,Lithium-sulfur,117218.51,Mexico
+VinFast,VF 9,2022,Flow batteries,146527.92,China
+Changan,SL03,2023,Nickel-cobalt-aluminum,31219.1,Turkey
+Porsche,Macan EV,2024,Calcium-ion,102274.52,Saudi Arabia
+Polestar,Polestar 4,2020,Zinc-air,80609.5,Russia
+Dacia,Jogger Hybrid,2018,Calcium-ion,58958.87,Russia
+Zeekr,Zeekr 001,2020,Aluminum-ion,110839.03,Argentina
+Changan,SL03,2017,Flow batteries,85296.88,India
+Mazda,Mazda EV (upcoming models),2022,Sodium-ion,33050.17,Hungary
+Jaguar,I-PACE,2023,Sodium-ion,97098.09,Brazil
+Faraday Future,FF 91,2022,Aluminum-ion,38916.71,Hungary
+BYD,Dolphin,2019,Lithium-titanate,34843.22,Italy
+MG,MG4 Electric,2019,Lithium-ion,59036.69,UK
+Seat,Avenger,2024,Lithium-iron phosphate,130259.58,Germany
+Dacia,Jogger Hybrid,2020,Nickel-manganese-cobalt,63877.57,New Zealand
+Rimac,Nevera,2021,Lithium-ion,123807.42,Poland
+Audi,e-tron GT,2018,Zinc-air,137099.25,Saudi Arabia
+Ford,Mustang Mach-E,2017,Zinc-air,149271.84,UK
+Lamborghini,Revuelto (PHEV),2024,Nickel-cobalt-aluminum,44042.07,France
+Rimac,Nevera,2023,Lithium-titanate,48192.54,Vietnam
+Seat,Avenger,2022,Solid-state,138229.57,Finland
+Canoo,Lifestyle Vehicle,2016,Lithium-iron phosphate,136482.5,Portugal
+Lotus,Emeya,2021,Sodium-ion,120135.5,Brazil
+XPeng,P7,2018,Flow batteries,146690.38,South Korea
+GMC,Hummer EV SUV,2018,Lithium-ion,71444.4,Portugal
+Dacia,Jogger Hybrid,2018,Lithium-iron phosphate,119062.74,South Africa
+BMW,iX1,2021,Lithium-iron phosphate,33674.5,Thailand
+Lotus,Evija,2018,Zinc-air,101973.44,Singapore
+BYD,Atto 3,2020,Lithium-titanate,122315.52,Indonesia
+Mahindra,XUV400,2023,Lithium-titanate,58862.47,Japan
+Li Auto,L9,2023,Nickel-cobalt-aluminum,57706.59,UK
+Ferrari,Roma PHEV,2022,Nickel-cobalt-aluminum,30584.51,Canada
+Maserati,Grecale Folgore,2019,Lithium-titanate,94681.79,France
+Cadillac,Lyriq,2021,Lithium-titanate,115113.27,India
+Citroen,?-Spacetourer,2018,Nickel-manganese-cobalt,135274.2,Portugal
+Li Auto,MEGA,2015,Lithium-ion,144633.73,Italy
+Toyota,Lexus UX 300e,2017,Lithium-titanate,126350.58,South Africa
+Acura,ZDX (with GM Ultium),2015,Magnesium-ion,102547.12,Indonesia
+VinFast,VF 8,2015,Lithium-iron phosphate,52658.33,New Zealand
+Dacia,Bigster EV (upcoming),2016,Lithium-sulfur,103566.8,Vietnam
+Seat,Avenger,2021,Nickel-metal hydride,43469.52,China
+Citroen,?-Spacetourer,2024,Nickel-metal hydride,115391.86,Austria
+Hyundai,Kona Electric,2015,Solid-state,115452.34,Mexico
+Lamborghini,Lanzador (upcoming EV),2016,Lithium-titanate,136923.23,Belgium
+Rivian,R1S,2017,Flow batteries,109012.19,UAE
+Toyota,Lexus UX 300e,2022,Lithium-titanate,97244.12,China
+Audi,e-tron,2022,Lithium-titanate,66083.61,Spain
+BMW,iX1,2022,Sodium-ion,88736.73,South Africa
+Renault,Kangoo E-Tech,2019,Lead-acid,36780.73,UAE
+Hyundai,Kona Electric,2023,Nickel-metal hydride,100266.71,Indonesia
+Rivian,EDV (Electric Delivery Van),2018,Calcium-ion,66892.66,South Africa
+Peugeot,e-5008,2015,Calcium-ion,127289.11,South Africa
+Volvo,C40 Recharge,2015,Nickel-manganese-cobalt,136716.24,Belgium
+Renault,Scenic E-Tech,2023,Nickel-manganese-cobalt,71713.58,New Zealand
+Volkswagen,ID.6,2022,Nickel-cobalt-aluminum,91179.74,France
+Lucid Motors,Lucid Gravity,2020,Magnesium-ion,146996.23,Finland
+Honda,Honda Prologue,2017,Aluminum-ion,103414.52,Japan
+Pininfarina,Battista,2021,Lead-acid,77965.45,Argentina
+Nissan,Leaf,2020,Calcium-ion,122048.3,Switzerland
+Maserati,GranTurismo Folgore,2021,Nickel-metal hydride,137425.14,Austria
+Volvo,C40 Recharge,2022,Calcium-ion,113151.16,Sweden
+Toyota,bZ4X,2018,Lithium-iron phosphate,94488.74,Turkey
+Genesis,G80 Electric,2023,Flow batteries,42123.32,Argentina
+NIO,ET5,2025,Flow batteries,117348.77,Sweden
+Mini,Mini Electric,2021,Lithium-sulfur,84036.26,Ireland
+Lamborghini,Revuelto (PHEV),2025,Magnesium-ion,102862.66,South Africa
+Kia,EV6,2024,Calcium-ion,123525.29,Germany
+Acura,ZDX (with GM Ultium),2021,Flow batteries,41234.44,Singapore
+GMC,Hummer EV Pickup,2015,Lithium-iron phosphate,86364.33,Sweden
+Rivian,EDV (Electric Delivery Van),2025,Nickel-cobalt-aluminum,140034.46,USA
+Zeekr,Zeekr 009,2018,Solid-state,36429.04,UK
+Mini,Mini Cooper SE,2018,Flow batteries,108817.41,Switzerland
+Toyota,Lexus UX 300e,2018,Zinc-air,41524.59,Japan
+Geely,Geometry A,2017,Nickel-cobalt-aluminum,96914.46,Denmark
+Zeekr,Zeekr 001,2024,Flow batteries,79780.04,Argentina
+Toyota,Lexus RZ,2021,Zinc-air,112639.94,Saudi Arabia
+MG,MG ZS EV,2025,Sodium-ion,83100.25,Poland
+Geely,Geometry C,2018,Calcium-ion,104276.36,Japan
+Genesis,G80 Electric,2019,Nickel-cobalt-aluminum,56674.96,Austria
+Skoda,Enyaq Coupe,2021,Lithium-ion,92533.56,Switzerland
+Jeep,Wrangler 4xe (PHEV),2018,Nickel-manganese-cobalt,118158.64,Canada
+Citroen,?-C4,2024,Calcium-ion,96149.9,Turkey
+VinFast,VF 8,2016,Sodium-ion,45722.66,Indonesia
+Rimac,Nevera,2015,Nickel-metal hydride,92238.99,Germany
+Hyundai,Ioniq 6,2023,Lithium-ion,102910.26,Israel
+Fisker,Pear (upcoming),2016,Zinc-air,99166.6,Malaysia
+Maserati,Grecale Folgore,2025,Lithium-sulfur,120145.63,UAE
+Zeekr,Zeekr 001,2017,Zinc-air,53365.59,Brazil
+BMW,iX,2022,Calcium-ion,92658.04,India
+Audi,e-tron GT,2021,Magnesium-ion,140022,Israel
+Jaguar,I-PACE,2023,Nickel-cobalt-aluminum,137906.09,Italy
+Lucid Motors,Lucid Air,2017,Sodium-ion,139833.04,Vietnam
+Zeekr,Zeekr 001,2015,Aluminum-ion,78547.36,South Korea
+Rivian,R1S,2015,Lead-acid,142970.97,USA
+Audi,A6 e-tron (upcoming),2022,Aluminum-ion,97670.76,Portugal
+Chevrolet,Silverado EV,2017,Lithium-titanate,101294.52,Finland
+Cadillac,Celestiq,2016,Lithium-sulfur,73090.41,Malaysia
+Changan,Deepal S07,2021,Zinc-air,41487.15,Czech Republic
+Dacia,Bigster EV (upcoming),2023,Sodium-ion,145431.6,Italy
+Volkswagen,ID.2all,2023,Nickel-cobalt-aluminum,92651.21,Thailand
+Genesis,GV60,2016,Nickel-cobalt-aluminum,128582.41,Japan
+Dacia,Jogger Hybrid,2020,Nickel-metal hydride,70988.53,India
+NIO,ET7,2022,Nickel-metal hydride,48023.85,Argentina
+Toyota,Lexus RZ,2021,Lithium-ion,47929.64,Italy
+Honda,Honda e (discontinued),2018,Lithium-titanate,106881.03,Portugal
+Faraday Future,FF 91,2025,Calcium-ion,95278.98,Poland
+Volvo,XC40 Recharge,2018,Nickel-manganese-cobalt,108377.23,Singapore
+Citroen,?-Spacetourer,2018,Flow batteries,63868.89,Italy
+Peugeot,e-5008,2025,Nickel-metal hydride,68631.57,Canada
+Nissan,Ariya,2015,Lithium-iron phosphate,93272.08,New Zealand
+Chevrolet,Equinox EV,2017,Lead-acid,113555.61,Malaysia
+Rivian,R1T,2025,Calcium-ion,102501.27,Argentina
+Mazda,MX-30,2019,Magnesium-ion,44613.74,India
+Subaru,Solterra,2022,Lithium-sulfur,125483.6,New Zealand
+Toyota,Lexus UX 300e,2022,Nickel-metal hydride,33018.07,Switzerland
+Peugeot,e-3008,2023,Lithium-titanate,87139.51,South Korea
+Honda,e:Ny1,2022,Nickel-cobalt-aluminum,64615.92,Switzerland
+Lamborghini,Revuelto (PHEV),2022,Lithium-ion,117820.3,South Africa
+Tesla,Model Y,2015,Lithium-iron phosphate,30447.82,India
+VinFast,VFe34 (discontinued),2017,Solid-state,90413.44,Netherlands
+Rivian,R1T,2015,Aluminum-ion,149796,Singapore
+Maserati,GranTurismo Folgore,2018,Solid-state,70806.21,Portugal
+Fisker,Ocean,2017,Lithium-sulfur,86121.91,UK
+Honda,Honda e (discontinued),2023,Solid-state,141085.96,UAE
+Polestar,Polestar 5 (upcoming),2024,Magnesium-ion,79213.58,Thailand
+Great Wall Motors,ORA Lightning Cat,2020,Zinc-air,130013.9,UK
+Genesis,GV80 Electric,2017,Nickel-cobalt-aluminum,102936.67,Russia
+Hyundai,Ioniq 5,2024,Solid-state,52011.44,Indonesia
+Tesla,Model S,2015,Calcium-ion,142052.3,Spain
+Hyundai,Ioniq 6,2022,Lithium-iron phosphate,103571.63,India
+XPeng,P7,2015,Magnesium-ion,66666.32,Norway
+Toyota,Lexus RZ,2024,Nickel-manganese-cobalt,111842.89,Denmark
+Skoda,Elroq (upcoming),2016,Calcium-ion,127004.94,Indonesia
+Lamborghini,Lanzador (upcoming EV),2016,Lithium-ion,86913.93,Turkey
+Seat,Avenger,2021,Lithium-sulfur,54091.75,Thailand
+Faraday Future,FF 91,2020,Lead-acid,61113.95,Spain
+Geely,Geometry C,2020,Flow batteries,122958.34,Malaysia
+XPeng,G9,2018,Flow batteries,126567.54,Portugal
+Maserati,Grecale Folgore,2018,Lithium-titanate,52383.56,Canada
+Toyota,bZ4X,2022,Lithium-iron phosphate,30156.95,Switzerland
+Faraday Future,FF 91,2021,Sodium-ion,81825.75,Czech Republic
+Peugeot,e-208,2018,Lithium-iron phosphate,53587.92,Singapore
+Canoo,Lifestyle Vehicle,2015,Aluminum-ion,87952.65,Canada
+Changan,Deepal S07,2024,Flow batteries,133565.05,Vietnam
+Dacia,Bigster EV (upcoming),2023,Zinc-air,139354.17,Norway
+Great Wall Motors,ORA Lightning Cat,2021,Magnesium-ion,139716.3,Canada
+Ferrari,SF90 Stradale (PHEV),2017,Lithium-iron phosphate,100589.96,France
+Tesla,Model X,2023,Magnesium-ion,105356.22,Thailand
+Chevrolet,Silverado EV,2015,Nickel-manganese-cobalt,117690.13,Denmark
+Zeekr,Zeekr 009,2025,Lithium-sulfur,104422.93,Norway
+Polestar,Polestar 5 (upcoming),2019,Lithium-iron phosphate,92310.89,Finland
+Mini,Mini Aceman,2020,Lithium-titanate,146606.13,Australia
+GMC,Hummer EV Pickup,2016,Lithium-titanate,102846.2,Finland
+XPeng,G9,2019,Lithium-ion,101180.23,Brazil
+Jaguar,I-PACE,2025,Zinc-air,65064.75,UK
+Volkswagen,ID.2all,2015,Lithium-sulfur,139205.71,Brazil
+Citroen,?-Spacetourer,2024,Nickel-manganese-cobalt,116002.81,Hungary
+Ford,F-150 Lightning,2023,Calcium-ion,100425.79,Turkey
+Mini,Mini Aceman,2016,Sodium-ion,142423.23,Singapore
+MG,MG ES5,2021,Solid-state,121464.84,UAE
+Ferrari,SF90 Stradale (PHEV),2025,Lithium-sulfur,140094,Malaysia
+Faraday Future,FF 91,2020,Calcium-ion,90934.75,Italy
+Mahindra,Born Electric (upcoming range),2019,Sodium-ion,114964.73,Switzerland
+Great Wall Motors,ORA Ballet Cat,2015,Lithium-ion,137124.88,Czech Republic
+Kia,EV9,2021,Nickel-metal hydride,109078.92,Canada
+Zeekr,Zeekr 007,2019,Zinc-air,123868.61,Sweden
+Jaguar,I-PACE,2019,Solid-state,63950.12,Mexico
+Faraday Future,FF 91,2016,Nickel-cobalt-aluminum,125319.84,New Zealand
+Subaru,Solterra,2015,Lead-acid,39534.92,Argentina
+Dacia,Bigster EV (upcoming),2024,Lithium-iron phosphate,123412.37,Belgium
+MG,MG5 EV,2025,Flow batteries,124806.63,Denmark
+XPeng,G9,2015,Lithium-ion,142851.72,Belgium
+Lamborghini,Lanzador (upcoming EV),2023,Nickel-metal hydride,103792.59,Poland
+XPeng,G6,2019,Aluminum-ion,65877.32,UK
+Ford,Explorer EV (Europe),2019,Lithium-sulfur,53294.93,Netherlands
+Rimac,Nevera,2025,Lithium-titanate,97977.4,India
+Rivian,EDV (Electric Delivery Van),2024,Lithium-titanate,82459.49,Sweden
+Lamborghini,Lanzador (upcoming EV),2019,Magnesium-ion,149519.96,China
+Polestar,Polestar 3,2019,Nickel-cobalt-aluminum,57186.77,Austria
+Dacia,Jogger Hybrid,2018,Lead-acid,148723.04,Russia
+Skoda,Enyaq Coupe,2025,Magnesium-ion,85244.97,UAE
+Acura,ZDX (with GM Ultium),2025,Nickel-cobalt-aluminum,79707.73,Netherlands
+Honda,Honda Prologue,2017,Lithium-ion,91212.19,Spain
+Acura,ZDX (with GM Ultium),2024,Lead-acid,79061.75,France
+Acura,ZDX (with GM Ultium),2018,Aluminum-ion,79290.79,Norway
+Rivian,EDV (Electric Delivery Van),2016,Lithium-ion,88927.87,Argentina
+Opel,Mokka-e,2020,Zinc-air,114394.86,Finland
+Canoo,Lifestyle Vehicle,2015,Lithium-sulfur,137621.99,Argentina
+Volkswagen,ID.3,2021,Lead-acid,54139.95,Canada
+Hyundai,Ioniq 5,2022,Lithium-sulfur,79348.02,Japan
+Nissan,Ariya,2017,Lithium-sulfur,84828.34,South Korea
+Renault,Scenic E-Tech,2016,Lithium-ion,131455.05,Vietnam
+Opel,Corsa-e,2017,Solid-state,112578.73,Norway
+Acura,ZDX (with GM Ultium),2019,Lead-acid,134504.74,Mexico
+Dacia,Jogger Hybrid,2015,Nickel-metal hydride,93398.47,Mexico
+Audi,Q4 e-tron,2019,Lead-acid,102815.01,Czech Republic
+Tesla,Model X,2022,Lithium-titanate,114066.87,USA
+Geely,Geometry A,2025,Flow batteries,145998.83,Malaysia
+Skoda,Enyaq,2018,Aluminum-ion,107033.26,Saudi Arabia
+Fisker,Ocean,2022,Lithium-titanate,114173.39,Brazil
+Dacia,Jogger Hybrid,2022,Zinc-air,89948.12,Ireland
+Dacia,Bigster EV (upcoming),2020,Calcium-ion,141767.49,Australia
+Ferrari,Roma PHEV,2021,Nickel-metal hydride,108306.36,Norway
+Mini,Mini Cooper SE,2016,Solid-state,33166.75,Austria
+Tesla,Cybertruck,2016,Flow batteries,89951.3,Netherlands
+Changan,Deepal S07,2022,Magnesium-ion,76283.66,France
+Subaru,Solterra,2015,Nickel-manganese-cobalt,73442.04,Singapore
+BYD,Dolphin,2018,Calcium-ion,117672.84,Finland
+Toyota,Lexus UX 300e,2023,Nickel-cobalt-aluminum,96119.61,Canada
+Cadillac,Lyriq,2020,Calcium-ion,66827.39,Belgium
+Ford,Mustang Mach-E,2016,Zinc-air,81094.29,Canada
+Jeep,Grand Cherokee 4xe (PHEV),2018,Sodium-ion,59437.88,New Zealand
+Renault,Kangoo E-Tech,2020,Lithium-iron phosphate,112745.51,Italy
+Jaguar,I-PACE,2017,Lead-acid,74206.78,Austria
+Genesis,G80 Electric,2023,Nickel-cobalt-aluminum,98118.96,Malaysia
+Great Wall Motors,ORA Ballet Cat,2016,Nickel-manganese-cobalt,55401.95,Hungary
+Fisker,Ocean,2024,Nickel-metal hydride,62600.87,Denmark
+GMC,Hummer EV SUV,2018,Lithium-iron phosphate,124918.98,South Africa
+Genesis,GV80 Electric,2019,Magnesium-ion,47508.83,Israel
+Tesla,Model S,2023,Magnesium-ion,142567.83,Canada
+Geely,Geometry C,2018,Lead-acid,68994.09,Japan
+Mazda,MX-30,2021,Nickel-metal hydride,64059.88,USA
+Dacia,Jogger Hybrid,2017,Flow batteries,133211.58,Malaysia
+Great Wall Motors,ORA Ballet Cat,2015,Lithium-titanate,59980.24,South Africa
+Lucid Motors,Lucid Gravity,2017,Solid-state,30054.61,Netherlands
+Cadillac,Celestiq,2021,Lithium-sulfur,53009.4,Denmark
+Cadillac,Lyriq,2020,Aluminum-ion,82709.38,France
+Peugeot,e-3008,2024,Nickel-metal hydride,42317.28,Netherlands
+Citroen,?-C4,2018,Calcium-ion,99729.71,Canada
+Nissan,Leaf,2022,Lithium-sulfur,90730.65,Poland
+Subaru,Solterra,2023,Nickel-metal hydride,76270.21,Hungary
+Rimac,Nevera,2017,Lithium-titanate,41804.87,South Africa
+Mazda,MX-30,2023,Lithium-sulfur,47706.18,Spain
+Tesla,Model 3,2020,Lithium-iron phosphate,94427.56,Japan
+Acura,ZDX (with GM Ultium),2025,Lithium-titanate,66286.07,Russia
+Seat,Avenger,2015,Lithium-iron phosphate,74444.51,Germany
+Faraday Future,FF 91,2020,Lithium-sulfur,82424.16,Saudi Arabia
+Lamborghini,Lanzador (upcoming EV),2017,Lithium-iron phosphate,91354.71,India
+Zeekr,Zeekr 001,2022,Aluminum-ion,108085.62,Brazil
+Jeep,Grand Cherokee 4xe (PHEV),2016,Calcium-ion,108096.08,Belgium
+Great Wall Motors,ORA Lightning Cat,2015,Lithium-titanate,109034.7,Finland
+Dacia,Bigster EV (upcoming),2017,Magnesium-ion,139434.33,China
+BYD,Atto 3,2020,Sodium-ion,119099.52,China
+Peugeot,e-208,2015,Zinc-air,57647.1,Vietnam
+Nissan,Ariya,2016,Nickel-manganese-cobalt,61297.78,Russia
+Porsche,Macan EV,2025,Calcium-ion,136421.16,Finland
+Skoda,Elroq (upcoming),2020,Aluminum-ion,49347.77,Hungary
+Subaru,Solterra,2018,Solid-state,58888.54,Vietnam
+Polestar,Polestar 2,2023,Magnesium-ion,144220.2,UK
+Honda,e:Ny1,2023,Solid-state,37521.74,UAE
+Ferrari,Ferrari EV (2025+),2024,Nickel-manganese-cobalt,45403.1,Portugal
+Subaru,Solterra,2016,Lithium-ion,65307.45,USA
+BYD,Seal,2022,Zinc-air,149820.78,Italy
+Mini,Mini Electric,2022,Nickel-cobalt-aluminum,138746.77,Australia
+Great Wall Motors,ORA Lightning Cat,2025,Solid-state,98851.29,Australia
+BYD,Han EV,2024,Lithium-sulfur,127018.54,Australia
+Jeep,Recon (upcoming),2019,Lithium-titanate,88135.2,Turkey
+Mini,Mini Cooper SE,2017,Lithium-ion,122064.88,Norway
+Rimac,Nevera,2022,Lithium-ion,38964.41,Denmark
+Skoda,Elroq (upcoming),2020,Lithium-titanate,142436.39,Japan
+MG,MG4 Electric,2025,Lithium-titanate,33754.03,Australia
+Citroen,?-C4,2016,Magnesium-ion,74047.32,Saudi Arabia
+Zeekr,Zeekr 007,2022,Solid-state,82008.44,Czech Republic
+Hyundai,Kona Electric,2015,Solid-state,48843.62,South Korea
+Volkswagen,ID.5,2021,Flow batteries,60764.04,South Korea
+Faraday Future,FF 91,2022,Zinc-air,130977.7,Czech Republic
+Hyundai,Ioniq 7 (upcoming),2019,Lithium-iron phosphate,112720.77,Argentina
+Canoo,Pickup,2015,Lithium-ion,117460.47,Brazil
+NIO,ET9,2020,Solid-state,38764.74,Spain
+NIO,ET5,2022,Solid-state,33965.83,Norway
+Genesis,GV70 Electric,2020,Calcium-ion,80930.41,Indonesia
+GMC,Hummer EV SUV,2019,Lithium-titanate,132122.22,Hungary
+Genesis,GV80 Electric,2015,Lead-acid,51956.69,Italy
+Seat,Avenger,2025,Lithium-titanate,33631.18,Russia
+BYD,Seal,2019,Aluminum-ion,86803.32,New Zealand
+Subaru,Solterra,2019,Magnesium-ion,93848.73,Italy
+Faraday Future,FF 91,2018,Nickel-manganese-cobalt,133841.24,India
+Mercedes-Benz,EQE SUV,2019,Magnesium-ion,35222.81,Vietnam
+Peugeot,e-3008,2022,Lithium-ion,73268.27,France
+BYD,Han EV,2025,Calcium-ion,106154.57,South Africa
+Skoda,Enyaq,2021,Solid-state,117109.05,Poland
+MG,MG ZS EV,2017,Nickel-manganese-cobalt,134889.82,Sweden
+Mercedes-Benz,EQB,2024,Lithium-iron phosphate,42283.44,Portugal
+Mini,Mini Cooper SE,2016,Solid-state,144840.21,Brazil
+Cadillac,Lyriq,2015,Nickel-manganese-cobalt,50364.98,Italy
+Rivian,R1S,2019,Lithium-iron phosphate,124504.43,Malaysia
+Canoo,Pickup,2016,Lithium-ion,120790.84,Spain
+Ferrari,Ferrari EV (2025+),2021,Magnesium-ion,38193.98,New Zealand
+Lucid Motors,Lucid Air,2023,Nickel-manganese-cobalt,104723.61,Austria
+Hyundai,Ioniq 6,2023,Sodium-ion,84464.22,Ireland
+Cadillac,Lyriq,2022,Nickel-metal hydride,48794.65,Canada
+Li Auto,L7,2017,Lithium-iron phosphate,138831.96,South Africa
+Mercedes-Benz,EQB,2015,Calcium-ion,133646.9,Czech Republic
+Volvo,XC40 Recharge,2015,Nickel-manganese-cobalt,71945.83,Russia
+Ferrari,SF90 Stradale (PHEV),2019,Sodium-ion,59772.92,Finland
+Maserati,Grecale Folgore,2019,Magnesium-ion,140262.98,UAE
+Ford,Mustang Mach-E,2022,Aluminum-ion,102572.9,Singapore
+Honda,e:Ny1,2022,Lead-acid,118293.1,Argentina
+XPeng,P5,2022,Flow batteries,90480.45,Belgium
+BMW,i3,2017,Lithium-sulfur,61916.38,Ireland
+Tesla,Model X,2022,Lithium-ion,38192.66,Malaysia
+Citroen,?-C4,2018,Flow batteries,55001.14,Russia
+Polestar,Polestar 2,2015,Lead-acid,43816.67,Sweden
+Maserati,Grecale Folgore,2020,Aluminum-ion,102689.87,Switzerland
+Genesis,GV70 Electric,2017,Zinc-air,111558.43,Malaysia
+Zeekr,Zeekr 001,2015,Nickel-manganese-cobalt,124461.54,Malaysia
+Mini,Mini Cooper SE,2019,Aluminum-ion,39893.78,India
+Dacia,Bigster EV (upcoming),2019,Calcium-ion,130000.81,Vietnam
+Audi,Q4 e-tron,2017,Nickel-manganese-cobalt,60083.11,Ireland
+Hyundai,Ioniq 5,2017,Lithium-iron phosphate,97582.43,USA
+Dacia,Bigster EV (upcoming),2023,Lithium-sulfur,125408.24,Argentina
+Tesla,Model X,2020,Nickel-cobalt-aluminum,137033.17,Poland
+BYD,Dolphin,2021,Nickel-cobalt-aluminum,35624.27,Italy
+Zeekr,Zeekr 009,2020,Aluminum-ion,37442.77,Finland
+Changan,Deepal S07,2019,Lithium-titanate,112432.69,Argentina
+Volvo,EX90,2025,Lithium-sulfur,79786.27,Denmark
+Lucid Motors,Lucid Air,2023,Lithium-titanate,32378.18,France
+MG,MG5 EV,2020,Lead-acid,72657.5,Thailand
+Fisker,Pear (upcoming),2023,Lithium-iron phosphate,135563.39,Turkey
+Zeekr,Zeekr X,2025,Lithium-iron phosphate,119345.97,Spain
+Seat,Avenger,2024,Zinc-air,133285.39,Poland
+Maserati,GranTurismo Folgore,2017,Nickel-cobalt-aluminum,100782.57,Vietnam
+Volkswagen,ID.Buzz,2022,Calcium-ion,149616.97,Italy
+Jaguar,I-PACE,2025,Solid-state,117721.16,Netherlands
+XPeng,G9,2021,Nickel-cobalt-aluminum,148249.33,Japan
+Skoda,Elroq (upcoming),2016,Lithium-sulfur,143327.97,South Africa
+Lotus,Emeya,2018,Magnesium-ion,31737.92,Ireland
+VinFast,VF 9,2015,Nickel-metal hydride,54265.4,Finland
+Pininfarina,Battista,2017,Magnesium-ion,72551.88,Malaysia
+Subaru,Solterra,2019,Nickel-manganese-cobalt,42690.33,Belgium
+Dacia,Jogger Hybrid,2017,Solid-state,60562,Austria
+Genesis,GV80 Electric,2023,Nickel-metal hydride,55826.21,Singapore
+Jaguar,I-PACE,2017,Nickel-manganese-cobalt,110154.9,Czech Republic
+Chevrolet,Silverado EV,2025,Lithium-titanate,116056.97,Spain
+Canoo,Lifestyle Vehicle,2024,Magnesium-ion,48757.21,USA
+MG,MG4 Electric,2020,Nickel-metal hydride,68352.92,France
+Tesla,Model S,2024,Lithium-ion,147056.35,Turkey
+XPeng,G9,2023,Nickel-cobalt-aluminum,108506.7,Czech Republic
+Fisker,Pear (upcoming),2023,Lithium-sulfur,119827.74,Denmark
+Kia,EV9,2021,Zinc-air,79006.57,Indonesia
+Peugeot,e-3008,2017,Nickel-metal hydride,106491.31,USA
+Fisker,Pear (upcoming),2024,Flow batteries,45655.41,Thailand
+BMW,iX,2024,Calcium-ion,88402.77,Israel
+Mini,Mini Electric,2024,Nickel-metal hydride,115955.9,Poland
+Genesis,GV80 Electric,2018,Zinc-air,55490.12,Czech Republic
+Ford,E-Transit,2019,Nickel-cobalt-aluminum,112539.96,Vietnam
+Li Auto,L8,2025,Lithium-titanate,70246.83,Mexico
+Ferrari,SF90 Stradale (PHEV),2018,Magnesium-ion,127754.12,Belgium
+Mercedes-Benz,G-Class Electric (upcoming),2015,Lithium-titanate,110636.88,Spain
+Cadillac,Optiq (upcoming),2021,Solid-state,127650.66,South Africa
+Cadillac,Celestiq,2015,Magnesium-ion,144849.17,Hungary
+Volvo,C40 Recharge,2016,Lead-acid,118944.19,New Zealand
+Cadillac,Lyriq,2025,Zinc-air,135198.93,Germany
+Tesla,Roadster (upcoming),2017,Lithium-iron phosphate,141381.68,Thailand
+Lamborghini,Revuelto (PHEV),2016,Nickel-metal hydride,101376.52,New Zealand
+Mini,Mini Cooper SE,2022,Flow batteries,30684.38,Israel
+Mazda,Mazda EV (upcoming models),2023,Lithium-iron phosphate,139577.44,Czech Republic
+Seat,Avenger,2015,Nickel-metal hydride,131251.93,Japan
+Lucid Motors,Lucid Gravity,2025,Lithium-titanate,50127.75,USA
+Seat,Avenger,2023,Lithium-iron phosphate,84104.19,Argentina
+Kia,EV9,2022,Zinc-air,138642.8,Netherlands
+MG,MG ZS EV,2016,Magnesium-ion,119036.44,Italy
+XPeng,G9,2017,Nickel-cobalt-aluminum,34895.5,Poland
+Nissan,Ariya,2025,Lithium-ion,63721.43,South Korea
+MG,MG5 EV,2017,Lead-acid,57922.19,Turkey
+Genesis,GV70 Electric,2015,Flow batteries,70769.1,Austria
+Mercedes-Benz,G-Class Electric (upcoming),2025,Zinc-air,97764.94,UAE
+Honda,e:Ny1,2021,Aluminum-ion,104154.12,Argentina
+Great Wall Motors,ORA Ballet Cat,2019,Calcium-ion,85306.59,Thailand
+Lamborghini,Lanzador (upcoming EV),2018,Flow batteries,83739.72,Ireland
+Mini,Mini Aceman,2016,Zinc-air,143859.7,Mexico
+Jeep,Wagoneer S,2017,Lithium-sulfur,34681.26,France
+Volkswagen,ID.4,2025,Lithium-iron phosphate,66640.04,Netherlands
+GMC,Hummer EV SUV,2025,Zinc-air,96675.45,Belgium
+Rivian,EDV (Electric Delivery Van),2020,Lithium-titanate,138136.99,Finland
+Subaru,Solterra,2019,Lead-acid,96868.41,Thailand
+Lamborghini,Lanzador (upcoming EV),2025,Nickel-manganese-cobalt,70018.84,Belgium
+Zeekr,Zeekr X,2018,Lithium-sulfur,45983.11,Thailand
+XPeng,G6,2023,Lead-acid,85124.41,Portugal
+Toyota,Lexus RZ,2017,Solid-state,99103.63,Singapore
+Dacia,Bigster EV (upcoming),2017,Calcium-ion,43159.28,China
+GMC,Hummer EV Pickup,2019,Flow batteries,82911.25,Hungary
+BYD,Tang EV,2015,Lithium-ion,147788.67,China
+Polestar,Polestar 2,2020,Nickel-manganese-cobalt,118818.03,Germany
+Great Wall Motors,ORA Ballet Cat,2025,Flow batteries,119373.26,China
+Jaguar,I-PACE,2021,Magnesium-ion,83504.87,Ireland
+Cadillac,Optiq (upcoming),2025,Lithium-ion,122729.19,UK
+Renault,5 E-Tech,2016,Nickel-cobalt-aluminum,52469.57,Netherlands
+Volkswagen,ID.3,2017,Lithium-ion,114241.95,Czech Republic
+Cadillac,Optiq (upcoming),2022,Lead-acid,107679.76,UK
+Mahindra,XUV400,2018,Lithium-titanate,147570.67,Argentina
+Changan,Deepal S07,2025,Nickel-manganese-cobalt,103056.52,Israel
+Maserati,Grecale Folgore,2021,Nickel-manganese-cobalt,41964.6,Israel
+Canoo,Lifestyle Vehicle,2024,Lithium-ion,134948.72,Brazil
+Tesla,Cybertruck,2021,Lithium-iron phosphate,77135.5,Hungary
+NIO,ET9,2025,Nickel-metal hydride,93167.64,Italy
+Acura,ZDX (with GM Ultium),2020,Nickel-cobalt-aluminum,106909.17,Australia
+BYD,Seal,2022,Aluminum-ion,119938.14,Brazil
+Canoo,MPDV,2023,Calcium-ion,89012.86,Netherlands
+Skoda,Enyaq Coupe,2020,Aluminum-ion,111437.23,Singapore
+Chevrolet,Silverado EV,2015,Lithium-ion,115739.84,Czech Republic
+Maserati,GranTurismo Folgore,2016,Lithium-titanate,59718.93,Finland
+Toyota,bZ4X,2023,Sodium-ion,136217.28,China
+Genesis,G80 Electric,2020,Zinc-air,34928.02,Finland
+Lucid Motors,Lucid DreamDrive,2025,Lithium-iron phosphate,40420.46,Poland
+Nissan,Leaf,2016,Lithium-iron phosphate,112098.42,Japan
+VinFast,VF 9,2022,Lithium-iron phosphate,72849.66,Mexico
+Pininfarina,Battista,2018,Sodium-ion,36062.63,Finland
+Renault,5 E-Tech,2018,Lithium-titanate,111445.8,Poland
+Ford,Explorer EV (Europe),2019,Lithium-ion,82801.97,France
+Mercedes-Benz,EQS,2021,Lithium-sulfur,84379.91,Israel
+Canoo,Pickup,2017,Sodium-ion,125712.83,Turkey
+Maserati,GranTurismo Folgore,2023,Magnesium-ion,136840.62,Israel
+Renault,Scenic E-Tech,2024,Zinc-air,127979.96,Czech Republic
+Nissan,Ariya,2016,Sodium-ion,135462.86,South Africa
+Jeep,Recon (upcoming),2022,Zinc-air,112182.68,Malaysia
+Ford,E-Transit,2015,Lithium-titanate,112943.08,China
+Zeekr,Zeekr 001,2025,Lithium-iron phosphate,31509.22,Israel
+Rimac,Nevera,2022,Sodium-ion,121233.69,Thailand
+BMW,i7,2021,Lead-acid,86171.52,Hungary
+Lamborghini,Lanzador (upcoming EV),2015,Zinc-air,78879.86,Mexico
+Rivian,EDV (Electric Delivery Van),2020,Nickel-cobalt-aluminum,74574.02,Turkey
+Ford,Explorer EV (Europe),2024,Nickel-manganese-cobalt,121177.35,Israel
+Peugeot,e-2008,2016,Zinc-air,89359.27,Spain
+Canoo,MPDV,2016,Nickel-cobalt-aluminum,46097.17,Thailand
+Citroen,Ami,2016,Zinc-air,149543.43,Germany
+VinFast,VF 7,2017,Lithium-iron phosphate,54730.21,Brazil
+Subaru,Solterra,2015,Magnesium-ion,119339.11,Switzerland
+Geely,Geometry C,2021,Lithium-iron phosphate,57512.19,Indonesia
+Maserati,Grecale Folgore,2025,Calcium-ion,148196.18,China
+Genesis,GV70 Electric,2023,Magnesium-ion,55091.74,Vietnam
+Porsche,Taycan,2025,Lithium-iron phosphate,63585.73,Denmark
+Mini,Mini Aceman,2019,Lithium-ion,105953.02,France
+Pininfarina,Battista,2022,Calcium-ion,126748.58,Belgium
+Volkswagen,ID.Buzz,2021,Sodium-ion,102435.89,Brazil
+Tesla,Roadster (upcoming),2016,Sodium-ion,79638.71,UK
+Volkswagen,ID.7,2017,Nickel-metal hydride,98099.62,Portugal
+Subaru,Solterra,2024,Magnesium-ion,68380.78,Indonesia
+Pininfarina,Battista,2015,Magnesium-ion,99914.47,Argentina
+Ferrari,Ferrari EV (2025+),2025,Lithium-titanate,31831.8,Israel
+Lamborghini,Lanzador (upcoming EV),2025,Lithium-iron phosphate,149429.51,Italy
+Lamborghini,Revuelto (PHEV),2016,Nickel-metal hydride,87208.29,Malaysia
+Volvo,EX90,2020,Nickel-cobalt-aluminum,113582.33,Thailand
+Mahindra,Born Electric (upcoming range),2015,Sodium-ion,59278.65,Spain
+Lamborghini,Lanzador (upcoming EV),2018,Lithium-titanate,90313.64,Canada
+Faraday Future,FF 91,2021,Calcium-ion,89440.54,South Korea
+Opel,Mokka-e,2021,Solid-state,31559.53,China
+Lotus,Evija,2020,Lithium-sulfur,117415.69,Belgium
+Toyota,bZ4X,2018,Solid-state,92841.1,France
+Honda,Honda e (discontinued),2017,Sodium-ion,99950.95,Denmark
+Mini,Mini Aceman,2019,Solid-state,118599.68,Japan
+Geely,Emgrand EV,2021,Nickel-manganese-cobalt,76469.1,South Africa
+Genesis,GV70 Electric,2024,Zinc-air,64412.41,Denmark
+Citroen,Ami,2025,Lithium-iron phosphate,51643.26,India
+Hyundai,Ioniq 6,2016,Lithium-iron phosphate,86388.48,South Korea
+Dacia,Jogger Hybrid,2015,Calcium-ion,147907.91,Hungary
+Tesla,Model 3,2021,Lithium-ion,134629.64,Portugal
+Audi,e-tron GT,2021,Lithium-sulfur,113761.62,Poland
+Skoda,Elroq (upcoming),2023,Nickel-metal hydride,108563.42,Singapore
+Rimac,Nevera,2022,Aluminum-ion,85193.64,Indonesia
+Tesla,Cybertruck,2023,Lithium-iron phosphate,56800.73,Hungary
+Acura,ZDX (with GM Ultium),2020,Nickel-cobalt-aluminum,99370.06,Poland
+Audi,Q4 e-tron,2020,Lithium-titanate,94249.74,Denmark
+NIO,ET7,2025,Lead-acid,112562.4,India
+Acura,ZDX (with GM Ultium),2015,Lithium-iron phosphate,120890.93,Norway
+Renault,Scenic E-Tech,2016,Magnesium-ion,114203.73,Turkey
+Polestar,Polestar 4,2016,Aluminum-ion,37730.9,Finland
+Opel,Corsa-e,2015,Aluminum-ion,138549.47,Turkey
+Geely,Emgrand EV,2023,Nickel-cobalt-aluminum,90449.46,Vietnam
+Li Auto,L8,2023,Nickel-cobalt-aluminum,105012.82,Malaysia
+Nissan,Leaf,2020,Lead-acid,141949.03,Switzerland
+Chevrolet,Bolt EV,2022,Nickel-metal hydride,31713.78,Thailand
+Ferrari,SF90 Stradale (PHEV),2025,Solid-state,114883.73,Japan
+Polestar,Polestar 5 (upcoming),2021,Nickel-metal hydride,73539.98,Poland
+NIO,ET9,2017,Aluminum-ion,91374.01,Vietnam
+Mini,Mini Electric,2017,Calcium-ion,32110.5,Malaysia
+NIO,ET9,2019,Lithium-sulfur,88992.78,Czech Republic
+Fisker,Ocean,2017,Aluminum-ion,98668.26,Portugal
+Changan,SL03,2024,Lead-acid,33064.13,Germany
+Mini,Mini Electric,2016,Nickel-manganese-cobalt,68014.73,China
+Tesla,Model 3,2023,Flow batteries,51719.71,Israel
+Tesla,Model S,2017,Nickel-cobalt-aluminum,132124.5,South Korea
+Volvo,EX30,2018,Lithium-ion,119024.29,Russia
+MG,MG5 EV,2019,Lithium-ion,77158.15,Switzerland
+Lotus,Eletre,2018,Lithium-iron phosphate,128535.73,UAE
+Faraday Future,FF 91,2020,Lithium-ion,70149.59,Hungary
+BMW,iX1,2015,Nickel-manganese-cobalt,57780.54,China
+Dacia,Bigster EV (upcoming),2020,Nickel-cobalt-aluminum,93594.87,Russia
+Tesla,Model Y,2017,Lithium-iron phosphate,132144.16,New Zealand
+Lotus,Evija,2018,Lead-acid,111405.69,Czech Republic
+Nissan,Leaf,2021,Zinc-air,74816.1,Vietnam
+Lucid Motors,Lucid Gravity,2022,Lead-acid,107703.04,Belgium
+Citroen,Ami,2018,Lithium-ion,74003.39,Thailand
+Faraday Future,FF 91,2018,Lithium-sulfur,104328.15,Russia
+Skoda,Elroq (upcoming),2022,Calcium-ion,80041.32,China
+Geely,Geometry A,2024,Nickel-cobalt-aluminum,122797.8,Germany
+BMW,iX1,2015,Lithium-sulfur,67652.57,Portugal
+MG,MG ES5,2025,Nickel-manganese-cobalt,99140.81,India
+Chevrolet,Volt (PHEV),2023,Calcium-ion,139549.21,India
+Opel,Grandland Electric,2016,Nickel-metal hydride,49752.59,Israel
+Kia,EV6,2025,Lead-acid,115591.46,Portugal
+Mahindra,XUV400,2022,Calcium-ion,115198.36,France
+VinFast,VF 9,2020,Nickel-cobalt-aluminum,80737.05,Japan
+Renault,Scenic E-Tech,2019,Nickel-metal hydride,100642.84,Singapore
+Seat,Avenger,2021,Nickel-cobalt-aluminum,83442.65,Turkey
+Great Wall Motors,ORA Good Cat,2015,Calcium-ion,115673.64,Vietnam
+Opel,Grandland Electric,2016,Nickel-manganese-cobalt,145561.53,Brazil
+XPeng,P5,2022,Sodium-ion,148873.52,Singapore
+Rimac,Nevera,2021,Calcium-ion,85022.3,Ireland
+Renault,Kangoo E-Tech,2022,Nickel-cobalt-aluminum,82608.38,Brazil
+Rimac,Nevera,2021,Lithium-sulfur,129139.34,Australia
+GMC,Hummer EV Pickup,2021,Lithium-titanate,127576.95,China
+Volkswagen,ID.4,2025,Lithium-ion,82251.22,Czech Republic
+Genesis,GV60,2021,Zinc-air,143405.71,Vietnam
+Polestar,Polestar 2,2020,Nickel-manganese-cobalt,126774.65,UAE
+Li Auto,L7,2020,Solid-state,147813.28,Argentina
+Mahindra,Born Electric (upcoming range),2019,Solid-state,100401.48,Saudi Arabia
+Ford,Explorer EV (Europe),2018,Sodium-ion,70167.14,China
+Jeep,Grand Cherokee 4xe (PHEV),2022,Aluminum-ion,130213.31,Australia
+Nissan,Leaf,2024,Nickel-manganese-cobalt,62261.33,UK
+Polestar,Polestar 3,2017,Nickel-metal hydride,122853.66,Turkey
+Jeep,Recon (upcoming),2016,Zinc-air,96666.78,Spain
+XPeng,X9,2016,Nickel-manganese-cobalt,31704.6,Germany
+MG,MG ZS EV,2023,Solid-state,130722.4,Japan
+Dacia,Jogger Hybrid,2020,Flow batteries,100957.07,Norway
+Subaru,Solterra,2015,Aluminum-ion,144721.18,Vietnam
+Skoda,Elroq (upcoming),2020,Zinc-air,36188.94,Portugal
+Audi,e-tron GT,2021,Lithium-ion,39484.19,Spain
+XPeng,G9,2022,Calcium-ion,64249.14,Finland
+Genesis,GV60,2021,Lithium-sulfur,116893.2,Hungary
+Toyota,Lexus UX 300e,2023,Aluminum-ion,79586.51,Singapore
+Peugeot,e-208,2020,Calcium-ion,145723.63,Austria
+Lotus,Emeya,2024,Lead-acid,103429.51,India
+Zeekr,Zeekr X,2017,Lithium-iron phosphate,86401.31,Spain
+Acura,ZDX (with GM Ultium),2023,Calcium-ion,145428.02,Italy
+Volkswagen,ID.7,2019,Sodium-ion,109264.82,Czech Republic
+Mazda,MX-30,2024,Solid-state,118314.72,South Africa
+Zeekr,Zeekr 007,2019,Nickel-manganese-cobalt,115491.65,UK
+Peugeot,e-5008,2023,Nickel-metal hydride,83635.85,New Zealand
+Volkswagen,ID.5,2018,Zinc-air,45377.85,Russia
+Mercedes-Benz,EQS,2025,Magnesium-ion,41976.9,South Africa
+Canoo,Pickup,2023,Nickel-manganese-cobalt,124052.49,Czech Republic
+Mini,Mini Aceman,2024,Lithium-sulfur,99147.39,Belgium
+Rimac,Nevera,2021,Solid-state,64777.34,Malaysia
+VinFast,VF 9,2018,Lithium-titanate,134367.39,Finland
+Dacia,Bigster EV (upcoming),2022,Nickel-metal hydride,36199.09,Portugal
+VinFast,VFe34 (discontinued),2021,Aluminum-ion,98423.08,New Zealand
+Lamborghini,Revuelto (PHEV),2015,Magnesium-ion,128039.67,Indonesia
+Jeep,Wagoneer S,2016,Lithium-sulfur,77704.62,USA
+Great Wall Motors,ORA Good Cat,2019,Nickel-metal hydride,116483.56,Thailand
+Fisker,Ocean,2022,Solid-state,108304.18,Switzerland
+Geely,Emgrand EV,2022,Nickel-manganese-cobalt,129957.22,Saudi Arabia
+Genesis,G80 Electric,2024,Solid-state,137452.66,Norway
+Chevrolet,Silverado EV,2019,Nickel-cobalt-aluminum,89704.33,Portugal
+BYD,Dolphin,2021,Lead-acid,71791.78,India
+Geely,Emgrand EV,2021,Nickel-manganese-cobalt,97228.32,South Korea
+NIO,ES7,2021,Lithium-titanate,75465.3,Finland
+XPeng,G6,2022,Sodium-ion,134098.62,Israel
+BMW,iX3,2021,Lithium-iron phosphate,36458.03,China
+MG,MG ZS EV,2016,Lithium-iron phosphate,112539.19,Belgium
+Rimac,Nevera,2022,Nickel-manganese-cobalt,92019.48,Japan
+Kia,EV6,2019,Lithium-titanate,108822.94,Belgium
+Ferrari,SF90 Stradale (PHEV),2022,Calcium-ion,82147.06,Saudi Arabia
+Cadillac,Lyriq,2023,Lithium-sulfur,100852.31,Indonesia
+Cadillac,Lyriq,2017,Lithium-iron phosphate,68779.62,Germany
+Opel,Grandland Electric,2017,Zinc-air,47246.35,Malaysia
+Genesis,G80 Electric,2019,Nickel-manganese-cobalt,89860.42,Portugal
+Citroen,?-C4,2016,Lead-acid,35894.12,New Zealand
+Skoda,Enyaq Coupe,2023,Solid-state,97441.44,UAE
+Zeekr,Zeekr 001,2024,Lithium-iron phosphate,129609.13,Czech Republic
+Toyota,Lexus UX 300e,2024,Nickel-cobalt-aluminum,133274.31,Vietnam
+Porsche,Macan EV,2022,Lithium-sulfur,148433.17,Hungary
+Great Wall Motors,ORA Good Cat,2021,Lithium-ion,39124.22,Israel
+Citroen,Ami,2020,Zinc-air,65764.67,Austria
+Lotus,Emeya,2019,Lead-acid,134651.02,Canada
+Cadillac,Celestiq,2016,Aluminum-ion,87467.04,New Zealand
+Toyota,Lexus UX 300e,2022,Nickel-manganese-cobalt,140094.56,UAE
+Volkswagen,ID.Buzz,2017,Calcium-ion,68842.48,Hungary
+Mazda,MX-30,2020,Lithium-titanate,141067,Indonesia
+GMC,Hummer EV Pickup,2018,Aluminum-ion,54261.4,Denmark
+Ferrari,Roma PHEV,2017,Lead-acid,139947.23,Russia
+Opel,Grandland Electric,2022,Lithium-iron phosphate,100558.76,Australia
+Nissan,Ariya,2025,Zinc-air,147129.86,South Korea
+Volkswagen,ID.7,2021,Nickel-metal hydride,32066.13,Finland
+Lotus,Eletre,2020,Lithium-sulfur,110485.34,Brazil
+Opel,Grandland Electric,2022,Nickel-metal hydride,116001.34,UAE
+Pininfarina,Battista,2018,Lithium-titanate,77025.87,New Zealand
+Peugeot,e-208,2020,Solid-state,79848.94,China
+VinFast,VF 6,2017,Nickel-manganese-cobalt,98299.48,UAE
+Hyundai,Ioniq 5,2022,Solid-state,97963.02,South Africa
+Zeekr,Zeekr 001,2021,Nickel-manganese-cobalt,110005.01,Thailand
+Peugeot,e-3008,2019,Solid-state,109072.77,USA
+GMC,Hummer EV Pickup,2015,Flow batteries,48149.84,Russia
+Ford,E-Transit,2016,Lithium-ion,86029.81,Poland
+Opel,Grandland Electric,2016,Solid-state,40719.9,Czech Republic
+Chevrolet,Volt (PHEV),2020,Lead-acid,87306.92,Singapore
+Polestar,Polestar 4,2021,Flow batteries,57031.71,Thailand
+Rimac,Nevera,2022,Lithium-ion,123881.73,Czech Republic
+Seat,Avenger,2025,Zinc-air,55406.26,UAE
+Faraday Future,FF 91,2022,Flow batteries,112490.97,Canada
+Mahindra,XUV400,2024,Lead-acid,145109.64,France
+Kia,Niro EV,2023,Solid-state,61333.09,India
+Kia,Niro EV,2022,Nickel-cobalt-aluminum,134031.68,Israel
+BYD,Han EV,2023,Lithium-ion,138449.17,Austria
+Porsche,Cayenne Electric (upcoming),2016,Lithium-sulfur,137598.53,Japan
+Fisker,Ocean,2024,Aluminum-ion,74293.26,Singapore
+Honda,Honda e (discontinued),2023,Nickel-manganese-cobalt,127270.14,Denmark
+Canoo,Pickup,2025,Nickel-cobalt-aluminum,111104.82,Vietnam
+Fisker,Ocean,2019,Nickel-metal hydride,53694.85,Vietnam
+Audi,e-tron,2024,Flow batteries,105411.53,Sweden
+BMW,iX1,2019,Flow batteries,82632.21,China
+GMC,Hummer EV Pickup,2022,Lead-acid,86383.47,Belgium
+Mazda,Mazda EV (upcoming models),2024,Sodium-ion,131342.84,India
+Ford,E-Transit,2019,Zinc-air,88678.05,Russia
+Canoo,MPDV,2015,Aluminum-ion,137707.73,Turkey
+Dacia,Jogger Hybrid,2016,Nickel-manganese-cobalt,34947.7,UAE
+Nissan,Leaf,2021,Nickel-cobalt-aluminum,80804.96,South Korea
+Audi,e-tron,2020,Lithium-sulfur,95301.3,Argentina
+Skoda,Enyaq Coupe,2021,Lithium-ion,75606.71,Czech Republic
+Mahindra,XUV400,2017,Aluminum-ion,96031.48,Sweden
+Chevrolet,Silverado EV,2017,Solid-state,133973.75,Finland
+GMC,Hummer EV Pickup,2015,Zinc-air,144721.89,Thailand
+Citroen,?-Spacetourer,2023,Aluminum-ion,35036.66,New Zealand
+Jeep,Wrangler 4xe (PHEV),2018,Zinc-air,36245.89,Thailand
+Mazda,Mazda EV (upcoming models),2025,Nickel-manganese-cobalt,50188.59,Saudi Arabia
+Volkswagen,ID.7,2022,Flow batteries,43456.03,Belgium
+Hyundai,Ioniq 7 (upcoming),2019,Sodium-ion,127678.89,Singapore
+Polestar,Polestar 5 (upcoming),2020,Sodium-ion,63617.13,Saudi Arabia
+Changan,SL03,2024,Zinc-air,47377.26,China
+Rivian,R1T,2016,Magnesium-ion,61757.05,South Korea
+Rimac,Nevera,2015,Calcium-ion,75986.03,Singapore
+Volvo,XC40 Recharge,2021,Solid-state,30936.19,UK
+Honda,e:Ny1,2020,Magnesium-ion,38832.34,USA
+Acura,ZDX (with GM Ultium),2017,Magnesium-ion,40443.39,Vietnam
+Porsche,Cayenne Electric (upcoming),2022,Solid-state,32604.25,Israel
+Mini,Mini Cooper SE,2024,Lithium-ion,48139.06,Russia
+XPeng,P7,2020,Lead-acid,117443.56,France
+Mercedes-Benz,EQA,2016,Nickel-metal hydride,136420.35,Malaysia
+Honda,e:Ny1,2024,Aluminum-ion,68541.17,South Korea
+Jaguar,I-PACE,2022,Nickel-cobalt-aluminum,42511.91,Japan
+Mini,Mini Aceman,2025,Calcium-ion,59326.88,New Zealand
+Ferrari,SF90 Stradale (PHEV),2025,Magnesium-ion,45585.63,South Korea
+Li Auto,L9,2018,Lithium-sulfur,114883.67,China
+Ford,E-Transit,2023,Nickel-metal hydride,137346.69,Italy
+Lotus,Evija,2020,Solid-state,140321.99,Thailand
+Lucid Motors,Lucid Air,2016,Nickel-cobalt-aluminum,34047.93,Czech Republic
+Genesis,GV80 Electric,2025,Nickel-cobalt-aluminum,120829.71,Russia
+Peugeot,e-3008,2022,Lithium-titanate,62914.74,Hungary
+Toyota,Lexus UX 300e,2018,Sodium-ion,121086.77,Japan
+Audi,Q8 e-tron,2020,Lithium-ion,39912.77,Canada
+Nissan,Ariya,2017,Zinc-air,72012.08,Sweden
+BMW,i7,2018,Lithium-titanate,81122.49,France
+Peugeot,e-5008,2023,Flow batteries,93928.91,South Korea
+Jeep,Wagoneer S,2024,Nickel-metal hydride,144668.51,Mexico
+Fisker,Pear (upcoming),2016,Nickel-cobalt-aluminum,61344.68,Portugal
+Genesis,G80 Electric,2018,Lithium-titanate,42147.78,Sweden
+Great Wall Motors,ORA Lightning Cat,2016,Sodium-ion,103973.21,Mexico
+VinFast,VF 8,2018,Calcium-ion,98961.34,UAE
+Mini,Mini Electric,2022,Lithium-iron phosphate,92468.58,France
+Hyundai,Ioniq 5,2020,Solid-state,54897.26,Germany
+XPeng,X9,2019,Lead-acid,135222.82,Switzerland
+Great Wall Motors,ORA Good Cat,2023,Magnesium-ion,122176.3,Singapore
+Fisker,Pear (upcoming),2023,Lithium-iron phosphate,148492.54,UAE
+Geely,Geometry A,2020,Solid-state,66191.53,Ireland
+Geely,Emgrand EV,2018,Lead-acid,110537.2,Portugal
+Tesla,Model S,2020,Aluminum-ion,90924.66,Switzerland
+Lamborghini,Revuelto (PHEV),2024,Flow batteries,141657.62,Saudi Arabia
+Mahindra,Born Electric (upcoming range),2018,Nickel-manganese-cobalt,42037.78,Belgium
+Skoda,Enyaq Coupe,2015,Flow batteries,138650.57,France
+Pininfarina,Battista,2015,Zinc-air,60676.04,Austria
+Acura,ZDX (with GM Ultium),2015,Nickel-cobalt-aluminum,137538.74,Argentina
+Geely,Emgrand EV,2019,Nickel-metal hydride,59260.13,Hungary
+Cadillac,Lyriq,2020,Lithium-titanate,44357.65,Malaysia
+Cadillac,Lyriq,2018,Sodium-ion,147420.89,Singapore
+Rimac,Nevera,2020,Lithium-titanate,83671.52,Norway
+BYD,Seagull,2025,Sodium-ion,124447.66,Canada
+Polestar,Polestar 2,2015,Solid-state,33992.3,Saudi Arabia
+VinFast,VF 8,2021,Sodium-ion,31626.18,Japan
+Changan,Deepal S07,2023,Magnesium-ion,73353.79,Czech Republic
+Volkswagen,ID.5,2022,Nickel-cobalt-aluminum,113601.64,Mexico
+Fisker,Ocean,2025,Flow batteries,69588.13,Poland
+Audi,Q8 e-tron,2025,Lithium-sulfur,146476.36,India
+Polestar,Polestar 2,2024,Nickel-manganese-cobalt,145609.07,Indonesia
+MG,MG4 Electric,2019,Flow batteries,137367.83,UK
+Dacia,Jogger Hybrid,2024,Nickel-manganese-cobalt,61938.57,Poland
+Mini,Mini Cooper SE,2021,Sodium-ion,58155.3,Israel
+Nissan,Ariya,2018,Nickel-manganese-cobalt,60557.2,New Zealand
+Jaguar,I-PACE,2023,Nickel-manganese-cobalt,82226.05,Vietnam
+Cadillac,Lyriq,2020,Nickel-metal hydride,108938.53,Switzerland
+Li Auto,MEGA,2020,Zinc-air,82328.55,Switzerland
+Mini,Mini Cooper SE,2019,Magnesium-ion,149322.93,Japan
+Peugeot,e-208,2016,Sodium-ion,34293.73,Finland
+Acura,ZDX (with GM Ultium),2022,Lithium-sulfur,117907.54,New Zealand
+Tesla,Roadster (upcoming),2020,Lithium-ion,123641.63,Malaysia
+NIO,ES8,2025,Lead-acid,96638.7,Netherlands
+Zeekr,Zeekr 001,2025,Nickel-metal hydride,50697.52,Ireland
+XPeng,P7,2021,Sodium-ion,60725.82,Russia
+NIO,ES6,2025,Nickel-cobalt-aluminum,71172.88,Brazil
+Great Wall Motors,ORA Ballet Cat,2015,Nickel-manganese-cobalt,110386.88,South Africa
+Ford,F-150 Lightning,2022,Lithium-sulfur,115933.09,Portugal
+Ferrari,Ferrari EV (2025+),2020,Aluminum-ion,50945.32,Poland
+Ford,Explorer EV (Europe),2024,Aluminum-ion,41506.59,Sweden
+Cadillac,Celestiq,2021,Flow batteries,98874.99,Denmark
+Lotus,Evija,2019,Nickel-cobalt-aluminum,105337,Hungary
+Great Wall Motors,ORA Good Cat,2025,Magnesium-ion,78123.74,Japan
+Toyota,Lexus UX 300e,2025,Lithium-sulfur,47229.96,Australia
+Toyota,Lexus UX 300e,2016,Magnesium-ion,90771.06,Spain
+Geely,Geometry C,2017,Zinc-air,130182.07,France
+Mazda,MX-30,2019,Solid-state,98013.46,Ireland
+Zeekr,Zeekr 009,2022,Lead-acid,72912.54,UK
+Jaguar,I-PACE,2023,Lithium-sulfur,40995.43,New Zealand
+Ferrari,SF90 Stradale (PHEV),2016,Aluminum-ion,126229.16,USA
+Rivian,R1T,2024,Nickel-manganese-cobalt,136277.2,France
+Mercedes-Benz,EQE,2025,Aluminum-ion,92906.18,Portugal
+Toyota,bZ4X,2020,Lead-acid,40015.25,UAE
+BMW,i3,2020,Lithium-titanate,69357.36,Indonesia
+Toyota,Lexus RZ,2022,Zinc-air,90291.01,India
+Porsche,Panamera EV,2021,Calcium-ion,61614.23,Turkey
+Peugeot,e-2008,2022,Magnesium-ion,96969.01,France
+Mahindra,Born Electric (upcoming range),2020,Aluminum-ion,118562.03,Hungary
+Volkswagen,ID.7,2019,Magnesium-ion,32253.88,South Korea
+MG,MG ES5,2017,Nickel-cobalt-aluminum,47157.55,Indonesia
+Mini,Mini Aceman,2016,Nickel-manganese-cobalt,138200.86,Vietnam
+Li Auto,L7,2025,Lithium-ion,68693.52,Russia
+Peugeot,e-208,2015,Aluminum-ion,64073.81,Argentina
+Zeekr,Zeekr 007,2022,Nickel-metal hydride,51225.19,Austria
+Jaguar,I-PACE,2017,Nickel-manganese-cobalt,94168.34,Vietnam
+Skoda,Elroq (upcoming),2016,Nickel-metal hydride,127009.04,Czech Republic
+Nissan,Leaf,2017,Flow batteries,37299.38,Indonesia
+Mahindra,XUV400,2016,Calcium-ion,118226.92,Belgium
+Kia,EV6,2016,Nickel-cobalt-aluminum,79602.02,Thailand
+BMW,iX,2020,Lithium-iron phosphate,47315.21,Finland
+NIO,ES7,2015,Zinc-air,128682.82,UAE
+Citroen,?-C4,2015,Flow batteries,91832.9,Singapore
+Faraday Future,FF 91,2025,Lithium-titanate,76057.57,Belgium
+Rimac,Nevera,2015,Lithium-sulfur,99233.98,Australia
+Acura,ZDX (with GM Ultium),2016,Aluminum-ion,69408.39,Switzerland
+Nissan,Ariya,2017,Lead-acid,71336.92,Norway
+BYD,Han EV,2016,Lithium-iron phosphate,126117.03,Turkey
+Acura,ZDX (with GM Ultium),2016,Lead-acid,42219.42,USA
+Pininfarina,Battista,2024,Zinc-air,48482.98,Finland
+Volvo,EX90,2024,Lithium-iron phosphate,51380.09,Ireland
+Geely,Geometry A,2017,Lithium-sulfur,54621.98,Poland
+Zeekr,Zeekr 007,2024,Lithium-sulfur,81302.62,Denmark
+BYD,Dolphin,2023,Magnesium-ion,139937.62,Austria
+Opel,Corsa-e,2018,Flow batteries,48678.54,Switzerland
+Ferrari,Roma PHEV,2015,Magnesium-ion,61020.68,Poland
+Changan,SL03,2022,Flow batteries,87195.83,Ireland
+Lucid Motors,Lucid DreamDrive,2015,Calcium-ion,135951.34,Singapore
+Changan,Deepal S07,2015,Flow batteries,140663.03,France
+XPeng,P5,2023,Aluminum-ion,95333.16,India
+Lotus,Eletre,2017,Nickel-manganese-cobalt,95315.8,India
+Volkswagen,ID.4,2025,Lithium-sulfur,83143.89,Canada
+Maserati,GranTurismo Folgore,2019,Lithium-sulfur,125800.4,Saudi Arabia
+Changan,Q05,2025,Nickel-metal hydride,110395.96,Germany
+Cadillac,Optiq (upcoming),2022,Flow batteries,116975.88,Switzerland
+Kia,Niro EV,2021,Lithium-titanate,149154.47,Mexico
+Renault,Kangoo E-Tech,2018,Lithium-titanate,44333.01,Mexico
+Lucid Motors,Lucid Air,2022,Lead-acid,133682.57,Indonesia
+Dacia,Bigster EV (upcoming),2019,Aluminum-ion,65316.3,Italy
+Pininfarina,Battista,2020,Aluminum-ion,70092.04,Vietnam
+Volkswagen,ID.Buzz,2021,Nickel-manganese-cobalt,41867.18,Spain
+Mini,Mini Aceman,2023,Lithium-iron phosphate,130117.93,Ireland
+MG,MG ES5,2017,Zinc-air,73248.28,Russia
+Hyundai,Ioniq 6,2024,Nickel-metal hydride,30488.05,Japan
+Acura,ZDX (with GM Ultium),2024,Magnesium-ion,132857.5,South Korea
+Pininfarina,Battista,2018,Lithium-ion,45635.17,Russia
+Canoo,MPDV,2017,Sodium-ion,128943.61,Russia
+Ferrari,SF90 Stradale (PHEV),2015,Lithium-titanate,37887.02,Russia
+Chevrolet,Bolt EV,2021,Lithium-sulfur,60868.22,Singapore
+Rimac,Nevera,2019,Nickel-manganese-cobalt,149516.21,Netherlands
+Renault,Kangoo E-Tech,2020,Sodium-ion,97653.6,Norway
+Peugeot,e-2008,2018,Lithium-ion,62853.57,Germany
+Dacia,Bigster EV (upcoming),2019,Flow batteries,147031.83,Poland
+BMW,i4,2022,Nickel-manganese-cobalt,139621.32,Sweden
+VinFast,VF 6,2021,Nickel-manganese-cobalt,101572.39,UAE
+NIO,ES7,2017,Solid-state,71838.43,New Zealand
+Jeep,Wrangler 4xe (PHEV),2015,Sodium-ion,131834.29,Spain
+Ford,F-150 Lightning,2019,Lithium-iron phosphate,86087.78,Turkey
+Pininfarina,Battista,2018,Sodium-ion,104325.3,New Zealand
+Acura,ZDX (with GM Ultium),2016,Nickel-metal hydride,109200.84,Hungary
+Changan,SL03,2022,Lithium-ion,74523.22,Germany
+Honda,Honda e (discontinued),2025,Calcium-ion,84360.48,Russia
+VinFast,VF 7,2022,Zinc-air,49569.86,Denmark
+Faraday Future,FF 91,2020,Lithium-sulfur,139737.66,Singapore
+Li Auto,L9,2016,Sodium-ion,141422.21,Saudi Arabia
+Rivian,R1T,2025,Nickel-manganese-cobalt,109817.05,Poland
+Kia,EV9,2021,Sodium-ion,126212.54,Japan
+Mini,Mini Cooper SE,2015,Magnesium-ion,57276.58,South Korea
+Mahindra,Born Electric (upcoming range),2024,Lithium-iron phosphate,138823.63,Netherlands
+XPeng,X9,2025,Zinc-air,135812.56,Spain
+Rimac,Nevera,2024,Lithium-iron phosphate,103044.9,Canada
+NIO,ET9,2025,Lithium-sulfur,98963.93,Sweden
+Volvo,EX90,2023,Sodium-ion,43176.97,Sweden
+Maserati,GranTurismo Folgore,2022,Nickel-metal hydride,62866.65,Argentina
+NIO,ET5,2016,Lithium-titanate,149376.71,UK
+Seat,Avenger,2022,Sodium-ion,84957.78,Italy
+Zeekr,Zeekr 009,2024,Lithium-ion,36541.85,Poland
+Nissan,Ariya,2016,Calcium-ion,130494.3,Austria
+Cadillac,Lyriq,2022,Lithium-titanate,54287.14,India
+Jaguar,I-PACE,2024,Lithium-ion,99141.6,Canada
+Cadillac,Celestiq,2025,Lithium-iron phosphate,33873.54,India
+Cadillac,Optiq (upcoming),2018,Lithium-ion,67316.45,Malaysia
+Fisker,Pear (upcoming),2023,Lithium-titanate,83638.99,Turkey
+Geely,Geometry A,2020,Lithium-sulfur,127489.51,Switzerland
+Geely,Emgrand EV,2023,Solid-state,51901.3,Thailand
+Hyundai,Ioniq 7 (upcoming),2020,Lithium-ion,123914.34,France
+Jaguar,I-PACE,2020,Solid-state,99625.77,Germany
+Cadillac,Celestiq,2015,Magnesium-ion,102581.77,Finland
+Skoda,Enyaq,2021,Magnesium-ion,90063.94,South Korea
+Zeekr,Zeekr 007,2021,Solid-state,130231.16,Netherlands
+Peugeot,e-3008,2023,Nickel-metal hydride,107703.99,Israel
+BMW,iX,2016,Sodium-ion,71705.89,Ireland
+Honda,Honda e (discontinued),2016,Zinc-air,141864.44,Argentina
+Volvo,C40 Recharge,2019,Aluminum-ion,120229.77,New Zealand
+MG,MG4 Electric,2018,Zinc-air,113294.97,Saudi Arabia
+Genesis,GV80 Electric,2022,Nickel-cobalt-aluminum,74478.92,Switzerland
+Great Wall Motors,ORA Lightning Cat,2015,Lead-acid,85541.46,Hungary
+Seat,Avenger,2016,Lithium-titanate,136301.76,Vietnam
+Li Auto,L9,2020,Magnesium-ion,66578.37,Netherlands
+NIO,ET9,2020,Lithium-titanate,134074.9,Malaysia
+Changan,Q05,2018,Nickel-cobalt-aluminum,45957.47,Italy
+Nissan,Leaf,2016,Sodium-ion,148584.62,Poland
+Maserati,GranTurismo Folgore,2018,Lithium-titanate,100542.09,USA
+Jeep,Wrangler 4xe (PHEV),2017,Lithium-titanate,134265.96,Mexico
+Toyota,Lexus RZ,2020,Solid-state,50283.87,Saudi Arabia
+Toyota,bZ4X,2024,Zinc-air,36825.73,UAE
+Lucid Motors,Lucid DreamDrive,2024,Lithium-sulfur,93513.69,Sweden
+Subaru,Solterra,2022,Lead-acid,59455.97,Denmark
+Rimac,Nevera,2025,Zinc-air,68292.46,South Africa
+Citroen,Ami,2021,Magnesium-ion,30435.06,Czech Republic
+Opel,Mokka-e,2023,Lithium-ion,122384.74,Russia
+Li Auto,L8,2023,Magnesium-ion,39110.76,South Korea
+Great Wall Motors,ORA Ballet Cat,2022,Sodium-ion,96638.88,Japan
+Cadillac,Lyriq,2018,Solid-state,113010.36,India
+Mahindra,XUV400,2022,Magnesium-ion,134239.53,Hungary
+Faraday Future,FF 91,2015,Nickel-cobalt-aluminum,71288.36,Netherlands
+Volvo,XC40 Recharge,2015,Lithium-ion,109057.37,Hungary
+Genesis,GV60,2016,Lithium-iron phosphate,132068.6,UAE
+GMC,Hummer EV SUV,2016,Calcium-ion,85850.93,Russia
+Tesla,Model Y,2018,Lithium-titanate,145270.93,Germany
+Chevrolet,Volt (PHEV),2024,Lithium-sulfur,135418.32,China
+XPeng,P5,2018,Lithium-ion,30014.46,UK
+Polestar,Polestar 3,2024,Lithium-ion,92097.37,New Zealand
+Tesla,Model S,2023,Lithium-sulfur,35255.94,Poland
+Volvo,EX30,2025,Aluminum-ion,111062.28,Czech Republic
+Citroen,Ami,2024,Lithium-ion,147304.53,Ireland
+Opel,Mokka-e,2015,Nickel-manganese-cobalt,138432.79,Brazil
+Ford,E-Transit,2018,Lithium-titanate,135571.3,UAE
+Honda,Honda e (discontinued),2022,Solid-state,110835.13,Czech Republic
+Skoda,Elroq (upcoming),2022,Lithium-sulfur,74184.35,UAE
+Jeep,Wagoneer S,2019,Nickel-manganese-cobalt,60513.2,Malaysia
+Nissan,Leaf,2019,Sodium-ion,81672.75,Malaysia
+Mahindra,XUV400,2021,Lithium-ion,138967.96,UK
+Ferrari,Roma PHEV,2019,Aluminum-ion,41545.76,Malaysia
+Geely,Geometry A,2024,Lithium-iron phosphate,138456.63,Saudi Arabia
+Volkswagen,ID.2all,2015,Magnesium-ion,116502.32,New Zealand
+Lamborghini,Lanzador (upcoming EV),2020,Lithium-ion,148103.98,Israel
+Mercedes-Benz,EQS SUV,2016,Lithium-ion,42848.21,South Africa
+Skoda,Elroq (upcoming),2023,Magnesium-ion,145742.67,Singapore
+Opel,Corsa-e,2020,Lithium-iron phosphate,31796.38,Saudi Arabia
+Peugeot,e-5008,2025,Nickel-manganese-cobalt,134518.7,Canada
+Chevrolet,Equinox EV,2020,Nickel-manganese-cobalt,114799.75,Vietnam
+Rivian,EDV (Electric Delivery Van),2025,Lithium-sulfur,74719.02,Vietnam
+Peugeot,e-5008,2018,Nickel-metal hydride,143732.41,Japan
+XPeng,G9,2025,Magnesium-ion,58028.82,Germany
+Geely,Geometry C,2023,Solid-state,72506.7,UK
+Zeekr,Zeekr X,2022,Lithium-sulfur,35431.1,China
+Great Wall Motors,ORA Ballet Cat,2016,Magnesium-ion,37845.54,Czech Republic
+VinFast,VF 7,2020,Lithium-sulfur,125220.18,Poland
+Maserati,GranTurismo Folgore,2024,Nickel-metal hydride,32260.06,South Africa
+Mini,Mini Cooper SE,2022,Lead-acid,138236.83,South Africa
+Skoda,Elroq (upcoming),2015,Magnesium-ion,78257.61,Norway
+Faraday Future,FF 91,2018,Magnesium-ion,97676.93,UK
+Lucid Motors,Lucid DreamDrive,2015,Lithium-sulfur,137771.94,Austria
+Jeep,Grand Cherokee 4xe (PHEV),2022,Lithium-iron phosphate,41491.15,New Zealand
+Lamborghini,Revuelto (PHEV),2020,Sodium-ion,90462.37,Japan
+Polestar,Polestar 3,2023,Lithium-sulfur,84609.2,Sweden
+Seat,Avenger,2023,Lead-acid,40569.14,Saudi Arabia
+Volvo,EX30,2025,Zinc-air,137131.24,Norway
+Fisker,Ocean,2024,Sodium-ion,117494.54,Norway
+Skoda,Enyaq,2020,Nickel-cobalt-aluminum,36238.3,India
+Hyundai,Ioniq 6,2016,Calcium-ion,82502.79,Japan
+MG,MG5 EV,2021,Nickel-metal hydride,87557.67,Italy
+GMC,Hummer EV SUV,2025,Solid-state,122712.57,China
+Polestar,Polestar 3,2022,Lithium-titanate,138743.2,Portugal
+Ferrari,SF90 Stradale (PHEV),2024,Lithium-sulfur,94286.77,Turkey
+Citroen,Ami,2021,Lithium-ion,51889.81,India
+Pininfarina,Battista,2021,Magnesium-ion,79324.18,Netherlands
+Rivian,R1S,2019,Solid-state,75038.73,Canada
+Tesla,Model Y,2023,Lithium-iron phosphate,104697.82,Netherlands
+BYD,Dolphin,2020,Sodium-ion,47815.37,USA
+BMW,i4,2020,Nickel-manganese-cobalt,98669.32,Germany
+Pininfarina,Battista,2016,Nickel-manganese-cobalt,113234.3,Ireland
+Citroen,Ami,2021,Calcium-ion,131634.85,Spain
+BYD,Tang EV,2018,Calcium-ion,100658.5,Israel
+Changan,Deepal S07,2023,Lead-acid,53155.57,Poland
+Ferrari,SF90 Stradale (PHEV),2022,Zinc-air,137261.53,Germany
+VinFast,VF 7,2019,Calcium-ion,101588.05,New Zealand
+Polestar,Polestar 2,2021,Flow batteries,93225.72,Malaysia
+Polestar,Polestar 5 (upcoming),2022,Nickel-manganese-cobalt,126545.1,Denmark
+Rivian,R1S,2016,Zinc-air,99914.52,Italy
+Maserati,GranTurismo Folgore,2019,Lithium-iron phosphate,100560.66,Singapore
+Lotus,Emeya,2023,Zinc-air,87471.51,Austria
+Jeep,Wrangler 4xe (PHEV),2024,Lithium-sulfur,61249.44,Norway
+Lamborghini,Lanzador (upcoming EV),2016,Lithium-ion,49573.14,Portugal
+Jaguar,I-PACE,2021,Magnesium-ion,142875.36,Austria
+Genesis,GV80 Electric,2023,Nickel-manganese-cobalt,42757.43,Finland
+Great Wall Motors,ORA Ballet Cat,2019,Magnesium-ion,147890.83,New Zealand
+Citroen,Ami,2021,Solid-state,77079.42,Saudi Arabia
+Subaru,Solterra,2019,Lithium-ion,129006.91,Russia
+Genesis,GV80 Electric,2019,Solid-state,35807.6,Japan
+Mercedes-Benz,EQC,2015,Magnesium-ion,133019.06,Germany
+Chevrolet,Bolt EV,2024,Nickel-metal hydride,67936.44,Poland
+MG,MG5 EV,2017,Nickel-manganese-cobalt,50946.5,Singapore
+Subaru,Solterra,2015,Solid-state,145578.7,Indonesia
+Renault,Kangoo E-Tech,2019,Solid-state,108072.44,Belgium
+Zeekr,Zeekr 009,2020,Lithium-sulfur,126025.02,Saudi Arabia
+BMW,i3,2024,Calcium-ion,91216.23,Canada
+Honda,e:Ny1,2020,Flow batteries,148253.34,Vietnam
+VinFast,VFe34 (discontinued),2019,Lithium-titanate,121763.76,Japan
+BYD,Seagull,2023,Aluminum-ion,71492.1,Portugal
+Acura,ZDX (with GM Ultium),2016,Solid-state,84519.99,Malaysia
+NIO,ES7,2018,Magnesium-ion,121013.96,Germany
+Citroen,?-C4,2016,Zinc-air,97224.11,USA
+Acura,ZDX (with GM Ultium),2017,Lithium-titanate,137232.76,Argentina
+MG,MG5 EV,2024,Nickel-manganese-cobalt,83108.65,Austria
+Nissan,Ariya,2016,Lead-acid,93690.58,South Africa
+MG,MG4 Electric,2024,Nickel-manganese-cobalt,97494.53,Argentina
+Seat,Avenger,2022,Magnesium-ion,68325.81,India
+Faraday Future,FF 91,2020,Lead-acid,96259.98,Italy
+XPeng,X9,2015,Aluminum-ion,105934.5,Spain
+Ford,E-Transit,2025,Magnesium-ion,87319.8,France
+Audi,e-tron GT,2015,Magnesium-ion,103250.88,China
+Acura,ZDX (with GM Ultium),2021,Flow batteries,88645.67,Austria
+Polestar,Polestar 2,2025,Aluminum-ion,30619.88,India
+Ferrari,SF90 Stradale (PHEV),2015,Calcium-ion,75982.18,Portugal
+Lamborghini,Revuelto (PHEV),2016,Nickel-cobalt-aluminum,66083.68,Spain
+Changan,Q05,2018,Nickel-manganese-cobalt,44669.85,Japan
+GMC,Hummer EV Pickup,2016,Flow batteries,62570.85,Vietnam
+Nissan,Leaf,2018,Nickel-cobalt-aluminum,120042.82,Russia
+Dacia,Jogger Hybrid,2022,Lead-acid,56065.48,Saudi Arabia
+Honda,Honda e (discontinued),2023,Nickel-metal hydride,48469.77,Australia
+VinFast,VF 6,2021,Lithium-iron phosphate,132452.82,Denmark
+Faraday Future,FF 91,2021,Lithium-iron phosphate,138825.89,Spain
+Zeekr,Zeekr 001,2016,Nickel-metal hydride,114250.52,South Korea
+Kia,Niro EV,2022,Solid-state,93696.17,Australia
+Ford,Explorer EV (Europe),2022,Lithium-iron phosphate,84240.01,Thailand
+Mazda,Mazda EV (upcoming models),2018,Sodium-ion,98312.6,Australia
+Jeep,Recon (upcoming),2022,Magnesium-ion,105178.61,Japan
+Nissan,Leaf,2019,Flow batteries,145949.76,Malaysia
+Renault,5 E-Tech,2017,Lithium-iron phosphate,48113.67,Israel
+Fisker,Ocean,2018,Magnesium-ion,45084.58,Israel
+Renault,Kangoo E-Tech,2021,Lithium-ion,141614.73,South Korea
+Rivian,R1S,2018,Sodium-ion,105479.5,Belgium
+NIO,ET9,2016,Magnesium-ion,104068.1,Russia
+Subaru,Solterra,2015,Zinc-air,70271.91,Netherlands
+NIO,ET9,2022,Nickel-manganese-cobalt,52469.48,France
+Volvo,EX30,2015,Lithium-sulfur,119074.24,Australia
+XPeng,X9,2020,Magnesium-ion,74484.8,France
+Genesis,G80 Electric,2015,Lithium-titanate,72533.65,Spain
+Subaru,Solterra,2023,Lithium-sulfur,84736.45,Russia
+VinFast,VF 7,2019,Sodium-ion,31855.91,Argentina
+Kia,EV6,2016,Solid-state,41978.04,Australia
+MG,MG4 Electric,2020,Lead-acid,46160.23,China
+Genesis,GV80 Electric,2018,Calcium-ion,63814.09,Singapore
+VinFast,VFe34 (discontinued),2024,Lithium-titanate,61370.97,Ireland
+Ferrari,SF90 Stradale (PHEV),2022,Nickel-cobalt-aluminum,96611.68,South Africa
+Porsche,Cayenne Electric (upcoming),2015,Lithium-ion,44414.92,UAE
+Changan,Q05,2017,Lead-acid,124317.19,Sweden
+Maserati,Grecale Folgore,2021,Zinc-air,114912.49,India
+Audi,A6 e-tron (upcoming),2023,Lithium-ion,46090.92,Netherlands
+Rivian,R1S,2023,Magnesium-ion,76853.14,Israel
+Rimac,Nevera,2024,Solid-state,73134.79,South Africa
+XPeng,G6,2025,Lead-acid,101984.41,Hungary
+Li Auto,L7,2019,Lithium-titanate,135029.6,Finland
+Chevrolet,Bolt EUV,2022,Zinc-air,132097.15,UK
+Toyota,Lexus RZ,2023,Lithium-sulfur,35151.2,Singapore
+Peugeot,e-208,2022,Flow batteries,109440.37,Australia
+Rimac,Nevera,2025,Aluminum-ion,138556.89,Argentina
+Canoo,MPDV,2015,Lithium-ion,55327.67,Sweden
+Skoda,Enyaq,2015,Nickel-metal hydride,34774.36,Malaysia
+Seat,Avenger,2017,Calcium-ion,76360.66,Saudi Arabia
+BMW,i3,2021,Lithium-iron phosphate,110981.46,USA
+Opel,Grandland Electric,2022,Aluminum-ion,129135.71,Norway
+Volkswagen,ID.5,2023,Nickel-cobalt-aluminum,73210.77,Vietnam
+XPeng,G9,2023,Nickel-manganese-cobalt,71208.54,Thailand
+Volkswagen,ID.7,2019,Flow batteries,30726.36,Canada
+Citroen,?-C4,2022,Lithium-ion,132330.01,France
+GMC,Hummer EV SUV,2020,Zinc-air,59538.11,Sweden
+Lotus,Eletre,2016,Lithium-titanate,128150.81,South Korea
+Pininfarina,Battista,2022,Solid-state,62556.49,Ireland
+Jeep,Grand Cherokee 4xe (PHEV),2023,Nickel-cobalt-aluminum,93173.32,Australia
+Hyundai,Ioniq 7 (upcoming),2025,Sodium-ion,118326.64,Germany
+Rimac,Nevera,2019,Lithium-ion,104540.55,Malaysia
+Lotus,Eletre,2018,Lithium-ion,43103.48,Belgium
+Jeep,Grand Cherokee 4xe (PHEV),2018,Nickel-metal hydride,51734.97,Hungary
+Opel,Corsa-e,2020,Solid-state,79398.55,Russia
+Lotus,Evija,2016,Lithium-ion,129649.85,Switzerland
+Polestar,Polestar 4,2021,Lithium-sulfur,95673.93,Japan
+Skoda,Elroq (upcoming),2018,Sodium-ion,53758.94,Turkey
+Mercedes-Benz,EQS SUV,2015,Flow batteries,108616.56,Netherlands
+Audi,e-tron,2018,Zinc-air,139528.87,New Zealand
+Citroen,?-Spacetourer,2021,Lead-acid,73917.98,Thailand
+Honda,e:Ny1,2024,Zinc-air,35081.17,Argentina
+GMC,Hummer EV Pickup,2021,Flow batteries,60224.23,Germany
+XPeng,G9,2020,Lead-acid,68768.97,Israel
+Porsche,Taycan,2019,Lithium-iron phosphate,98898.46,Vietnam
+Pininfarina,Battista,2025,Magnesium-ion,47638.19,Sweden
+Skoda,Enyaq,2019,Lithium-ion,65753.59,Spain
+Volkswagen,ID.2all,2015,Lithium-ion,142589.43,Saudi Arabia
+Ferrari,SF90 Stradale (PHEV),2018,Sodium-ion,43988.9,Indonesia
+Mahindra,Born Electric (upcoming range),2019,Lithium-ion,142072.84,India
+Cadillac,Lyriq,2021,Lithium-iron phosphate,88218.53,Canada
+Mahindra,XUV400,2021,Nickel-metal hydride,110221.3,New Zealand
+MG,MG4 Electric,2016,Lithium-sulfur,148993.26,Austria
