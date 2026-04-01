@@ -26,11 +26,13 @@ I implemented several regression models to provide real-time estimates and futur
 ## 📂 Project Structure
 ```text
 ├── CSV/
-│   ├── sport_car_dataset.csv      # ICE vehicle data
-│   ├── electric_vehicles_dataset.csv # EV performance data
-│   └── ... (Other car datasets)
-├── Project.py                    # Main ML & Logic Engine
-└── README.md                      # Documentation
+│   ├── charging_range.csv              # ICE Vehicle Data
+│   ├── electric_vehicles_dataset.csv   # EV Performance Data
+│   ├── sport_car_dataset.csv           # Sport Car Data
+│   ├── tcr_racing.csv                  # Touring Car Racing (TCR) analytics
+│   └── top10_fastest_car.csv           # High-performance for ranking
+├── Project.py                          # Main ML & Logic Engine
+└── README.md                           # Documentation
 ```
 <br>
 
