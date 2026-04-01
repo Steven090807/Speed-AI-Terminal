@@ -11,13 +11,13 @@
 
 ## ✨ Technical Architecture & Key Features
 
-### 1) Predictive Machine Learning Logic
+### 1️⃣ Predictive Machine Learning Logic
 I implemented several regression models to provide real-time estimates and future forecasting:
 * **EV Range Prediction:** Estimates driving distance based on battery capacity (kWh).
 * **Charging Time Estimation:** A functional model factoring in battery size and charger power with a calculated efficiency overhead.
 * **Market Trend Forecasting:** Uses **Polynomial Regression** (NumPy Polyfit) to predict EV market growth and model availability through 2030.
 
-### 2) Data Engineering & Analytics
+### 2️⃣ Data Engineering & Analytics
 * **Bilingual Data Processing:** Handles diverse datasets with varying encodings and units (USD vs MYR).
 * **Advanced Visualization:** Generates dynamic bar charts and trend lines using **Matplotlib** and **Seaborn** for JDM legends, Top Speed rankings, and Price distributions.
 * **Smart Filtering:** Includes a custom "Affordable Supercar" engine that cross-references horsepower and budget constraints.
@@ -38,14 +38,14 @@ I implemented several regression models to provide real-time estimates and futur
 
 To enjoy the full interactive experience of **SPEED.AI**, please follow these setup steps:
 
-### 1️⃣ Prerequisites
+### <code> Step 1:</code> Prerequisites
 Ensure you have **Python 3.x** installed. You will need to install the following dependencies via terminal:
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn tabulate numpy
 ```
 
-### 2️⃣ Repository Setup
+### <code> Step 2:</code> Repository Setup
 Clone this repository to your local machine.
 Data Check: Ensure the CSV/ folder contains all required datasets:
 
@@ -57,7 +57,7 @@ tcr_racing.csv
 charging_range.csv
 ```
 
-### 3️⃣ Visual Optimization (Critical)
+### <code> Step 3:</code> Visual Optimization (Critical)
 
 To ensure the **ASCII Art** and the **Turbo Electro Menu** render in their full professional layout without breaking lines, please follow these display settings:
 
