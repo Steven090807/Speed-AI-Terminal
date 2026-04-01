@@ -1,7 +1,6 @@
 <h1>
   Speed.AI Terminal &nbsp;&nbsp;(🎓 School Project) &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" style="vertical-align: middle;">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" style="vertical-align: middle;">
 </h1>
 <br>
 <h3>🚀 Getting Started To enjoy the full interactive experience of SPEED.AI, follow these three steps:</h3>
