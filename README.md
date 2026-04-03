@@ -91,3 +91,4 @@ If you are running the project inside the VS Code terminal, use the following sh
 
 > **Degree Project** &nbsp; | &nbsp; Completed on Aug 20, 2025  
 > *Developed with passion for Software Engineering.*
+
