@@ -301,6 +301,11 @@ while True:
         print(f"\n{space}==== Popular Cars Ranking ====")
         country = input(f"{space}View Malaysia or Global popularity ranking?: ").strip().lower()
 
+        if country == "0":
+            clear_screen()
+            menu()
+            continue
+        
         if country in ["my", "malaysia"]:
             country_type = "MY"
             if "popular_MY" not in ice_cars_df.columns:
@@ -324,8 +329,8 @@ while True:
                 by="popular_global", ascending=True                
             )
         else:
-            clear_screen()
-            sub_menu()
+            print(f"{space}⚠️ Invalid choice. Please try again. ⚠️")
+            continue
 
         if ranked.empty:
             print(f"{space}⚠️{two_space}No popularity data found in 'popular_global' column.⚠️")
@@ -360,6 +365,11 @@ while True:
 
     elif choice.lower() in ["4", "four"]:
         car_type_04 = input(f"{space}Search for Sport (ICE) or EV car?: ").strip().lower()
+
+        if car_type_04 == "0":
+            clear_screen()
+            menu()
+            continue
 
         while True:
             if car_type_04.startswith(("s", "i")):
