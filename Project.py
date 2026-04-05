@@ -111,6 +111,7 @@ while True:
         choice_Auto = ""
 
     if choice.lower() in ["0","back"]:
+        sub_choice = ""
         clear_screen()
         menu()
         continue
