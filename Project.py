@@ -110,17 +110,25 @@ while True:
         choice = choice_Auto
         choice_Auto = ""
 
+    if choice.lower() in ["0","back"]:
+        clear_screen()
+        menu()
+        continue
 
     if choice.lower() in ["1", "one"]:
         if sub_choice == "1":
             print(f"\n{space}==== OPTION ONE ====")
-            battery = float(input(f"{space}Enter battery size (kWh): "))
-            if battery == "0":
-                sub_choice = ""
-                clear_screen()
-                menu()
-            predicted_range = battery * 7.8
-            print(f"{space}Predicted Range: ~{predicted_range:.0f} km\n")
+            battery = input(f"{space}Enter battery size (kWh): ")
+        
+
+            try:
+                predict_battery = float(battery)
+                
+                predicted_range = predict_battery * 7.8
+                print(f"{space}✅ Predicted Range: ~{predicted_range:.0f} km\n")
+                
+            except ValueError:
+                print(f"{space}⚠️  Error: Please enter a numeric value (e.g. \"75.5\") ⚠️\n")
             continue
 
         if car_type_01 == "":
