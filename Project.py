@@ -1,4 +1,5 @@
 import pandas as pd
+import seaborn as sns
 import matplotlib.pyplot as plt
 from tabulate import tabulate
 import numpy as np
@@ -511,20 +512,29 @@ while True:
         indented_table = "\n".join(space + line for line in table_str.splitlines())
         print(indented_table)
 
-        plt.figure(figsize=(10, 6))
-        colors = plt.cm.plasma(np.linspace(0, 1, len(top10)))
-        plt.barh(top10["Drive"], top10["Rnaking"], color=colors)
- 
+        sns.set_theme(style="darkgrid") 
+        plt.figure(figsize=(10, 7))
+
+        ax = sns.barplot(
+            data=top10, 
+            x="Rnaking", 
+            y="Drive", 
+            palette="magma",
+            hue="Drive", 
+            legend=False
+        )
 
         for i, (rank, model) in enumerate(zip(top10["Rnaking"], top10["Car Model"])):
-            plt.text(rank + 0.1, i, model, ha="left", va="center", color="black", fontsize=9)
+            plt.text(rank + 0.1, i, f" {model}", ha="left", va="center", fontsize=10, weight='bold')
 
+
+        plt.title(f"TCR {year_input} {location} Championship - Top 10", fontsize=16, pad=20)
+        plt.xlabel("Ranking (Lower is Better)", fontsize=12)
+        plt.ylabel("Driver", fontsize=12)
+        
         plt.gca().invert_yaxis()
-
-        plt.title(f"TCR {year_input} {location} Championship - Top 10", fontsize=14)
-        plt.xlabel("Ranking")
-        plt.ylabel("Driver")
-        #plt.tight_layout()
+        
+        plt.tight_layout()
         plt.show()
 
 
