@@ -19,7 +19,7 @@ I implemented several regression models to provide real-time estimates and futur
 
 ### 2️⃣ Data Engineering & Analytics
 * **Bilingual Data Processing:** Handles diverse datasets with varying encodings and units (USD vs MYR).
-* **Advanced Visualization:** Generates dynamic bar charts and trend lines using **Matplotlib** for JDM legends, Top Speed rankings, and Price distributions.
+* **Advanced Visualization:** Generates dynamic bar charts and trend lines using **Matplotlib** and **Seaborn** for JDM legends, Top Speed rankings, and TCR Racing.
 * **Smart Filtering:** Includes a custom "Affordable Supercar" engine that cross-references horsepower and budget constraints.
 <br>
 
