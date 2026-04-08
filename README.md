@@ -41,10 +41,10 @@ I implemented several regression models to provide real-time estimates and futur
 To enjoy the full interactive experience of **SPEED.AI**, please follow these setup steps:
 
 ### <code> Step 1:</code> Prerequisites
-Ensure you have **Python 3.x** installed. You will need to install the following dependencies via terminal:
+Ensure you have **Python 3.x** installed. You can install all necessary dependencies at once using the provided requirements file:
 
 ```bash
-pip install pandas matplotlib seaborn scikit-learn tabulate numpy
+pip install -r requirements.txt
 ```
 
 ### <code> Step 2:</code> Repository Setup
@@ -91,4 +91,3 @@ If you are running the project inside the VS Code terminal, use the following sh
 
 > **Degree Project** &nbsp; | &nbsp; Completed on Aug 20, 2025  
 > *Developed with passion for Software Engineering.*
-

@@ -12,7 +12,7 @@ ice_cars_df = pd.read_csv("CSV/sport_car_dataset.csv", encoding="latin1")
 ev_cars_df = pd.read_csv("CSV/electric_vehicles_dataset.csv", encoding="latin1")
 top10_cars_df = pd.read_csv("CSV/top10_fastest_car.csv", encoding="latin1")
 tcr_racing_df = pd.read_csv("CSV/tcr_racing.csv", encoding="latin1")
-charging_range_df = pd.read_csv("CSV/charging_ range.csv", encoding="latin1")
+charging_range_df = pd.read_csv("CSV/charging_range.csv", encoding="latin1")
 
 #seven spaces
 space = "       "
