@@ -19,7 +19,7 @@ I implemented several regression models to provide real-time estimates and futur
 
 ### 2️⃣ Data Engineering & Analytics
 * **Bilingual Data Processing:** Handles diverse datasets with varying encodings and units (USD vs MYR).
-* **Advanced Visualization:** Generates dynamic bar charts and trend lines using **Matplotlib** and **Seaborn** for JDM legends, Top Speed rankings, and Price distributions.
+* **Advanced Visualization:** Generates dynamic bar charts and trend lines using **Matplotlib** for JDM legends, Top Speed rankings, and Price distributions.
 * **Smart Filtering:** Includes a custom "Affordable Supercar" engine that cross-references horsepower and budget constraints.
 <br>
 
@@ -32,7 +32,8 @@ I implemented several regression models to provide real-time estimates and futur
 │   ├── tcr_racing.csv                  # Touring Car Racing (TCR) analytics
 │   └── top10_fastest_car.csv           # High-performance for ranking
 ├── Project.py                          # Main ML & Logic Engine
-└── README.md                           # Documentation
+├── README.md                           # Documentation
+└── requirements.txt                    # libraries Install
 ```
 <br>
 
@@ -40,15 +41,23 @@ I implemented several regression models to provide real-time estimates and futur
 
 To enjoy the full interactive experience of **SPEED.AI**, please follow these setup steps:
 
+
 ### <code> Step 1:</code> Prerequisites
+Navigate to the Project Directory: Open your terminal and move into the project folder. If you renamed the folder after cloning, use your custom name:
+
+```bash
+cd Speed-AI-Terminal
+```
+
+
+### <code> Step 2:</code> Prerequisites
 Ensure you have **Python 3.x** installed. You can install all necessary dependencies at once using the provided requirements file:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### <code> Step 2:</code> Repository Setup
-Clone this repository to your local machine.
+### <code> Step 3:</code> Repository Setup
 Data Check: Ensure the CSV/ folder contains all required datasets:
 
 ```bash
@@ -59,7 +68,7 @@ tcr_racing.csv
 charging_range.csv
 ```
 
-### <code> Step 3:</code> Visual Optimization (Critical)
+### <code> Step 4:</code> Visual Optimization (Critical)
 
 To ensure the **ASCII Art** and the **Turbo Electro Menu** render in their full professional layout without breaking lines, please follow these display settings:
 
